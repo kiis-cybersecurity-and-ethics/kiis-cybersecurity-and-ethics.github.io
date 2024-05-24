@@ -13,7 +13,6 @@
 - introductions
 - What is cybersecurity?
 - What is ethics and how is it related to cybersecurity?
-- Reflecting on and sharing our entrepreneurial stories.
 - What is a security mindset?
 - What is a hacker mindset?
 - Watch [Cyber Security In 7 Minutes](https://youtu.be/inWWhr5tnEA?feature=shared)
