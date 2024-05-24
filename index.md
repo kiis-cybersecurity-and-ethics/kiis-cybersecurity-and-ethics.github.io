@@ -4,7 +4,7 @@
 
 ---
 
-## Day 1: May 24, 9:00-9:45 - Meeting on Third Floor
+## Day 1: May 24, 10:00-10:45 - Meeting on First Floor
 
 ### Day 1 Themes: Class Overview and the Cybersecurity Mindset
 
