@@ -27,7 +27,7 @@
 **Homework readings:**
 
 - Watch [Cybersecurity: Crash Course Computer Science #31](https://youtu.be/bPVaOlJ6ln0?feature=shared)
-- Watch [The Hacker Mindset | Tim Summers | TEDxRochester](https://youtu.be/NnZPRpNXQFw?feature=shared)
+- Watch [The Hacker Mindset](https://youtu.be/NnZPRpNXQFw?feature=shared)
 - Read chapter 1 in [Computer Systems Security: Planning for Success](https://open.umn.edu/opentextbooks/formats/3421?authuser=0)
 - Pick and choose some readings in [Cybersecurity: Comprehensive Analysis in Argentina (2024)](https://globalregulatoryinsights.com/insight/cybersecurity-comprehensive-analysis-in-argentina-2024/). Note that this is an extensive document - you are not expected to read it all. Instead, pick and choose sections that interest you.
 
