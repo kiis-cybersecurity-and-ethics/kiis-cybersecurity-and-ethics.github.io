@@ -34,11 +34,10 @@
 **Homework Reflections:**
 (Note that unless otherwise stated, all homework is due at 8 am on the day of the next class session.)
 
-1. What are the most important things you learned about cybersecurity from the readings/video? Explain.
-2. How have you  security mindset? Explain.
+1. What are the most important things you learned about cybersecurity from the readings/videos? Explain.
+2. Do you have a security mindset? Explain.
 3. As you travel around the city today. Take note of any open WiFi networks. Research and discuss the risks of using these networks (be sure to give references here). Discuss the benefits of using these networks. What would you recommend to someone who is considering using an open WiFi network?
 4. Over the weekend, be sure to go out and pay attention to the security of anything that is related to money. Discuss what you observed and how Argentines protect their money, especially anything that might be hackable.
-
 
 ### In addition to the normal stuff, be sure to pack all of the following in your carry-on bag (not your checked luggage.)
   - your laptop and charger
