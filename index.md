@@ -19,7 +19,7 @@
 - Watch [Cyber Security In 7 Minutes](https://youtu.be/inWWhr5tnEA?feature=shared)
 - course overview
   - [Google classroom site](https://classroom.google.com/c/NjI5OTgzMTIxNjY0?cjc=4h3w5cw) - to add yourself to the classroom
-  - [Course Syllabus](https://docs.google.com/document/d/1SaZ42o0V__0GRDOvuvTfyMOy2VouyYpE/edit?usp=drive_link&ouid=100810602293768157293&rtpof=true&sd=true)
+  - [Course Syllabus](https://docs.google.com/document/d/1RQQXr5bMYzmBOjtXHsAXmbZOZL8kW23T/edit?usp=sharing&ouid=103905169133625663429&rtpof=true&sd=true)
   - [Computer Systems Security: Planning for Success](https://open.umn.edu/opentextbooks/formats/3421?authuser=0)
 
 **Day 1: Field Work:**
