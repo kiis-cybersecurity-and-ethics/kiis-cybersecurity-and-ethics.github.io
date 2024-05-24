@@ -21,6 +21,7 @@
   - [Google classroom site](https://classroom.google.com/c/NjI5OTgzMTIxNjY0?cjc=4h3w5cw) - to add yourself to the classroom
   - [Course Syllabus](https://docs.google.com/document/d/1RQQXr5bMYzmBOjtXHsAXmbZOZL8kW23T/edit?usp=sharing&ouid=103905169133625663429&rtpof=true&sd=true)
   - [Computer Systems Security: Planning for Success](https://open.umn.edu/opentextbooks/formats/3421?authuser=0)
+  - [Cybersecurity Field Pad](https://docs.google.com/document/d/1ksL3aCUhUNl558yh35L-rxMJ6jfy8RfWvKK2CC7XlCY/edit?usp=sharing)
 
 **Day 1: Field Work:**
 
@@ -32,7 +33,7 @@
 - Pick and choose some readings in [Cybersecurity: Comprehensive Analysis in Argentina (2024)](https://globalregulatoryinsights.com/insight/cybersecurity-comprehensive-analysis-in-argentina-2024/). Note that this is an extensive document - you are not expected to read it all. Instead, pick and choose sections that interest you.
 
 **Homework Reflections:**
-(Note that unless otherwise stated, all homework is due at 8 am on the day of the next class session.)
+(Note that unless otherwise stated, all homework is due at 8 am on the day of the next class session.) Use the Cybersecurity Field Pad to record your reflections.
 
 1. What are the most important things you learned about cybersecurity from the readings/videos? Explain.
 2. Do you have a security mindset? Explain.
