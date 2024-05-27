@@ -4,6 +4,35 @@
 
 ---
 
+## Day 2: May 27, 10:45-12:00 - Meeting on First Floor
+
+### Day 2 Themes: Security in the City
+
+**Day 2 class:**
+
+- Soon, I will comment on your field pad entries.
+- Discussion of homework
+- Look-up: ciphers, cryptography, encryption, and hashes and paste definitions.
+  - **Prompt 2: Discuss why we need encryption and how it is needed in cybersecurity.**
+- What is Docker?
+- Install [Docker](https://docs.docker.com/get-docker/)
+- Begin Lab 2.11 in [Computer Systems Security: Planning for Success](https://open.umn.edu/opentextbooks/formats/3421?authuser=0)
+- Discuss homework
+
+**Day 2: Field Work:**
+
+**Homework readings:**
+
+- Watch [Cryptography: Crash Course Computer Science #33](https://youtu.be/jhXCTbFnK8o?feature=shared)
+- Read chapter 2 in [Computer Systems Security: Planning for Success](https://open.umn.edu/opentextbooks/formats/3421?authuser=0)
+- Read [Argentina’s Double-Down on Blockchain Could Spark Economic Revival](https://www.ccn.com/news/argentinas-double-down-on-blockchain-could-spark-economic-revival/)
+
+**Homework Reflections:**
+(Note that unless otherwise stated, all homework is due at 8 am on the day of the next class session.) Use the Cybersecurity Field Pad to record your reflections.
+
+1. What are the most important things you learned from the readings/videos? Explain.
+2. Discuss the interconnections between the given readings/video.
+
 ## Day 1: May 24, 10:00-10:45 - Meeting on First Floor
 
 ### Day 1 Themes: Class Overview and the Cybersecurity Mindset
