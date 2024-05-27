@@ -17,15 +17,16 @@
   - **Prompt 2: Discuss why we need encryption and how it is needed in cybersecurity.**
 - What is Docker?
 - Install [Docker](https://docs.docker.com/get-docker/)
-- Begin Lab 2.11 in [Computer Systems Security: Planning for Success](https://open.umn.edu/opentextbooks/formats/3421?authuser=0)
+- If on Windows, install [Windows Terminal](https://apps.microsoft.com/detail/9n0dx20hk701?hl=en-us&gl=AR)
 - Discuss homework
 
 **Day 2: Field Work:**
 
 **Homework readings:**
 
+- Finish the installations that were started in class.
 - Watch [Cryptography: Crash Course Computer Science #33](https://youtu.be/jhXCTbFnK8o?feature=shared)
-- Read chapter 2 in [Computer Systems Security: Planning for Success](https://open.umn.edu/opentextbooks/formats/3421?authuser=0)
+- Read chapter 2 (except for 2.11) in [Computer Systems Security: Planning for Success](https://open.umn.edu/opentextbooks/formats/3421?authuser=0)
 - Read [Argentina’s Double-Down on Blockchain Could Spark Economic Revival](https://www.ccn.com/news/argentinas-double-down-on-blockchain-could-spark-economic-revival/)
 
 **Homework Reflections:**
