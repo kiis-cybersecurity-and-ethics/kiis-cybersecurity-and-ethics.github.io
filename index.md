@@ -13,6 +13,7 @@
 - Soon, I will comment on your field pad entries.
 - Discussion of homework
 - Look-up: ciphers, cryptography, encryption, and hashes and paste definitions.
+  - **Prompt 1: Search and define these terms, with references.**
   - **Prompt 2: Discuss why we need encryption and how it is needed in cybersecurity.**
 - What is Docker?
 - Install [Docker](https://docs.docker.com/get-docker/)
