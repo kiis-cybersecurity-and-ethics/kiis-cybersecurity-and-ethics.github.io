@@ -4,6 +4,28 @@
 
 ---
 
+## Day 3: May 28, 10:45-12:00 - Meeting on First Floor
+
+### Day 3 Themes: Cryptography
+
+**Day 3 class:**
+
+- Discussion of homework
+- Work through Lab 2.11 in [Computer Systems Security: Planning for Success](https://open.umn.edu/opentextbooks/formats/3421?authuser=0)
+- If time permits, explore [Crypto Corner](https://crypto.interactive-maths.com/help-with-activities.html)
+
+**Day 3: Field Work:**
+
+**Homework readings:**
+
+- Read chapter 3, Malware in [Computer Systems Security: Planning for Success](https://open.umn.edu/opentextbooks/formats/3421?authuser=0)
+- [Netwalker ransomware hits Argentinian government, demands $4 million](https://www.bleepingcomputer.com/news/security/netwalker-ransomware-hits-argentinian-government-demands-4-million/)
+
+**Homework Reflections:**
+
+1. What are the most important things you learned from the readings? Explain.
+2. Discuss the interconnections between the given readings.
+
 ## Day 2: May 27, 10:45-12:00 - Meeting on First Floor
 
 ### Day 2 Themes: Security in the City
@@ -13,20 +35,18 @@
 - Soon, I will comment on your field pad entries.
 - Discussion of homework
 - Look-up: ciphers, cryptography, encryption, and hashes and paste definitions.
-  - **Prompt 1: Search and define these terms, with references.**
   - **Prompt 2: Discuss why we need encryption and how it is needed in cybersecurity.**
 - What is Docker?
 - Install [Docker](https://docs.docker.com/get-docker/)
-- If on Windows, install [Windows Terminal](https://apps.microsoft.com/detail/9n0dx20hk701?hl=en-us&gl=AR)
+- Begin Lab 2.11 in [Computer Systems Security: Planning for Success](https://open.umn.edu/opentextbooks/formats/3421?authuser=0)
 - Discuss homework
 
 **Day 2: Field Work:**
 
 **Homework readings:**
 
-- Finish the installations that were started in class.
 - Watch [Cryptography: Crash Course Computer Science #33](https://youtu.be/jhXCTbFnK8o?feature=shared)
-- Read chapter 2 (except for 2.11) in [Computer Systems Security: Planning for Success](https://open.umn.edu/opentextbooks/formats/3421?authuser=0)
+- Read chapter 2 in [Computer Systems Security: Planning for Success](https://open.umn.edu/opentextbooks/formats/3421?authuser=0)
 - Read [Argentina’s Double-Down on Blockchain Could Spark Economic Revival](https://www.ccn.com/news/argentinas-double-down-on-blockchain-could-spark-economic-revival/)
 
 **Homework Reflections:**
