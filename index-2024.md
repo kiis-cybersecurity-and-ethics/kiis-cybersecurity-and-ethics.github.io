@@ -4,6 +4,28 @@
 
 ---
 
+## Day 3: May 28, 10:45-12:00 - Meeting on First Floor
+
+### Day 3 Themes: Cryptography
+
+**Day 3 class:**
+
+- Discussion of homework
+- Work through Lab 2.11 in [Computer Systems Security: Planning for Success](https://open.umn.edu/opentextbooks/formats/3421?authuser=0)
+- If time permits, explore [Crypto Corner](https://crypto.interactive-maths.com/help-with-activities.html)
+
+**Day 3: Field Work:**
+
+**Homework readings:**
+
+- Read chapter 3, Malware in [Computer Systems Security: Planning for Success](https://open.umn.edu/opentextbooks/formats/3421?authuser=0)
+- [Netwalker ransomware hits Argentinian government, demands $4 million](https://www.bleepingcomputer.com/news/security/netwalker-ransomware-hits-argentinian-government-demands-4-million/)
+
+**Homework Reflections:**
+
+1. What are the most important things you learned from the readings? Explain.
+2. Discuss the interconnections between the given readings.
+
 ## Day 2: May 27, 10:45-12:00 - Meeting on First Floor
 
 ### Day 2 Themes: Security in the City
