@@ -11,8 +11,9 @@
 **Day 3 class:**
 
 - Discussion of homework
-- Work through Lab 2.11 in [Computer Systems Security: Planning for Success](https://open.umn.edu/opentextbooks/formats/3421?authuser=0)
-- If time permits, explore [Crypto Corner](https://crypto.interactive-maths.com/help-with-activities.html)
+- Discuss blockchain and why Argentina's president is promoting it.
+- Discuss how an algorithm can be easy to check, but hard to reverse, which is what you need for a good encryption algotrithm. Bigger versions of Sudoku were used as an example.
+- Explore [Crypto Corner](https://crypto.interactive-maths.com/help-with-activities.html)
 
 **Day 3: Field Work:**
 
