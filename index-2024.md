@@ -14,6 +14,7 @@
 - Watch and discuss [The Internet: Encryption & Public Keys](https://youtu.be/ZghMPWGXexs?feature=shared)
 - Explaining the command line and why people still use it
 - Complete [Lab 2.11. Lab: Hash it Out](https://web.njit.edu/~rt494/security/#_lab_hash_it_out) using your laptop or [Codespace for Lab 2.11. Lab: Hash it Out](https://github.com/pearcej/security-hash)
+- **Prompt 1: Reflect on the use of the command line and why it is still used.**
 - Overview of malware
 
 **Day 4: Field Work:**

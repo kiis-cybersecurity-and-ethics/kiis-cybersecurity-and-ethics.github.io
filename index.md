@@ -4,6 +4,32 @@
 
 ---
 
+## Day 4: May 30, 10:45-12:00 - First Floor
+
+### Day 4 Themes: Hands-on cryptography
+
+**Day 4 class:**
+
+- Discussion of homework
+- Watch and discuss [The Internet: Encryption & Public Keys](https://youtu.be/ZghMPWGXexs?feature=shared)
+- Explaining the command line and why people still use it
+- Complete [Lab 2.11. Lab: Hash it Out](https://web.njit.edu/~rt494/security/#_lab_hash_it_out) using your laptop or [Codespace for Lab 2.11. Lab: Hash it Out](https://github.com/pearcej/security-hash)
+- **Prompt 1: Reflect on the use of the command line and why it is still used.**
+- Overview of malware
+
+**Day 4: Field Work:**
+
+**Homework readings:**
+
+- [What Is Malware? Most Common Types, How They Work, & Easily Avoid Them](https://youtu.be/lXDllXbiHzA?feature=shared)
+- Read [Malware and Mysteries: Secret Surveillance in Argentina](https://www.eff.org/deeplinks/2016/11/state-surveillance-argentina)
+- Read [TikTok is “unacceptable security risk” and should be removed from app stores, says FCC](https://www.malwarebytes.com/blog/news/2022/07/tiktok-is-unacceptable-security-risk-and-should-be-removed-from-app-stores-says-fcc)
+
+**Homework Reflections:**
+
+1. What are the most important things you learned from the readings? Explain.
+2. Discuss how a government or a government-owned company might use malware to spy on its citizens and others. What are the ethical implications of this?
+
 ## Day 3: May 28, 10:45-12:00 - Meeting on First Floor
 
 ### Day 3 Themes: Cryptography
