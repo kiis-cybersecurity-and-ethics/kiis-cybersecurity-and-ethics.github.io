@@ -4,6 +4,34 @@
 
 ---
 
+## Day 5: May 31, 1:45-3:00 - First Floor
+
+### Day 5 Themes: Protocols
+
+**Day 5 class:**
+
+- Discuss homework
+- Complete  [Lab 2.11. Lab: Hash it Out](https://web.njit.edu/~rt494/security/#_lab_hash_it_out)[Codespace for Lab 2.11. Lab: Hash it Out](https://github.com/pearcej/security-hash)
+- Read [Let’s talk Emotet malware](https://www.malwarebytes.com/emotet)
+- Go to [Any Run](https://any.run/) and make a free account.
+- Watch [How to analyze Emotet with ANY.RUN](https://any.run/malware-trends/emotet)
+- Now try [3.7. Lab: Malware Analysis](https://web.njit.edu/~rt494/security/#_lab_malware_analysis) starting with clicking on public reports and search for the hash 0e106000b2ef3603477cb460f2fc1751. Then follow the directions in the text.
+
+**Day 5: Field Work:**
+
+**Homework readings:**
+
+- Watch [What are Network Protocols? Here's Why They're Important](https://youtu.be/znIjk-7ZuqI?feature=shared)
+- Read [What is HTTPS? HTTP vs HTTPS Meaning and How it Works](https://www.freecodecamp.org/news/what-is-https-http-vs-https-meaning-and-how-it-works/)
+- Read [IPv4 vs. IPv6: What Are the Differences?](https://www.howtogeek.com/901201/ipv4-vs-ipv6/)
+- Read [Chapter 4 Protocols](https://web.njit.edu/~rt494/security/#_protocols)
+
+**Homework Reflections:**
+
+- Summarize the key ideas from each of the readings.
+- Research Argentina's transition to IPv6 and summarize your findings in a one page essay with references.
+- Discuss the interconnections between the readings.
+
 ## Day 4: May 30, 10:45-12:00 - First Floor
 
 ### Day 4 Themes: Hands-on cryptography
