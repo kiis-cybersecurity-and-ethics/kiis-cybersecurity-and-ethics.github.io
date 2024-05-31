@@ -58,7 +58,7 @@
 1. What are the most important things you learned from the readings? Explain.
 2. Discuss how a government or a government-owned company might use malware to spy on its citizens and others. What are the ethical implications of this?
 
-## Day 3: May 28, 10:45-12:00 - Meeting on First Floor
+## Day 3: May 28, 10:45-12:00 - First Floor
 
 ### Day 3 Themes: Cryptography
 
@@ -81,7 +81,7 @@
 1. What are the most important things you learned from the readings? Explain.
 2. Discuss the interconnections between the given readings.
 
-## Day 2: May 27, 10:45-12:00 - Meeting on First Floor
+## Day 2: May 27, 10:45-12:00 - First Floor
 
 ### Day 2 Themes: Security in the City
 
@@ -110,7 +110,7 @@
 1. What are the most important things you learned from the readings/videos? Explain.
 2. Discuss the interconnections between the given readings/video.
 
-## Day 1: May 24, 10:00-10:45 - Meeting on First Floor
+## Day 1: May 24, 10:00-10:45 - First Floor
 
 ### Day 1 Themes: Class Overview and the Cybersecurity Mindset
 
