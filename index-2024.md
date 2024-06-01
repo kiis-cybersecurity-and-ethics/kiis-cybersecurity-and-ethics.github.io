@@ -11,7 +11,7 @@
 **Day 5 class:**
 
 - Discuss homework
-- Complete  [Lab 2.11. Lab: Hash it Out](https://web.njit.edu/~rt494/security/#_lab_hash_it_out)[Codespace for Lab 2.11. Lab: Hash it Out](https://github.com/pearcej/security-hash)
+- Complete  [Lab 2.11. Lab: Hash it Out](https://web.njit.edu/~rt494/security/#_lab_hash_it_out) using your fork of [Codespace for Lab 2.11. Lab: Hash it Out](https://github.com/pearcej/security-hash).
 - Read [Let’s talk Emotet malware](https://www.malwarebytes.com/emotet)
 - Go to [Any Run](https://any.run/) and make a free account.
 - Watch [How to analyze Emotet with ANY.RUN](https://any.run/malware-trends/emotet)
@@ -41,7 +41,7 @@
 - Discussion of homework
 - Watch and discuss [The Internet: Encryption & Public Keys](https://youtu.be/ZghMPWGXexs?feature=shared)
 - Explaining the command line and why people still use it
-- Complete [Lab 2.11. Lab: Hash it Out](https://web.njit.edu/~rt494/security/#_lab_hash_it_out) using your laptop or [Codespace for Lab 2.11. Lab: Hash it Out](https://github.com/pearcej/security-hash)
+- Complete [Lab 2.11. Lab: Hash it Out](https://web.njit.edu/~rt494/security/#_lab_hash_it_out) using your your folk of the[Github Codespace for Lab 2.11. Lab: Hash it Out](https://github.com/pearcej/security-hash).
 - **Prompt 1: Reflect on the use of the command line and why it is still used.**
 - Overview of malware
 
@@ -66,7 +66,7 @@
 
 - Discussion of homework
 - Discuss blockchain and why Argentina's president is promoting it.
-- Discuss how an algorithm can be easy to check, but hard to reverse, which is what you need for a good encryption algotrithm. Bigger versions of Sudoku were used as an example.
+- Discuss how an algorithm can be easy to check, but hard to reverse, which is what you need for a good encryption algorithm. Bigger versions of Sudoku were used as an example.
 - Explore [Crypto Corner](https://crypto.interactive-maths.com/help-with-activities.html)
 
 **Day 3: Field Work:**
@@ -91,8 +91,8 @@
 - Discussion of homework
 - Look-up: ciphers, cryptography, encryption, and hashes and paste definitions.
   - **Prompt 2: Discuss why we need encryption and how it is needed in cybersecurity.**
-- What is Docker?
-- Install [Docker](https://docs.docker.com/get-docker/)
+- Your texte mentions Docker. What is [Docker](https://docs.docker.com/get-docker/)?
+- Instead of using Docker, we will use Github Codespaces. God to [Codespace for Lab 2.11. Lab: Hash it Out](https://github.com/pearcej/security-hash), make a Github account, and fork the repository. Then follow the instructions in the README.md file.
 - Begin Lab 2.11 in [Computer Systems Security: Planning for Success](https://open.umn.edu/opentextbooks/formats/3421?authuser=0)
 - Discuss homework
 
