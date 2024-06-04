@@ -19,6 +19,7 @@
   - Argentina's transition to IPv6
   - Discuss the importance of secure protocols
 - **Prompt 2: Discuss the importance of secure protocols and why so many exploits have been found.**
+- What is [nmap](https://nmap.org/)
 - If time permits, begin [4.5. Lab: Scanning with nmap](https://web.njit.edu/~rt494/security/#_lab_scanning_with_nmap). Begin by forking [Codespace for Lab 4.5. Lab: Scanning with nmap](https://github.com/pearcej/security-nmap) to your Github account.
 - Debrief
 
