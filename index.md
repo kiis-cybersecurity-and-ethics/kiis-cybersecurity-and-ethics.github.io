@@ -13,6 +13,7 @@
 - Debrief on [How to analyze Emotet with ANY.RUN](https://any.run/malware-trends/emotet).
 - **Prompt 1: Discuss what you saw and what you learned in this lab.**
 - Discuss homework
+  - There were a lot of protocols in the chapter. Were any of these confusing? If so, which ones?
   - http vs https
   - IPv4 vs IPv6
   - Argentina's transition to IPv6

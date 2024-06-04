@@ -4,6 +4,36 @@
 
 ---
 
+## Day 6: June 4, 2:00-3:15 - First Floor
+
+### Day 6 Themes: Protocol exploitation
+
+**Day 6 class:**
+
+- Debrief on [How to analyze Emotet with ANY.RUN](https://any.run/malware-trends/emotet).
+- **Prompt 1: Discuss what you saw and what you learned in this lab.**
+- Discuss homework
+  - There were a lot of protocols in the chapter. Were any of these confusing? If so, which ones?
+  - http vs https
+  - IPv4 vs IPv6
+  - Argentina's transition to IPv6
+  - Discuss the importance of secure protocols
+- **Prompt 2: Discuss the importance of secure protocols and why so many exploits have been found.**
+- If time permits, begin [4.5. Lab: Scanning with nmap](https://web.njit.edu/~rt494/security/#_lab_scanning_with_nmap). Begin by forking [Codespace for Lab 4.5. Lab: Scanning with nmap](https://github.com/pearcej/security-nmap) to your Github account.
+- Debrief
+
+**Day 6: Field Work:**
+
+**Homework readings:**
+
+- Watch [Man in the Middle Attacks & Superfish - Computerphile](https://youtu.be/-enHfpHMBo4?feature=shared)
+- Read [Section 5.1 Interception Attacks and 5.2. Network Layer Attacks in Chapter 5: Attacks](https://web.njit.edu/~rt494/security/#_attacks]
+
+**Homework Reflections:**
+
+- Lightly research any of the ideas that you find confusing in the readings. Give URLs for any sources you use.
+- Summarize the key ideas from each of the readings, incorporating your research.
+
 ## Day 5: May 31, 1:45-3:00 - First Floor
 
 ### Day 5 Themes: Protocols
