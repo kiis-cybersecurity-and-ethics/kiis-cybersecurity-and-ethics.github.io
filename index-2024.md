@@ -27,7 +27,7 @@
 **Homework readings:**
 
 - Watch [Man in the Middle Attacks & Superfish - Computerphile](https://youtu.be/-enHfpHMBo4?feature=shared)
-- Read [Section 5.1 Interception Attacks and 5.2. Network Layer Attacks in Chapter 5: Attacks](https://web.njit.edu/~rt494/security/#_attacks]
+- Read [Section 5.1 Interception Attacks and 5.2. Network Layer Attacks in Chapter 5: Attacks](https://web.njit.edu/~rt494/security/#_attacks)
 
 **Homework Reflections:**
 
