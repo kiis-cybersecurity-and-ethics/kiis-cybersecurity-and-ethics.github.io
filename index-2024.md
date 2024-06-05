@@ -4,7 +4,52 @@
 
 ---
 
-## Day 6: June 4, 2:00-3:15 - First Floor
+## Day 8: June 6, 11:00-12:30 - First Floor
+
+### Day 8 Themes: More Attacks
+
+**Day 7 class:**
+
+- Discuss homework
+- Complete [4.5. Lab: Scanning with nmap](https://web.njit.edu/~rt494/security/#_lab_scanning_with_nmap). Return to your fork of [Codespace for Lab 4.5. Lab: Scanning with nmap](https://github.com/pearcej/security-nmap) to your Github account.
+- **Prompt 1: Discuss what you saw and what you learned in this lab.**
+- Read [Hacker Finds Instagram Account Takeover Flaw Worth $10,000](https://www.securityweek.com/hacker-finds-instagram-account-takeover-flaw-worth-10000/)
+- Go to [TryHack<Me](https://tryhackme.com/) and make an account. Then complete the [Intro to Networking](https://tryhackme.com/room/introtonetworking) room. Complete the [TryHackMe Tutorial](https://tryhackme.com/r/room/tutorial) and Task 1 on Web Application Security the [Learning Cyber Security Path](https://tryhackme.com/r/room/beginnerpathintro).
+- **Prompt 2: Discuss what you saw and what you learned in this lab.**
+
+**Day 8: Field Work:**
+
+**Homework readings:**
+
+**Homework Reflections:**
+
+## Day 7: June 5, 9:00-10:30 - First Floor
+
+### Day 7 Themes: In the Middle Attacks
+
+**Day 7 class:**
+
+- Discuss homework
+- Complete [4.5. Lab: Scanning with nmap](https://web.njit.edu/~rt494/security/#_lab_scanning_with_nmap). Return to your fork of [Codespace for Lab 4.5. Lab: Scanning with nmap](https://github.com/pearcej/security-nmap) to your Github account.
+- **Prompt 1: Discuss what you saw and what you learned in this lab.**
+- [Suspects accused of planting skimming devices at Lexington Kroger stores](https://www.wkyt.com/2024/03/08/suspects-accused-planting-skimming-devices-lexington-kroger-stores/)
+- Another kind of man-in-th -middle attack is physical. Read [Credit Card Skimmers and Shimmers: Everything You Need to Know to Stay Safe](https://www.pcmag.com/explainers/how-to-spot-and-avoid-credit-card-skimmers)
+- Read [Two Arrested for ATM Skimmers](https://www.lexingtonky.gov/news/03-08-2024/two-arrested-atm-skimmers)
+- **Prompt 2: Discuss the importance of having a security mindset.**
+- Begin [5.7. Lab: MitM with Scapy](https://web.njit.edu/~rt494/security/#_lab_mitm_with_scapy) by forking [Codespace for Lab 5.7. Lab: MitM with Scapy](https://github.com/pearcej/security-scapy) to your Github account.
+
+**Day 7: Field Work:**
+
+**Homework readings:**
+
+- Read the remainder of [Chapter 5: Attacks](https://web.njit.edu/~rt494/security/#_attacks)
+
+**Homework Reflections:**
+
+- Lightly research any of the ideas that you find confusing in the reading. Give URLs for any sources you use.
+- Summarize the key ideas from the reading, incorporating your research.
+
+## Day 6: June 4, 2:00-3:30 - First Floor
 
 ### Day 6 Themes: Protocol exploitation
 
@@ -20,7 +65,7 @@
   - Discuss the importance of secure protocols
 - **Prompt 2: Discuss the importance of secure protocols and why so many exploits have been found.**
 - What is [nmap](https://nmap.org/)
-- If time permits, begin [4.5. Lab: Scanning with nmap](https://web.njit.edu/~rt494/security/#_lab_scanning_with_nmap). Begin by forking [Codespace for Lab 4.5. Lab: Scanning with nmap](https://github.com/pearcej/security-nmap) to your Github account.
+- Begin [4.5. Lab: Scanning with nmap](https://web.njit.edu/~rt494/security/#_lab_scanning_with_nmap). Begin by forking [Codespace for Lab 4.5. Lab: Scanning with nmap](https://github.com/pearcej/security-nmap) to your Github account.
 - Debrief
 
 **Day 6: Field Work:**
