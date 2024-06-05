@@ -15,9 +15,7 @@
 - Another kind of man-in-the-middle attack is physical. Read [Credit Card Skimmers and Shimmers: Everything You Need to Know to Stay Safe](https://www.pcmag.com/explainers/how-to-spot-and-avoid-credit-card-skimmers)
 - Read [Two Arrested for ATM Skimmers](https://www.lexingtonky.gov/news/03-08-2024/two-arrested-atm-skimmers)
 - **Prompt 1: Discuss the importance of having a security mindset.**
-- Complete [4.5. Lab: Scanning with nmap](https://web.njit.edu/~rt494/security/#_lab_scanning_with_nmap). Return to your fork of [Codespace for Lab 4.5. Lab: Scanning with nmap](https://github.com/pearcej/security-nmap) to your Github account.
-- **Prompt 2: Discuss what you saw and what you learned in this lab.**
-- Begin [5.7. Lab: MitM with Scapy](https://web.njit.edu/~rt494/security/#_lab_mitm_with_scapy) by forking [Codespace for Lab 5.7. Lab: MitM with Scapy](https://github.com/pearcej/security-scapy) to your Github account.
+- Complete [5.7. Lab: MitM with Scapy](https://web.njit.edu/~rt494/security/#_lab_mitm_with_scapy) by forking [Codespace for Lab 5.7. Lab: MitM with Scapy](https://github.com/pearcej/security-scapy) to your Github account.
 
 **Day 7: Field Work:**
 

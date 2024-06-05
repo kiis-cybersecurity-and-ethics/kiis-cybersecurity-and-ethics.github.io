@@ -11,11 +11,11 @@
 **Day 7 class:**
 
 - Discuss homework
-- Complete [4.5. Lab: Scanning with nmap](https://web.njit.edu/~rt494/security/#_lab_scanning_with_nmap). Return to your fork of [Codespace for Lab 4.5. Lab: Scanning with nmap](https://github.com/pearcej/security-nmap) to your Github account.
-- **Prompt 1: Discuss what you saw and what you learned in this lab.**
 - Read [Hacker Finds Instagram Account Takeover Flaw Worth $10,000](https://www.securityweek.com/hacker-finds-instagram-account-takeover-flaw-worth-10000/)
-- Go to [TryHack<Me](https://tryhackme.com/) and make an account. Then complete the [Intro to Networking](https://tryhackme.com/room/introtonetworking) room. Complete the [TryHackMe Tutorial](https://tryhackme.com/r/room/tutorial) and Task 1 on Web Application Security the [Learning Cyber Security Path](https://tryhackme.com/r/room/beginnerpathintro).
-- **Prompt 2: Discuss what you saw and what you learned in this lab.**
+- Go to [TryHack<Me](https://tryhackme.com/) and make an account. Complete the [TryHackMe Tutorial](https://tryhackme.com/r/room/tutorial) and Task 1 on Web Application Security the [Learning Cyber Security Path](https://tryhackme.com/r/room/beginnerpathintro). 
+- Then complete the [Intro to Networking](https://tryhackme.com/room/introtonetworking) room.
+- Explore other rooms on TryHackMe.
+- **Prompt 2: Discuss your reaction to TryHackMe and how it might be of benefit.**
 
 **Day 8: Field Work:**
 
@@ -34,9 +34,7 @@
 - Another kind of man-in-the-middle attack is physical. Read [Credit Card Skimmers and Shimmers: Everything You Need to Know to Stay Safe](https://www.pcmag.com/explainers/how-to-spot-and-avoid-credit-card-skimmers)
 - Read [Two Arrested for ATM Skimmers](https://www.lexingtonky.gov/news/03-08-2024/two-arrested-atm-skimmers)
 - **Prompt 1: Discuss the importance of having a security mindset.**
-- Complete [4.5. Lab: Scanning with nmap](https://web.njit.edu/~rt494/security/#_lab_scanning_with_nmap). Return to your fork of [Codespace for Lab 4.5. Lab: Scanning with nmap](https://github.com/pearcej/security-nmap) to your Github account.
-- **Prompt 2: Discuss what you saw and what you learned in this lab.**
-- Begin [5.7. Lab: MitM with Scapy](https://web.njit.edu/~rt494/security/#_lab_mitm_with_scapy) by forking [Codespace for Lab 5.7. Lab: MitM with Scapy](https://github.com/pearcej/security-scapy) to your Github account.
+- Complete [5.7. Lab: MitM with Scapy](https://web.njit.edu/~rt494/security/#_lab_mitm_with_scapy) by forking [Codespace for Lab 5.7. Lab: MitM with Scapy](https://github.com/pearcej/security-scapy) to your Github account.
 
 **Day 7: Field Work:**
 
@@ -50,7 +48,6 @@
 - Lightly research any of the ideas that you find confusing in the reading. Give URLs for any sources you use.
 - Summarize the key ideas from the reading, incorporating your research.
 - Which of the attacks in this chapter do you find the most scary? Explain why.
-
 ## Day 6: June 4, 2:00-3:30 - First Floor
 
 ### Day 6 Themes: Protocol exploitation
