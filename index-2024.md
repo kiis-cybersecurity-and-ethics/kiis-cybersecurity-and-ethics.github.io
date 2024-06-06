@@ -41,13 +41,14 @@
 **Homework readings:**
 
 - Watch [Running a Buffer Overflow Attack - Computerphile](https://youtu.be/1S0aBV-Waeo?feature=shared)
-- Read the remainder of [Chapter 5: Attacks](https://web.njit.edu/~rt494/security/#_attacks)
+- Read 5.3 Internet Layer Attacks through 5.5.6. XML Injection from [Chapter 5: Attacks](https://web.njit.edu/~rt494/security/#_attacks)
 
 **Homework Reflections:**
 
 - Lightly research any of the ideas that you find confusing in the reading. Give URLs for any sources you use.
 - Summarize the key ideas from the reading, incorporating your research.
 - Which of the attacks in this chapter do you find the most scary? Explain why.
+
 ## Day 6: June 4, 2:00-3:30 - First Floor
 
 ### Day 6 Themes: Protocol exploitation

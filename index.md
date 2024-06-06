@@ -4,6 +4,25 @@
 
 ---
 
+## Day 8: June 6, 11:00-12:30 - First Floor
+
+### Day 8 Themes: More Attacks
+
+**Day 7 class:**
+
+- Discuss homework
+- Read [Hacker Finds Instagram Account Takeover Flaw Worth $10,000](https://www.securityweek.com/hacker-finds-instagram-account-takeover-flaw-worth-10000/)
+- Go to [TryHack<Me](https://tryhackme.com/) and make an account. Complete the [TryHackMe Tutorial](https://tryhackme.com/r/room/tutorial) and Task 1 on Web Application Security the [Learning Cyber Security Path](https://tryhackme.com/r/room/beginnerpathintro). 
+- Then complete the [Intro to Networking](https://tryhackme.com/room/introtonetworking) room.
+- Explore other rooms on TryHackMe.
+- **Prompt 2: Discuss your reaction to TryHackMe and how it might be of benefit.**
+
+**Day 8: Field Work:**
+
+**Homework readings:**
+
+**Homework Reflections:**
+
 ## Day 7: June 5, 9:00-10:30 - First Floor
 
 ### Day 7 Themes: In the Middle Attacks
@@ -22,7 +41,7 @@
 **Homework readings:**
 
 - Watch [Running a Buffer Overflow Attack - Computerphile](https://youtu.be/1S0aBV-Waeo?feature=shared)
-- Read the remainder of [Chapter 5: Attacks](https://web.njit.edu/~rt494/security/#_attacks)
+- Read 5.3 Internet Layer Attacks through 5.5.6. XML Injection from [Chapter 5: Attacks](https://web.njit.edu/~rt494/security/#_attacks)
 
 **Homework Reflections:**
 
