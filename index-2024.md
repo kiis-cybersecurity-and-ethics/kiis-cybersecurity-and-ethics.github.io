@@ -10,14 +10,14 @@
 
 **Day 8 class:**
 
-- Discuss homework and [5.7. Lab: MitM with Scapy](https://web.njit.edu/~rt494/security/#_lab_mitm_with_scapy)
 - Go to [TryHack<Me](https://tryhackme.com/) and make an account.
 - Discuss final project: Using TryHackMe as one of your tools, you will propose a cybersecurity exploit as a topic, then research and develop a detailed explanation in layman’s terms of a specific cybersecurity exploit and the ethical context of this exploit, research at least one real-world example of this exploit, complete a five-page structured report, and present this research to the class during our last two class meetings. You will be expected to reference only reputable articles, videos, and blog posts as your source materials.
 - Read [Hacker Finds Instagram Account Takeover Flaw Worth $10,000](https://www.securityweek.com/hacker-finds-instagram-account-takeover-flaw-worth-10000/)
-- Walkthrough of the [Intro to Networking](https://tryhackme.com/room/introtonetworking) room.
 - Complete the [TryHackMe Tutorial](https://tryhackme.com/r/room/tutorial) and Task 1 on Web Application Security the [Learning Cyber Security Path](https://tryhackme.com/r/room/beginnerpathintro).
+- If time permits, walkthrough of the [Intro to Networking](https://tryhackme.com/room/introtonetworking) room.
 - Explore other rooms on TryHackMe.
 - **Prompt 1: Discuss your reaction to TryHackMe and how it might be of benefit.**
+- If time permits, discuss homework and [5.7. Lab: MitM with Scapy](https://web.njit.edu/~rt494/security/#_lab_mitm_with_scapy)
 
 **Day 8: Field Work:**
 
