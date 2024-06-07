@@ -12,8 +12,9 @@
 
 - Discuss homework
 - Read [Hacker Finds Instagram Account Takeover Flaw Worth $10,000](https://www.securityweek.com/hacker-finds-instagram-account-takeover-flaw-worth-10000/)
-- Go to [TryHack<Me](https://tryhackme.com/) and make an account. Complete the [TryHackMe Tutorial](https://tryhackme.com/r/room/tutorial) and Task 1 on Web Application Security the [Learning Cyber Security Path](https://tryhackme.com/r/room/beginnerpathintro). 
-- Then complete the [Intro to Networking](https://tryhackme.com/room/introtonetworking) room.
+Go to [TryHack<Me](https://tryhackme.com/) and make an account. 
+- Walkthrough of the [Intro to Networking](https://tryhackme.com/room/introtonetworking) room.
+- Complete the [TryHackMe Tutorial](https://tryhackme.com/r/room/tutorial) and Task 1 on Web Application Security the [Learning Cyber Security Path](https://tryhackme.com/r/room/beginnerpathintro).
 - Explore other rooms on TryHackMe.
 - **Prompt 2: Discuss your reaction to TryHackMe and how it might be of benefit.**
 
@@ -47,7 +48,7 @@
 
 - Lightly research any of the ideas that you find confusing in the reading. Give URLs for any sources you use.
 - Summarize the key ideas from the reading, incorporating your research.
-- Which of the attacks in this chapter do you find the most scary? Explain why.
+- Which of the attacks in this reading assignment do you find the most scary? Explain why.
 
 ## Day 6: June 4, 2:00-3:30 - First Floor
 
