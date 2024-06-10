@@ -4,20 +4,40 @@
 
 ---
 
+## Day 9: June 10, 10:45-12:00 - First Floor
+
+### Day 9 Theme: TryHackMe and Final Project
+
+**Day 9 class:**
+
+- Reporting out on the TryHackMe homework and what you might like to focus on for your project.
+- Discuss [5.7. Lab: MitM with Scapy](https://web.njit.edu/~rt494/security/#_lab_mitm_with_scapy)
+- Overview of the final project structure
+
+**Day 9: Field Work:**
+
+**Homework readings:**
+
+- Spend at least 30 minutes in TryHackMe before our next meeting, focusing on what most interests you in terms of using it in your final project.
+
+**Homework Reflections:**
+
+- Propose a specific topic for your final project, explaining why this is of interest to you.
+
+
 ## Day 8: June 7, 9:45-10:45 - First Floor
 
 ### Day 8 Themes: More Attacks
 
 **Day 8 class:**
 
-- Go to [TryHack<Me](https://tryhackme.com/) and make an account.
+- Go to [TryHackMe](https://tryhackme.com/) and make an account.
 - Discuss final project: Using TryHackMe as one of your tools, you will propose a cybersecurity exploit as a topic, then research and develop a detailed explanation in layman’s terms of a specific cybersecurity exploit and the ethical context of this exploit, research at least one real-world example of this exploit, complete a five-page structured report, and present this research to the class during our last two class meetings. You will be expected to reference only reputable articles, videos, and blog posts as your source materials.
 - Read [Hacker Finds Instagram Account Takeover Flaw Worth $10,000](https://www.securityweek.com/hacker-finds-instagram-account-takeover-flaw-worth-10000/)
 - Complete the [TryHackMe Tutorial](https://tryhackme.com/r/room/tutorial) and Task 1 on Web Application Security the [Learning Cyber Security Path](https://tryhackme.com/r/room/beginnerpathintro).
 - If time permits, walkthrough of the [Intro to Networking](https://tryhackme.com/room/introtonetworking) room.
 - Explore other rooms on TryHackMe.
 - **Prompt 1: Discuss your reaction to TryHackMe and how it might be of benefit.**
-- If time permits, discuss homework and [5.7. Lab: MitM with Scapy](https://web.njit.edu/~rt494/security/#_lab_mitm_with_scapy)
 
 **Day 8: Field Work:**
 
@@ -29,7 +49,7 @@
 
 **Homework Reflections:**
 
--
+- Reflect on what you are most interested in exploring in your final project.
 
 ## Day 7: June 5, 9:00-10:30 - First Floor
 
