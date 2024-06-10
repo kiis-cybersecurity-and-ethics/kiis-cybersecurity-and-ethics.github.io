@@ -14,27 +14,27 @@
 - Discuss [5.7. Lab: MitM with Scapy](https://web.njit.edu/~rt494/security/#_lab_mitm_with_scapy)
 - Overview of the final project structure
 
-1. Title and Introduction
+**Title and Introduction**
 
 - Project Background: Briefly describe the significance and prevalence of this cybersecurity threat.
 
-2. Understanding the Attack
+**Understanding the Attack**
 
 - Attack Description: Concisely explain the nature of the specific cyber attack.
 - Attack Vector: Describe how the attack is typically executed.
 - Real-world Examples: Briefly mention notable incidents involving this attack.
 
-3. Methodology
+**Methodology**
 
 - Tools: List key tools (e.g., Nmap, Wireshark, etc.) and techniques used to simulate and analyze the attack.
 - Assessment Framework: Mention the protocol exploited (e.g., NIST, OWASP).
 
-4. Mitigation Strategies
+**Mitigation Strategies**
 
 - Defense Mechanisms: Propose specific actions to mitigate the vulnerabilities exploited by the attack. Suggest additional security measures (e.g., firewalls, intrusion detection systems).
 - Policy Recommendations: Recommend essential policies and best practices to prevent future attacks.
 
-5. Conclusion
+**Conclusion**
 
 - Summarize key findings and their implications.
 
