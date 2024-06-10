@@ -38,7 +38,7 @@
 
 - Summarize key findings and their implications.
 
-6. References
+**References**
 - List key sources in a standard citation format.
 - Note that you must use TryHackme as some of your references, and you should detail the rooms that you used.
 
