@@ -10,9 +10,9 @@
 
 **Day 9 class:**
 
-- **Prompt 0: Reflect on which cybersecurity topics are of the most interest to you.**
+- **Prompt 0: Reflect on which cybersecurity topics are of the most interest to you. Explain.**
 - Reporting out on the TryHackMe homework and what you might like to focus on for your project.
-- **Prompt 1: Discuss other people's ideas for a project. List three projects that interest you (besides your own. Explain why they are of interest.**
+- **Prompt 1: Discuss other people's ideas for a project. List three projects that interest you (besides your own). Explain why they are of interest.**
 - **Prompt 2: Re-read [5.7. Lab: MitM with Scapy](https://web.njit.edu/~rt494/security/#_lab_mitm_with_scapy) and explain the cyber attack in layman's terms.**
 - Discuss [5.7. Lab: MitM with Scapy](https://web.njit.edu/~rt494/security/#_lab_mitm_with_scapy)
 - Overview of the final project structure
