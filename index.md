@@ -6,7 +6,9 @@
 
 ## Final Deliverables
 
-### Final report (1 cover page plus, 3-4 pages single spaced with headers and sub-headers, in inch margins and 12 pt font). This should be written formally.
+### Final report
+
+- 1 cover page plus 3-4 pages single spaced with section headers, 1-inch margins and 12-point font. This should be written formally.
 
 #### Cover Page
 
