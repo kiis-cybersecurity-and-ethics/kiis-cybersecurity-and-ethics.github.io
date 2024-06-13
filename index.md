@@ -6,14 +6,6 @@
 
 ## Final Deliverables
 
-### Final report## KIIS Cybersecurity and Ethics
-### Dr. Jan Pearce
-#### Summer 2024 Offering
-
----
-
-## Final Deliverables
-
 ### Final report - Due 8 am on Tuesday, June 18, 2024
 
 - 1 cover page plus 3-4 pages single spaced with section headers, 1-inch margins and 12-point font. This should be written formally.
@@ -140,6 +132,9 @@ Recommendations
 - Read [Four ‘crypto-hacker’ gang members arrested in Argentina after US$800,000 theft](https://www.batimes.com.ar/news/argentina/four-crypto-hacker-gang-members-arrested-in-argentina-after-us800000-theft.phtml)
 - **Prompt 2: Argentine President Milei has publicly praised Bitcoin and publicly criticized the Central Bank. We have learned how blockchain works. Discuss your thoughts on cryptocurrencies.**
 - Discussion
+- Read - Read [Visual Presentation: Tips, Types and Examples](https://venngage.com/blog/visual-presentation/)
+- Watch [HOW TO Give a Great Presentation - 7 Presentation Skills and Tips to Leave an Impression](https://youtu.be/MnIPpUiTcRc?feature=shared)
+- Discuss the presentation - remember that the slides are due on Monday.
 - Project time
 
 **Day 11: Field Work:**
