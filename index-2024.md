@@ -6,7 +6,7 @@
 
 ## Final Deliverables
 
-### Final report
+### Final report - Due 8 am on Tuesday, June 18, 2024
 
 - 1 cover page plus 3-4 pages single spaced with section headers, 1-inch margins and 12-point font. This should be written formally.
 
@@ -52,8 +52,9 @@
 - Be sure to use a spelling-checker.
 - It is fine to use AI to help with grammar, just be sure to cite it if you use it.
 
-### Final Presentation: Now 7-8 minutes presenting.
+### Final Presentation - Slides due Monday, June 17, 2024
 
+- Now 7-8 minutes presenting.
 - This can be delivered with more personality than the report.
 - Below are some ideas for organization. This organizational structure is not required - it is just here to be helpful.
 - Note that you will submit your slides
@@ -116,8 +117,30 @@ Recommendations
 
 ---
 
+## Day 11: June 13, 11:15-1:00 - First Floor
+
+### Day 11 Theme: Argentina, AI, and Cybersecurity
+
+**Day 11 class:**
+
+- Discuss Final Project progress
+- Read [Three Questions Every Leader Needs To Ask About AI Cybersecurity](https://www.forbes.com/sites/forbestechcouncil/2024/05/22/three-questions-every-leader-needs-to-ask-about-ai-cybersecurity/)
+- [Can AI Images Win Elections? Milei’s Victory Raises Generative AI Questions](https://www.msn.com/en-us/news/technology/can-ai-images-win-elections-milei-s-victory-raises-generative-ai-questions/ar-AA1kkipj)
+- Read [Javier Milei pitches Argentina as low-regulation AI hub](https://www.ft.com/content/90090232-7a68-4ef5-9f53-27a6bc1260cc)
+- **Prompt 1: Discuss the benefits and risks of AI to Argentina.**
+- Read [Cybersecurity Trends in Crypto: Emerging Threats and Future Solutions](https://zenledger.io/blog/cybersecurity-trends-in-crypto-emerging-threats-and-future-solutions/)
+- Read [Four ‘crypto-hacker’ gang members arrested in Argentina after US$800,000 theft](https://www.batimes.com.ar/news/argentina/four-crypto-hacker-gang-members-arrested-in-argentina-after-us800000-theft.phtml)
+- **Prompt 2: Argentine President Milei has publicly praised Bitcoin and publicly criticized the Central Bank. We have learned how blockchain works. Discuss your thoughts on cryptocurrencies.**
+- Discussion
+- Project time
+
+**Day 11: Field Work:**
+
+- Work on your final deliverables.
+
 ## Day 10: June 12, 10:45-12:00 - First Floor
 
+-
 ### Day 10 Theme: Recent Breaches and Final Deliverables
 
 **Day 10 class:**
