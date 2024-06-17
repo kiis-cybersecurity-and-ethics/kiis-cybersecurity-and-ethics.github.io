@@ -54,7 +54,7 @@
 
 ### Final Presentation - Slides due Monday, June 17, 2024
 
-- Now 7-8 minutes presenting.
+- 7-8 minutes presenting followed by 5 minutes of questions.
 - This can be delivered with more personality than the report.
 - Below are some ideas for organization. This organizational structure is not required - it is just here to be helpful.
 - Note that you will submit your slides
@@ -117,6 +117,21 @@ Recommendations
 
 ---
 
+## Day 12: June 17, 11:15-1:00 - First Floor
+
+### Day 12 Theme: Polishing and Presenting
+
+**Day 12 class:**
+
+- Discuss Final Project progress
+- Work with a partner on your presentation. You will have 12 minutes to practice and discuss each presentation.
+- **Prompt 1: Discuss what you learned via practice.**
+- Presentations by Alberto, Alex, David, Jerneisha, and Sara
+
+**Day 12: Field Work:**
+
+- Complete and submit your final report.
+
 ## Day 11: June 13, 11:15-1:00 - First Floor
 
 ### Day 11 Theme: Argentina, AI, and Cybersecurity
@@ -139,7 +154,7 @@ Recommendations
 
 **Day 11: Field Work:**
 
-- Work on your final deliverables.
+- Work on your final deliverables. Complete and submit your slides by 8 am on Monday.
 
 ## Day 10: June 12, 10:45-12:00 - First Floor
 
