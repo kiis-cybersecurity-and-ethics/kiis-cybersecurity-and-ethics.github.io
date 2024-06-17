@@ -895,7 +895,7 @@ Recommendations
 
 #### References
 
-- List key sources in a standard citation format.
+- List key sources in a standard academic citation format like APA or MLA. Note that this is academic writing, so in-text citations are required.
 - Note that you must use TryHackme a references, and you should detail each room that you used.
 
 ##### Report Tips
