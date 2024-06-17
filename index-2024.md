@@ -58,6 +58,7 @@
 - This can be delivered with more personality than the report.
 - Below are some ideas for organization. This organizational structure is not required - it is just here to be helpful.
 - Note that you will submit your slides
+- Note that for your presentation, the following is helpful [1 screen in Meet on Windows: you see notes in Presenter View; audience sees full screen slides](https://youtu.be/f5CnGm3WizM?feature=shared). I recommend watching this.
 
 #### Title Slide (30 seconds)
 
@@ -155,6 +156,7 @@ Recommendations
 **Day 11: Field Work:**
 
 - Work on your final deliverables. Complete and submit your slides by 8 am on Monday.
+- Note that for your presentation, the following is helpful [1 screen in Meet on Windows: you see notes in Presenter View; audience sees full screen slides](https://youtu.be/f5CnGm3WizM?feature=shared). I recommend watching this.
 
 ## Day 10: June 12, 10:45-12:00 - First Floor
 
