@@ -118,6 +118,21 @@ Recommendations
 
 ---
 
+## Day 13: June 17, 11:15-1:00 - First Floor
+
+### Day 13 Theme: The Final Final Presentations
+
+**Day 13 class:**
+
+- Six Final Presentations
+- **Prompt 1: Identify the presentation that you found most interesting. Explain why you found it so interesting.**
+- **Prompt 2: Discuss the class overall and what you learned most from.**
+
+**Day 13: Field Work:**
+
+- No homework! Thanks for a great class.
+- Safe travels home
+
 ## Day 12: June 17, 11:15-1:00 - First Floor
 
 ### Day 12 Theme: Polishing and Presenting
