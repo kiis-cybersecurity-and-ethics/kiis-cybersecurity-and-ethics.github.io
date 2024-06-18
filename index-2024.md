@@ -126,7 +126,9 @@ Recommendations
 
 - Six Final Presentations
 - **Prompt 1: Identify the presentation that you found most interesting. Explain why you found it so interesting.**
-- **Prompt 2: Discuss the class overall and what you learned most from.**
+- No prompt 2 today, but be sure to discuss your thoughts about the course as a whole in the Final Course Reflection box.
+- **Final Course Reflection: Discuss your thoughts about the course as a whole.**
+- Discussion
 
 **Day 13: Field Work:**
 

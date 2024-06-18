@@ -96,7 +96,7 @@
 - Defense Mechanisms: Propose specific actions to mitigate the vulnerabilities exploited by the attack. Suggest additional security measures (e.g., firewalls, intrusion detection systems).
 - Policy Recommendations: Recommend essential policies and best practices to prevent future attacks.
 - Effectiveness: Briefly evaluate the effectiveness of these measures.
-Recommendations 
+Recommendations
 - Future Outlook: Briefly discuss the future outlook. How might this issue evolve, and what can be done to prepare?
 
 #### Conclusion (30 seconds)
@@ -125,12 +125,14 @@ Recommendations
 **Day 13 class:**
 
 - Six Final Presentations
-- **Prompt 1: Identify the presentation that you found most interesting. Explain why you found it so interesting.**
-- **Prompt 2: Discuss the class overall and what you learned most from.**
+- **Prompt 1: Identify the presentation that you found the most interesting. Explain why you found it so interesting.**
+- No prompt 2 today, but be sure to discuss your thoughts about the course as a whole in the Final Course Reflection box.
+- **Final Course Reflection: Discuss your thoughts about the course as a whole.**
+- Discussion*
 
 **Day 13: Field Work:**
 
-- No homework! Thanks for a great class.
+- No more homework! Thanks for a great class.
 - Safe travels home
 
 ## Day 12: June 17, 11:15-1:00 - First Floor
