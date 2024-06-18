@@ -118,7 +118,7 @@ Recommendations
 
 ---
 
-## Day 13: June 17, 11:15-1:00 - First Floor
+## Day 13: June 17, 11:15-1:00 - Second Floor
 
 ### Day 13 Theme: The Final Final Presentations
 
@@ -135,7 +135,7 @@ Recommendations
 - No homework! Thanks for a great class.
 - Safe travels home
 
-## Day 12: June 17, 11:15-1:00 - First Floor
+## Day 12: June 17, 11:15-1:00 - Second Floor
 
 ### Day 12 Theme: Polishing and Presenting
 
