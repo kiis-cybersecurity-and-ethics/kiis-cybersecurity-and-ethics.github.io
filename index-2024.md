@@ -1,6 +1,6 @@
 ## KIIS Cybersecurity and Ethics
 ### Dr. Jan Pearce
-#### Summer 2024 Offering
+#### Summer 2024 Offering in Argentina
 
 ---
 
