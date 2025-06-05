@@ -38,9 +38,6 @@
 - Watch [How China Is Building an Army of Hackers](https://youtu.be/8kpnSb4yGR0?feature=shared)
   - **Prompt 3**: The video describes how the Tianfu Cup competition feeds vulnerabilities directly to Chinese intelligence services, which were then used to spy on Uyghur populations. Analyze the ethical implications of state-sponsored hacking competitions and discuss how democratic nations like Taiwan and the US should balance cybersecurity research with human rights concerns.
 
-- If time permits, watch [Cybersecurity: Crash Course Computer Science #31](https://youtu.be/bPVaOlJ6ln0?feature=shared), which is a bit older and then read [Should You Use Passkeys Instead of Passwords?](https://www.consumerreports.org/electronics/digital-security/should-you-use-passkeys-instead-of-passwords-a1201817243/)
-  - If time permits, **Prompt 4**: Given Taiwan's position as a primary target for cyber attacks, brainstorm different sandboxing strategies for Taiwanese government workstations. How might you implement isolation principles to prevent a compromised email attachment from affecting critical infrastructure systems?
-
 - **Post-class reflection**: *Remember that the Post-class reflection should be a summary reflection on the course material learned that day. It should be formally written with yourself, your classmates and your professor as the audience.* Reflect on the day's activities and discussions in your fieldpad. What did you learn about cybersecurity and ethics and how do these concepts apply to Taiwan's unique context?
 
 #### Day 1: Homework readings
