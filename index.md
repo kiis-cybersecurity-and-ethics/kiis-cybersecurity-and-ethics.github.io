@@ -4,6 +4,40 @@
 
 ---
 
+## Day 2: June 6 2025 13:30-15:30 in J317
+
+### Day 2 Themes: Cryptography, Encryption, and Hashing
+
+#### Day 2 class
+
+- I will try to give feedback on your Fieldpad entries by Monday.
+- Discuss homework Day 1
+- Peer Instruction: [Chapter 1 Questions](https://runestone.academy/runestone/peer/peer_question?assignment_id=222666)
+- Work with your partner(s) to do [Lab 1.7 Think Like a Hacker](https://runestone.academy/ns/books/published/KIIS_security_2025/lab-think-like-a-hacker.html)
+
+#### Day 2: Field Work
+
+- Watch the following video with skepticism: [Expert Q&A: DOGE May Be a Cybersecurity Nightmare](https://www.thecipherbrief.com/column_article/expert-qa-doge-may-be-a-cybersecurity-nightmare)
+  - **Prompt 1**: What did you agree with in the video? What did you disagree with? What surprised you? What made you question? Explain.
+
+- Watch [Cybersecurity: Crash Course Computer Science #31](https://youtu.be/bPVaOlJ6ln0?feature=shared)
+  - **Prompt 2**: As you watch the video, jot down new terminology such as access models that are mentioned so you can look them up afterwards. Which of these models did you look up? What did you learn about them?
+
+- Read [Should You Use Passkeys Instead of Passwords?](https://www.consumerreports.org/electronics/digital-security/should-you-use-passkeys-instead-of-passwords-a1201817243/)
+  - **Prompt 3**: Discuss what Consumer Reports sees as the pros and cons of using passkeys instead of passwords, and add your own thoughts on this topic. 
+
+- Watch [Cryptography: Crash Course Computer Science #33](https://youtu.be/jhXCTbFnK8o?feature=shared)
+  - **Prompt 4**: As you watch the video, jot down terminology so you can look it up afterwards.
+
+#### Day 2: Homework readings
+
+1. Read [Textbook Reading: Sections 2.1-2.10](https://runestone.academy/assignment/student/doAssignment?assignment_id=222667)
+2. In your Fieldpad, identify and briefly summarize main ideas from these sections, and then react and reflect on these main ideas (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way.) Note that if you use AI to summarize, etc., you must link to the chat as described in the syllabus. Remember  not use AI to write your reflections, as this is a personal reflection on your learning and reactions.
+
+- Note: You may be quizzed on these textbook readings at the beginning of the next class.
+
+---
+
 ## Day 1: June 5 2025 13:30-15:30 in J604
 
 ### Day 1 Themes: Class Overview: Cybersecurity in Taiwan
