@@ -1203,8 +1203,8 @@ Recommendations
 - Discussion of homework
 - Look-up: ciphers, cryptography, encryption, and hashes and paste definitions.
   - **Prompt 2: Discuss why we need encryption and how it is needed in cybersecurity.**
-- Your texte mentions Docker. What is [Docker](https://docs.docker.com/get-docker/)?
-- Instead of using Docker, we will use Github Codespaces. God to [Codespace for Lab 2.11. Lab: Hash it Out](https://github.com/pearcej/security-hash), make a Github account, and fork the repository. Then follow the instructions in the README.md file.
+- Your text mentions Docker. What is [Docker](https://docs.docker.com/get-docker/)?
+- Instead of using Docker, we will use Github Codespaces. Go to [Codespace for Lab 2.11. Lab: Hash it Out](https://github.com/pearcej/security-hash), make a Github account, and fork the repository. Then follow the instructions in the README.md file.
 - Begin Lab 2.11 in [Computer Systems Security: Planning for Success](https://open.umn.edu/opentextbooks/formats/3421?authuser=0)
 - Discuss homework
 
