@@ -35,7 +35,7 @@
 
 1. Read [Textbook Reading: Sections 2.1-2.10](https://runestone.academy/assignment/student/doAssignment?assignment_id=222667)
 2. In your Fieldpad, identify and briefly summarize main ideas from these sections, and then react and reflect on these main ideas (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way.) Note that if you use AI to summarize, etc., you must link to the chat as described in the syllabus. Remember  not use AI to write your reflections, as this is a personal reflection on your learning and reactions.
-3. Use your voucher [tryhackme](https://tryhackme.com/dashboard). Spend at least 30 minutes exploring in [tryhackme](https://tryhackme.com/dashboard) with the purpose of finding content that interests you that you might like to focus on for a project. In your Fieldpad report what you found interesting.
+3. Use your voucher for [tryhackme](https://tryhackme.com/dashboard) premium. Then spend at least 30 minutes exploring in [tryhackme](https://tryhackme.com/dashboard) with the purpose of finding content that interests you that you might like to focus on for a project. In your Fieldpad report what you found interesting.
 
 - Note: You may be quizzed on these textbook readings at the beginning of the next class.
 
