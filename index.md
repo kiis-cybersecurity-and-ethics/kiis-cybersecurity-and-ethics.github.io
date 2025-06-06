@@ -13,21 +13,23 @@
 - I will try to give feedback on your Fieldpad entries by Monday.
 - Discuss homework Day 1
 - Peer Instruction: [Chapter 1 Questions](https://runestone.academy/runestone/peer/peer_question?assignment_id=222666)
-- Work with your partner(s) to do [Lab 1.7 Think Like a Hacker](https://runestone.academy/ns/books/published/KIIS_security_2025/lab-think-like-a-hacker.html)
 
 #### Day 2: Field Work
 
+- Work with your partner(s) to do [Lab 1.7 Think Like a Hacker](https://runestone.academy/ns/books/published/KIIS_security_2025/lab-think-like-a-hacker.html)
+  - **Prompt 1**: Write your five free breakfast hacks in your fieldpad
+
 - Watch the following video with skepticism: [Expert Q&A: DOGE May Be a Cybersecurity Nightmare](https://www.thecipherbrief.com/column_article/expert-qa-doge-may-be-a-cybersecurity-nightmare)
-  - **Prompt 1**: What did you agree with in the video? What did you disagree with? What surprised you? What made you question? Explain.
+  - **Prompt 2**: What did you agree with in the video? What did you disagree with? What surprised you? What made you question? Explain.
 
 - Watch [Cybersecurity: Crash Course Computer Science #31](https://youtu.be/bPVaOlJ6ln0?feature=shared)
-  - **Prompt 2**: As you watch the video, jot down new terminology such as access models that are mentioned so you can look them up afterwards. Which of these models did you look up? What did you learn about them?
+  - **Prompt 3**: As you watch the video, jot down new terminology such as access models that are mentioned so you can look them up afterwards. Which of these models did you look up? What did you learn about them?
 
 - Read [Should You Use Passkeys Instead of Passwords?](https://www.consumerreports.org/electronics/digital-security/should-you-use-passkeys-instead-of-passwords-a1201817243/)
-  - **Prompt 3**: Discuss what Consumer Reports sees as the pros and cons of using passkeys instead of passwords, and add your own thoughts on this topic. 
+  - **Prompt 4**: Discuss what Consumer Reports sees as the pros and cons of using passkeys instead of passwords, and add your own thoughts on this topic. 
 
 - Watch [Cryptography: Crash Course Computer Science #33](https://youtu.be/jhXCTbFnK8o?feature=shared)
-  - **Prompt 4**: As you watch the video, jot down terminology so you can look it up afterwards.
+  - **Prompt 5**: As you watch the video, jot down terminology so you can look it up afterwards.
 
 #### Day 2: Homework readings
 
