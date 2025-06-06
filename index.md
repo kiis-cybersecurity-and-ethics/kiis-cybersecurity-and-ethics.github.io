@@ -4,7 +4,25 @@
 
 ---
 
-## Day 2: June 6 2025 13:30-15:30 in J317
+## Day 3: June 9, 2025 13:30-15:30 in ??
+
+### Day 3 Themes: Digging into Cryptography
+
+#### Day 3 class
+
+
+
+#### Day 3: Field Work
+
+- Your text mentions Docker. What is [Docker](https://docs.docker.com/get-docker/)?
+
+
+#### Day 3: Homework readings
+
+
+---
+
+## Day 2: June 6, 2025 13:30-15:30 in J317
 
 ### Day 2 Themes: Cryptography, Encryption, and Hashing
 
@@ -41,7 +59,7 @@
 
 ---
 
-## Day 1: June 5 2025 13:30-15:30 in J604
+## Day 1: June 5, 2025 13:30-15:30 in J604
 
 ### Day 1 Themes: Class Overview: Cybersecurity in Taiwan
 
