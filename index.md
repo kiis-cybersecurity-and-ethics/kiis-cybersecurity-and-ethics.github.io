@@ -31,6 +31,9 @@
 - Watch [Cryptography: Crash Course Computer Science #33](https://youtu.be/jhXCTbFnK8o?feature=shared)
   - **Prompt 5**: As you watch the video, jot down terminology so you can look it up afterwards.
 
+- **Post-class reflection**: *Remember that the Post-class reflection should be a summary reflection on the course material learned that day. It should be formally written with yourself, your classmates and your professor as the audience.* Reflect on the day's activities and discussions in your fieldpad. What did you learn about cybersecurity and ethics and how do these concepts apply to Taiwan's unique context?
+
+
 #### Day 2: Homework readings
 
 1. Read [Textbook Reading: Sections 2.1-2.10](https://runestone.academy/assignment/student/doAssignment?assignment_id=222667)
