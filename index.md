@@ -4,13 +4,13 @@
 
 ---
 
-## Day 3: June 9, 2025 13:30-15:30 in J419 (in this building)
+## Day 3: June 9, 2025 13:30-15:30 in ~~J419~~ J506
 
 ### Day 3 Themes: Digging into Cryptography
 
 #### Day 3 class
 
-- Discuss homework, tryhackme, and final project
+- Discuss homework, Tryhackme, and final project
 - Peer Instruction: [Chapter 2 Questions](https://runestone.academy/runestone/peer/peer_question?assignment_id=222681)
 - Discuss how an algorithm can be easy to check, but hard to reverse, which is what you need for a good encryption algorithm. Bigger versions of Sudoku were used as an example.
 
@@ -21,14 +21,13 @@
 
 - Your text mentions Docker.
   - **Prompt 2:** Very briefly, what is [Docker](https://docs.docker.com/get-docker/)?
-- Your text mentions Github CodeSpaces.
 
+- Your text mentions Github CodeSpaces.
   - **Prompt 3:** Very briefly, what are [GitHub Codespaces](https://docs.github.com/en/codespaces/about-codespaces/what-are-codespaces)?
 
 - Go to [2.11 Lab Hash It Out](https://runestone.academy/ns/books/published/KIIS_security_2025/lab-hash-it-out.html) and work with your partner(s) to complete the lab.
   - **Prompt 4:** What did you learn about hashing in this lab?
 
-- If time permits, read [Blockchain Facts: What Is It, How It Works, and How It Can Be Used](https://www.investopedia.com/terms/b/blockchain.asp) and [](Taiwan-Based Exchange BitoPro Suffers $11.5 Million Hack, User Funds Unaffected)
 - If time permits, read [Blockchain Facts: What Is It, How It Works, and How It Can Be Used](https://www.investopedia.com/terms/b/blockchain.asp) and [Taiwan-Based Exchange BitoPro Suffers $11.5 Million Hack, User Funds Unaffected](https://cryptonews.com/news/taiwan-based-exchange-bitopro-suffers-11-5-million-hack-user-funds-unaffected/)
   - **Prompt 5:** How can you reconcile these two articles given the immutability of blockchain technologies? Explain.
 
