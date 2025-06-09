@@ -4,13 +4,47 @@
 
 ---
 
+## Day 4: June 10, 2025 13:30-15:30 in J506
+
+### Day 4 Themes: Malware and Malware Analysis
+
+#### Day 4 class
+
+- Discuss homework, [Tryhackme](https://tryhackme.com/dashboard), and final project
+- Complete [Peer Instruction: Chapter 3 Questions](https://runestone.academy/runestone/peer/peer_question?assignment_id=222709
+  
+#### Day 4: Field Work
+
+- Read [Blockchain Facts: What Is It, How It Works, and How It Can Be Used](https://www.investopedia.com/terms/b/blockchain.asp) and [Taiwan-Based Exchange BitoPro Suffers $11.5 Million Hack, User Funds Unaffected](https://cryptonews.com/news/taiwan-based-exchange-bitopro-suffers-11-5-million-hack-user-funds-unaffected/)
+  - **Prompt 1:** How can you reconcile these two articles given the immutability of blockchain technologies? Explain.
+
+- Watch [But how does bitcoin actually work?](https://www.3blue1brown.com/lessons/bitcoin)
+  - **Prompt 2:** In a couple of sentences, explain what you learned about how cryptocurrency works from this video.
+
+- Watch [Hackers & Cyber Attacks: Crash Course Computer Science #32](https://youtu.be/_GzE99AmAQU?feature=shared)
+  - **Prompt 3:** Was there anything in this video that was new to you? What was it? Explain.
+
+- Watch [Interactive Malware Analysis and Threat Intelligence – ANY.RUN](https://youtu.be/Ts-ZCK9IRJE?feature=shared)
+- Complete [3.7 Lab: Malware Analysis](https://runestone.academy/ns/books/published/KIIS_security_2025/lab-malware-analysis.html)
+- If you finish the lab itself, visit the [ANY.RUNBlog](https://any.run/cybersecurity-blog/guides/) to learn how to explore malware analysis further.
+  - **Prompt 4:** What did you learn about malware analysis in this lab? Did anything surprise you? Explain.
+
+- Remember to complete your post-class reflection.
+
+#### Day 4: Homework readings
+
+1. Read [Textbook Reading: Sections 4.1-4.4](https://runestone.academy/runestone/lti?assignment_id=222708)
+1. Don't forget to complete your Fieldpad homework for Day 4.
+
+---
+
 ## Day 3: June 9, 2025 13:30-15:30 in ~~J419~~ J506
 
 ### Day 3 Themes: Digging into Cryptography
 
 #### Day 3 class
 
-- Discuss homework, Tryhackme, and final project
+- Discuss homework, [Tryhackme](https://tryhackme.com/dashboard), and final project
 - Peer Instruction: [Chapter 2 Questions](https://runestone.academy/runestone/peer/peer_question?assignment_id=222681)
 - Discuss how an algorithm can be easy to check, but hard to reverse, which is what you need for a good encryption algorithm. Bigger versions of Sudoku were used as an example.
 
@@ -28,8 +62,7 @@
 - Go to [2.11 Lab Hash It Out](https://runestone.academy/ns/books/published/KIIS_security_2025/lab-hash-it-out.html) and work with your partner(s) to complete the lab.
   - **Prompt 4:** What did you learn about hashing in this lab?
 
-- If time permits, read [Blockchain Facts: What Is It, How It Works, and How It Can Be Used](https://www.investopedia.com/terms/b/blockchain.asp) and [Taiwan-Based Exchange BitoPro Suffers $11.5 Million Hack, User Funds Unaffected](https://cryptonews.com/news/taiwan-based-exchange-bitopro-suffers-11-5-million-hack-user-funds-unaffected/)
-  - **Prompt 5:** How can you reconcile these two articles given the immutability of blockchain technologies? Explain.
+- Remember to complete your post-class reflection.
 
 #### Day 3: Homework readings
 
