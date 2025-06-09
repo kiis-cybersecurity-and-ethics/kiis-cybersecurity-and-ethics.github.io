@@ -4,7 +4,7 @@
 
 ---
 
-## Day 3: June 9, 2025 13:30-15:30 in ??
+## Day 3: June 9, 2025 13:30-15:30 in J419 (in this building)
 
 ### Day 3 Themes: Digging into Cryptography
 
