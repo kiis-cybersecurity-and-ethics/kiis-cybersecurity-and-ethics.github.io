@@ -11,7 +11,7 @@
 #### Day 4 class
 
 - Discuss homework, [Tryhackme](https://tryhackme.com/dashboard), and final project
-- Complete [Peer Instruction: Chapter 3 Questions](https://runestone.academy/runestone/peer/peer_question?assignment_id=222709
+- Complete [Peer Instruction: Chapter 3 Questions](https://runestone.academy/runestone/peer/peer_question?assignment_id=222709)
   
 #### Day 4: Field Work
 
