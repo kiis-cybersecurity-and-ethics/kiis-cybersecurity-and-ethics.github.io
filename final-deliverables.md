@@ -1,6 +1,6 @@
 ## Final Deliverables
 
-### Final Presentation - Slides due Monday, June 23, 2024
+### Final Presentation - Slides due Monday, June 23, 2025
 
 - 7-8 minutes presenting followed by 3 minutes of questions.
 - This can be delivered with more personality than the report.
@@ -109,4 +109,3 @@ Recommendations
 - Write formally.
 - Be sure to use a spelling-checker.
 - It is fine to use AI to help with grammar, just be sure to cite it if you use it.
-
