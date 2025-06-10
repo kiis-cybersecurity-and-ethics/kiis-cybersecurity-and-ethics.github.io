@@ -43,6 +43,7 @@
 #### Day 4: Homework readings
 
 1. Read [Textbook Reading: Sections 4.1-4.4](https://runestone.academy/runestone/lti?assignment_id=222708)
+1. Read  [Details of the final deliverables](final-deliverables.md) to prepare for questions about the final project.
 1. Don't forget to complete your Fieldpad homework for Day 4.
 
 ---
