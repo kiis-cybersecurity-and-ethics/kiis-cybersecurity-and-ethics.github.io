@@ -4,6 +4,15 @@
 
 ---
 
+## Final Project: Cybersecurity and Ethics Presentation and Report
+
+- Proposed topic due Thursday, June 12, 2025 8 am
+- Presentation and Slides - Monday, June 23, 2025 13:30-15:30
+- Report - due Tuesday, June 24, 2025 8 am
+- [Details of the final deliverables](final-deliverables.md)
+
+---
+
 ## Day 4: June 10, 2025 13:30-15:30 in J506
 
 ### Day 4 Themes: Malware and Malware Analysis
@@ -11,7 +20,7 @@
 #### Day 4 class
 
 - Discuss homework, [Tryhackme](https://tryhackme.com/dashboard), and final project
-- Complete [Peer Instruction: Chapter 3 Questions](https://runestone.academy/runestone/peer/peer_question?assignment_id=222709)
+- Complete [Peer Instruction: Chapter 3 Questions](https://runestone.academy/runestone/peer/peer_question?assignment_id=222709)git 
   
 #### Day 4: Field Work
 
