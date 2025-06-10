@@ -30,13 +30,13 @@
 - Watch [But how does bitcoin actually work?](https://www.3blue1brown.com/lessons/bitcoin)
   - **Prompt 2:** In a couple of sentences, explain what you learned about how cryptocurrency works from this video.
 
-- Watch [Hackers & Cyber Attacks: Crash Course Computer Science #32](https://youtu.be/_GzE99AmAQU?feature=shared)
-  - **Prompt 3:** Was there anything in this video that was new to you? What was it? Explain.
+- ~~Watch [Hackers & Cyber Attacks: Crash Course Computer Science #32](https://youtu.be/_GzE99AmAQU?feature=shared)~~
+  - ~~**Prompt 3:** Was there anything in this video that was new to you? What was it? Explain.~~
 
 - Watch [Interactive Malware Analysis and Threat Intelligence – ANY.RUN](https://youtu.be/Ts-ZCK9IRJE?feature=shared)
 - Complete [3.7 Lab: Malware Analysis](https://runestone.academy/ns/books/published/KIIS_security_2025/lab-malware-analysis.html)
 - If you finish the lab itself, visit the [ANY.RUNBlog](https://any.run/cybersecurity-blog/guides/) to learn how to explore malware analysis further.
-  - **Prompt 4:** What did you learn about malware analysis in this lab? Did anything surprise you? Explain.
+  - **Prompt ~~4~~3:** What did you learn about malware analysis in this lab? Did anything surprise you? Explain.
 
 - Remember to complete your post-class reflection.
 
