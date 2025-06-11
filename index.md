@@ -13,6 +13,43 @@
 
 ---
 
+
+## Day 5: June 11, 2025 13:30-15:30 in J405
+
+### Day 5 Themes: Protocols
+
+#### Day 5 class
+
+- Discuss reading:
+  - what parts of the text need more explanation?
+  - There were a lot of protocols in the chapter. Were any of these confusing? If so, which ones?
+    - http vs https
+    - IPv4 vs IPv6
+  - Discuss the importance of secure protocols
+- Complete [Peer Instruction: Chapter 4 Questions](https://runestone.academy/runestone/peer/student.html)
+
+- What is [nmap](https://nmap.org/)
+- Watch [Nmap Basic Port Scan](https://youtu.be/hIUIDHzarNo?feature=shared).
+- Complete [4.5. Lab: Scanning with nmap](https://runestone.academy/ns/books/published/KIIS_security_2025/lab-scanning-with-nmap.html). Begin by forking [Codespace for Lab 4.5. Lab: Scanning with nmap](https://github.com/pearcej/security-nmap) to your Github account.
+- Debrief
+
+#### Day 5: Field Work
+- I would like to focus a bit on IPv4 vs IPv6, so we will do a bit of a deep dive into that.
+  - Watch [IPv4 vs IPv6: How it works | NordVPN](https://youtu.be/RcszGnTC24E?feature=shared)
+  - Check your own IP address at [What is My IP Address?](https://whatismyipaddress.com/)
+  - Read [The Impact of IPv6 on Healthcare in Taiwan: A Case Study](https://fizara.com/the-impact-of-ipv6-on-healthcare-in-taiwan-a-case-study/)
+  - Look at [Taiwan IPv6 Global Ranking: 12](https://ipv6now.twnic.tw/ipv6/index.html) and click on the "top 30 list".
+  - **Prompt 1:** What do you think about Taiwan's IPv6 ranking? What do you notice in the top 30 list? What country is absent from the top 30 list that you would expect to see there? Discuss your thoughts in your Fieldpad.
+
+
+
+#### Day 5: Homework
+
+- [Final Project Proposal](final-project-proposal.md) due Thursday, June 12, 2025 8 am.
+- In your fieldpad, just write "see submitted project proposal".
+
+---
+
 ## Day 4: June 10, 2025 13:30-15:30 in J506
 
 ### Day 4 Themes: Malware and Malware Analysis
@@ -20,7 +57,7 @@
 #### Day 4 class
 
 - Discuss homework, [Tryhackme](https://tryhackme.com/dashboard), and final project
-- Complete [Peer Instruction: Chapter 3 Questions](https://runestone.academy/runestone/peer/peer_question?assignment_id=222709)git 
+- Complete [Peer Instruction: Chapter 3 Questions](https://runestone.academy/runestone/peer/student.html)
   
 #### Day 4: Field Work
 
@@ -55,7 +92,7 @@
 #### Day 3 class
 
 - Discuss homework, [Tryhackme](https://tryhackme.com/dashboard), and final project
-- Peer Instruction: [Chapter 2 Questions](https://runestone.academy/runestone/peer/peer_question?assignment_id=222681)
+- Peer Instruction: [Chapter 2 Questions](https://runestone.academy/runestone/peer/student.html)
 - Discuss how an algorithm can be easy to check, but hard to reverse, which is what you need for a good encryption algorithm. Bigger versions of Sudoku were used as an example.
 
 #### Day 3: Field Work
@@ -89,7 +126,7 @@
 
 - I will try to give feedback on your Fieldpad entries by Monday.
 - Discuss homework Day 1
-- Peer Instruction: [Chapter 1 Questions](https://runestone.academy/runestone/peer/peer_question?assignment_id=222666)
+- Peer Instruction: [Chapter 1 Questions](https://runestone.academy/runestone/peer/student.html)
 
 #### Day 2: Field Work
 
