@@ -28,18 +28,21 @@
   - Discuss the importance of secure protocols
 - Complete [Peer Instruction: Chapter 4 Questions](https://runestone.academy/runestone/peer/student.html)
 
-- What is [nmap](https://nmap.org/)
-- Watch [Nmap Basic Port Scan](https://youtu.be/hIUIDHzarNo?feature=shared).
-- Complete [4.5. Lab: Scanning with nmap](https://runestone.academy/ns/books/published/KIIS_security_2025/lab-scanning-with-nmap.html). Begin by forking [Codespace for Lab 4.5. Lab: Scanning with nmap](https://github.com/pearcej/security-nmap) to your Github account.
-- Debrief
-
 #### Day 5: Field Work
+
 - I would like to focus a bit on IPv4 vs IPv6, so we will do a bit of a deep dive into that.
   - Watch [IPv4 vs IPv6: How it works](https://youtu.be/RcszGnTC24E?feature=shared)
   - Check your own IP address at [What is My IP Address?](https://whatismyipaddress.com/)
   - Read [The Impact of IPv6 on Healthcare in Taiwan: A Case Study](https://fizara.com/the-impact-of-ipv6-on-healthcare-in-taiwan-a-case-study/)
   - Look at [Taiwan IPv6 Global Ranking: 12](https://ipv6now.twnic.tw/ipv6/index.html) and click on the "top 30 list".
   - **Prompt 1:** What do you think about Taiwan's IPv6 ranking? What do you notice in the top 30 list? What country is absent from the top 30 list that you would expect to see there? Discuss your thoughts in your Fieldpad.
+  
+- What is [nmap](https://nmap.org/)
+- Watch [Nmap Basic Port Scan](https://youtu.be/hIUIDHzarNo?feature=shared).
+- Complete [4.5. Lab: Scanning with nmap](https://runestone.academy/ns/books/published/KIIS_security_2025/lab-scanning-with-nmap.html). Begin by forking [Codespace for Lab 4.5. Lab: Scanning with nmap](https://github.com/pearcej/security-nmap) to your Github account.
+- Debrief
+
+
 
 #### Day 5: Homework
 
