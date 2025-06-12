@@ -223,7 +223,6 @@ Recommendations
 
 - Propose a specific topic for your final project, explaining why this is of interest to you.
 
-
 ## Day 8: June 7, 9:45-10:45 - First Floor
 
 ### Day 8 Themes: More Attacks

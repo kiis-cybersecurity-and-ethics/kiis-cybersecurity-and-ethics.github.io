@@ -13,6 +13,25 @@
 
 ---
 
+## Day 6: June 12, 2025 13:30-15:30 in J405
+
+### Day 6 Themes: Getting Started with the Final Project
+
+#### Day 6 class
+
+- Questions about the final project?
+- Today is a day dedicated to working on your final projects.
+  - **Prompt 1:** Discuss what you accomplished and set goals for the long weekend.
+
+  - Remember to complete your post-class reflection to disucss what you learned today while you worked on your final project.
+
+#### Day 6: Homework readings
+
+1. Read [Textbook Reading: Sections 5.1-5.6](https://runestone.academy/assignment/student/doAssignment?assignment_id=222716)
+1. Make progress on your final project by working on the items you set as goals in class today.
+1. Don't forget to complete your Fieldpad homework for Day 6.
+
+---
 
 ## Day 5: June 11, 2025 13:30-15:30 in J405
 
