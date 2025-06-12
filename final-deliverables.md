@@ -54,8 +54,8 @@ Recommendations
 
 #### Questions and References (Final slide(s))
 
-- List key sources in a standard citation format.
-- Note again that you must use TryHackme a references, and you should detail each room that you used.
+- List the sources you used in a standard citation format. Be sure to include videos, tutorials, and other resources you used.
+- Note again that you must use TryHackme references, and you should detail each room that you used.
 
 ##### Presentation Tips
 
@@ -101,8 +101,8 @@ Recommendations
 
 #### References
 
-- List key sources in a standard citation format.
-- Note that you must use TryHackme a references, and you should detail each room that you used.
+- List the sources you used in a standard citation format. Be sure to include videos, tutorials, and other resources you used.
+- Note again that you must use TryHackme references, and you should detail each room that you used.
 
 ##### Report Tips
 
