@@ -23,7 +23,7 @@
 - Today is a day dedicated to working on your final projects.
   - **Prompt 1:** Discuss what you accomplished and set goals for the long weekend.
 
-  - Remember to complete your post-class reflection to disucss what you learned today while you worked on your final project.
+- Remember to complete your post-class reflection to discuss what you learned today while you worked on your final project.
 
 #### Day 6: Homework readings
 
