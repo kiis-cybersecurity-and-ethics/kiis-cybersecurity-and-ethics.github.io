@@ -64,6 +64,8 @@ Recommendations
 - Use visuals: Incorporate slides with visuals like charts, graphs, and images to help convey your message effectively.
 - Practice: Rehearse to ensure you can cover all points within the 7-8 minute time-frame.
 
+---
+
 ### Final report - Due 8 am on Tuesday, June 24, 2025
 
 - 1 cover page plus 3-4 pages single spaced with section headers, 1-inch margins and 12-point font. This should be written formally.
