@@ -27,7 +27,8 @@
 - Read [Taiwan Crooks Mastermind $2M Grab-And-Go ATM Heist](https://www.pymnts.com/news/security-and-risk/2016/taiwan-atm-heist-malware/)
 - Read [Everything you need to know about ATM attacks and fraud: Part 1](https://www.malwarebytes.com/blog/news/2019/05/everything-you-need-to-know-about-atm-attacks-and-fraud-part-1)
 - Read [Kentucky authorities warn of dangers of skimming devices](https://www.whas11.com/article/news/crime/skimming-devices-police-stores-how-to-protect-against/417-cc03cce2-3b75-4ce6-af03-f7c8b92d2cb2)
-  - **Prompt 1:** Skimmers are a type of MiTM attack.The ATMs in some of the 7-11s and Family Marts are out of sight of the cashier.  How safe are you when you use an ATM? Do you think about this when you use an ATM? Do you only use bank ATMs? How safe are you when you use an ATM? Do you think your practices will change after reading these articles? Explain your thoughts in your Fieldpad.
+- [Are Contactless Credit Cards the Safest Way to Pay?](https://www.cnet.com/personal-finance/credit-cards/are-contactless-credit-cards-the-safest-way-to-pay/)
+  - **Prompt 1:** Skimmers are a type of MiTM attack.The ATMs in some of the 7-11s and Family Marts are out of sight of the cashier. Do you think about this when you use an ATM? Do you only use bank ATMs? How safe are you when you use an ATM? Do you think your practices will change after reading these articles? Explain your thoughts in your Fieldpad.
 
 - Work through the following activities in class:
   - [5.7 Lab: MitM with Scapy](https://runestone.academy/ns/books/published/KIIS_security_2025/lab-mitm-with-scapy.html)
