@@ -13,6 +13,34 @@
 
 ---
 
+## Day 7: June 16, 2025 13:30-15:30 in J504
+
+### Day 7 Themes: Attacks!!
+
+#### Day 7 class
+
+- Discuss reading:
+  - what parts of the text need more explanation?
+  - Discuss the importance of secure protocols
+- Complete [Peer Instruction: Chapter 5 Questions](https://runestone.academy/runestone/peer/student.html)
+
+- Read [Taiwan Crooks Mastermind $2M Grab-And-Go ATM Heist](https://www.pymnts.com/news/security-and-risk/2016/taiwan-atm-heist-malware/)
+- Read [Everything you need to know about ATM attacks and fraud: Part 1](https://www.malwarebytes.com/blog/news/2019/05/everything-you-need-to-know-about-atm-attacks-and-fraud-part-1)
+- Read [Kentucky authorities warn of dangers of skimming devices](https://www.whas11.com/article/news/crime/skimming-devices-police-stores-how-to-protect-against/417-cc03cce2-3b75-4ce6-af03-f7c8b92d2cb2)
+  - **Prompt 1:** Skimmers are a type of MiTM attack.The ATMs in some of the 7-11s and Family Marts are out of sight of the cashier.  How safe are you when you use an ATM? Do you think about this when you use an ATM? Do you only use bank ATMs? How safe are you when you use an ATM? Do you think your practices will change after reading these articles? Explain your thoughts in your Fieldpad.
+
+- Work through the following activities in class:
+  - [5.7 Lab: MitM with Scapy](https://runestone.academy/ns/books/published/KIIS_security_2025/lab-mitm-with-scapy.html)
+  - **Prompt 2:** What did you learn from the lab? Explain.
+
+#### Day 7: Homework
+
+1. Read [Textbook Reading: Sections 6.1-6.8](https://runestone.academy/assignment/student/doAssignment?assignment_id=222727)
+1. Make progress on your final project.
+1. Don't forget to complete your Fieldpad homework for Day 7.
+
+---
+
 ## Day 6: June 12, 2025 13:30-15:30 in J405
 
 ### Day 6 Themes: Getting Started with the Final Project
@@ -25,7 +53,7 @@
 
 - Remember to complete your post-class reflection to discuss what you learned today while you worked on your final project.
 
-#### Day 6: Homework readings
+#### Day 6: Homework
 
 1. Read [Textbook Reading: Sections 5.1-5.6](https://runestone.academy/assignment/student/doAssignment?assignment_id=222716)
 1. Make progress on your final project by working on the items you set as goals in class today.
