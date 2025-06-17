@@ -22,10 +22,11 @@
 - Discuss reading
 - Complete [Peer Instruction: Chapter 6 Questions](https://runestone.academy/runestone/peer/student.html)
 
+- What is [Crowdstrike](https://www.crowdstrike.com/en-us/about-us/)? Gemini says, "CrowdStrike is an American cybersecurity technology company that provides endpoint security, threat intelligence, and cyberattack response services. They help protect organizations from cyber threats and breaches using their advanced security platform, CrowdStrike Falcon."
+- Watch the video in [Faulty CrowdStrike update took down 8.5 million Windows computers around the globe](https://www.pbs.org/newshour/show/how-a-faulty-software-update-sparked-tech-disruptions-worldwide)
 - Read [Global Microsoft Meltdown Tied to Bad Crowdstrike Update](https://krebsonsecurity.com/2024/07/global-microsoft-meltdown-tied-to-bad-crowstrike-update/)
-- Read [Faulty CrowdStrike update took down 8.5 million Windows computers around the globe](https://www.pbs.org/newshour/show/how-a-faulty-software-update-sparked-tech-disruptions-worldwide)
 - Read [CrowdStrike outage explained: What caused it and what’s next](https://www.techtarget.com/WhatIs/feature/Explaining-the-largest-IT-outage-in-history-and-whats-next)
-  - **Prompt 1:** What do you think about the CrowdStrike outage? It was not a cyberattack, but some say it was worse. Explain your thoughts in your Fieldpad.
+  - **Prompt 1:** What do you think about the CrowdStrike outage? It was not a cyberattack, but some say it was worse, and it was due to a cybersecurity company! Explain your thoughts in your Fieldpad.
 
 - In preparation for the work tomorrow, go to [TryHackMe: Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1) and glance through the content. If you are already familiar with Linux, this room will go quickly and you can move on to [TryHackMe: Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2), if not it will go more slowly. Either is fine. I would like for you to spend 30 minutes and just get as far as you get.
   - **Prompt 2:** How far did you get? What did you learn about Linux from this/these room(s)? 
