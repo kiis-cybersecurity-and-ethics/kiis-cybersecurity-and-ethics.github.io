@@ -13,6 +13,36 @@
 
 ---
 
+## Day 8: June 16, 2025 13:30-15:30 in J503
+
+### Day 8 Themes: Security Solutions and their Failures
+
+#### Day 8 class
+
+- Discuss reading
+- Complete [Peer Instruction: Chapter 6 Questions](https://runestone.academy/runestone/peer/student.html)
+
+- Read [Global Microsoft Meltdown Tied to Bad Crowdstrike Update](https://krebsonsecurity.com/2024/07/global-microsoft-meltdown-tied-to-bad-crowstrike-update/)
+- Read [Faulty CrowdStrike update took down 8.5 million Windows computers around the globe](https://www.pbs.org/newshour/show/how-a-faulty-software-update-sparked-tech-disruptions-worldwide)
+- Read [https://www.techtarget.com/WhatIs/feature/Explaining-the-largest-IT-outage-in-history-and-whats-next](CrowdStrike outage explained: What caused it and what’s next)
+  - **Prompt 1:** What do you think about the CrowdStrike outage? It was not a cyberattack, but some say it was worse. Explain your thoughts in your Fieldpad.
+
+
+- Complete [6.9 Lab: Exploiting Log4j](https://runestone.academy/ns/books/published/KIIS_security_2025/lab-exploiting-log4j.html)
+  - **Prompt 2:** What did you learn from the lab? Did you have any difficulties? Explain.
+
+- If time permits, work on your final project.
+
+- Remember to complete your post-class reflection.
+
+#### Day 8: Homework
+
+1. Read [Textbook Reading: Sections 7.1-7.3 & 8.1-8.2](https://runestone.academy/assignment/student/doAssignment?assignment_id=223016)
+1. Make progress on your final project.
+1. Don't forget to complete your Fieldpad homework for Day 8.
+
+---
+
 ## Day 7: June 16, 2025 13:30-15:30 in J504
 
 ### Day 7 Themes: Attacks!!
