@@ -24,9 +24,8 @@
 
 - Read [Global Microsoft Meltdown Tied to Bad Crowdstrike Update](https://krebsonsecurity.com/2024/07/global-microsoft-meltdown-tied-to-bad-crowstrike-update/)
 - Read [Faulty CrowdStrike update took down 8.5 million Windows computers around the globe](https://www.pbs.org/newshour/show/how-a-faulty-software-update-sparked-tech-disruptions-worldwide)
-- Read [https://www.techtarget.com/WhatIs/feature/Explaining-the-largest-IT-outage-in-history-and-whats-next](CrowdStrike outage explained: What caused it and what’s next)
+- Read [CrowdStrike outage explained: What caused it and what’s next](https://www.techtarget.com/WhatIs/feature/Explaining-the-largest-IT-outage-in-history-and-whats-next)
   - **Prompt 1:** What do you think about the CrowdStrike outage? It was not a cyberattack, but some say it was worse. Explain your thoughts in your Fieldpad.
-
 
 - Complete [6.9 Lab: Exploiting Log4j](https://runestone.academy/ns/books/published/KIIS_security_2025/lab-exploiting-log4j.html)
   - **Prompt 2:** What did you learn from the lab? Did you have any difficulties? Explain.
