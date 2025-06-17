@@ -31,7 +31,7 @@
   - **Prompt 2:** How far did you get? What did you learn about Linux from this/these room(s)? 
 
 - Complete [6.9 Lab: Exploiting Log4j](https://runestone.academy/ns/books/published/KIIS_security_2025/lab-exploiting-log4j.html)
-  - **Prompt 2:** What did you learn from the lab? Did you have any difficulties? Explain.
+  - **Prompt 3:** What did you learn from the lab? Did you have any difficulties? Explain.
 
 - If time permits, work on your final project.
 
