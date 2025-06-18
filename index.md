@@ -22,13 +22,13 @@
 - Discuss reading and project progress
 - Complete [Peer Instruction: Chapter 7 and 8 Questions](https://runestone.academy/runestone/peer/student.html)
 
-We have a lab to do today:
+We will do just one lab today:
 - [7.4 Lab: Linux File Permissions](https://runestone.academy/ns/books/published/KIIS_security_2025/lab-linux-file-permissions.html)
   - **Prompt 1:** What did you learn about Linux file permissions in this lab? Did you have any difficulties? Explain.
 - ~~[8.3 Lab: Scanning with Nessus](https://runestone.academy/ns/books/published/KIIS_security_2025/lab-scanning-with-nessus.html)~~
   - ~~**Prompt 2:** What did you learn about vulnerability scanning in this lab? Explain.~~
 
-- If time permits, work on your final project.
+- Work on your final project.
 
 - Remember to complete your post-class reflection.
 
