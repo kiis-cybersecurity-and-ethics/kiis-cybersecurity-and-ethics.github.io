@@ -13,6 +13,36 @@
 
 ---
 
+## Day 10: June 19, 2025 13:30-15:30 in J413
+
+### Day 10 Themes: Virtualization and Projects
+
+#### Day 10 class
+
+- Goals for today:
+  - Discuss the reading and do peer instruction
+  - Complete the last lab
+  - Work on your final project
+
+- Complete [Peer Instruction: Chapter 10 Questions](https://runestone.academy/runestone/peer/student.html)
+
+- Complete [10.5 Lab: Malicious Containers](https://runestone.academy/ns/books/published/KIIS_security_2025/lab-malicious-containers.html)
+  - **Prompt 1:** What did you learn in this lab? Did you have any difficulties? Explain.
+
+- Work on your final project.
+  - In teams of three, present your final project to one anther using your laptop as the screen.
+    - **Prompt 2:** What useful suggestions for improving your presentation did you hear? Explain.
+  - If time permits, read another team's final project report and provide feedback on it.
+    - **Prompt 3:** What useful suggestions for improving their report did you hear? Explain.
+
+- Remember to complete your post-class reflection.
+
+#### Day 9: Homework
+
+1. Make progress on your final project.
+
+---
+
 ## Day 9: June 18, 2025 13:30-15:30 in J405
 
 ### Day 9 Themes: Security Solutions and their Failures
@@ -20,7 +50,7 @@
 #### Day 9 class
 
 - Discuss reading and project progress
-- Complete [Peer Instruction: Chapter 7 and 8 Questions](https://runestone.academy/runestone/peer/student.html)
+- Complete [Peer Instruction: Chapters 7 and 8 Questions](https://runestone.academy/runestone/peer/student.html)
 
 We will do just one lab today:
 - [7.4 Lab: Linux File Permissions](https://runestone.academy/ns/books/published/KIIS_security_2025/lab-linux-file-permissions.html)
