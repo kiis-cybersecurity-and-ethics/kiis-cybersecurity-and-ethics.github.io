@@ -13,7 +13,31 @@
 
 ---
 
-## Day 8: June 16, 2025 13:30-15:30 in J503
+## Day 9: June 18, 2025 13:30-15:30 in J405
+
+### Day 9 Themes: Security Solutions and their Failures
+
+#### Day 9 class
+
+- Discuss reading and project progress
+- Complete [Peer Instruction: Chapter 7 and 8 Questions](https://runestone.academy/runestone/peer/student.html)
+
+We have two labs to do today:
+- [7.4 Lab: Linux File Permissions](https://runestone.academy/ns/books/published/KIIS_security_2025/lab-linux-file-permissions.html)
+  - **Prompt 1:** What did you learn about Linux file permissions in this lab? Did you have any difficulties? Explain.
+- [8.3 Lab: Scanning with Nessus](https://runestone.academy/ns/books/published/KIIS_security_2025/lab-scanning-with-nessus.html)
+  - **Prompt 2:** What did you learn about vulnerability scanning in this lab? Explain.
+
+- If time permits, work on your final project.
+
+- Remember to complete your post-class reflection.
+
+#### Day 9: Homework
+
+1. Read [Textbook Reading: Sections 9.1-9.4](https://runestone.academy/assignment/student/doAssignment?assignment_id=223062)
+1. Make progress on your final project.
+
+## Day 8: June 17, 2025 13:30-15:30 in J503
 
 ### Day 8 Themes: Security Solutions and their Failures
 
