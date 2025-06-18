@@ -34,7 +34,7 @@ We have two labs to do today:
 
 #### Day 9: Homework
 
-1. Read [Textbook Reading: Sections 9.1-9.4](https://runestone.academy/assignment/student/doAssignment?assignment_id=223062) OR [Textbook Reading: Sections 10.1-10.4](https://runestone.academy/assignment/student/doAssignment?assignment_id=223064)
+1. **Note that we are skipping chapter 9**, so do the chapter 10 reading: [Textbook Reading: Sections 10.1-10.4](https://runestone.academy/assignment/student/doAssignment?assignment_id=223064)
 1. Make progress on your final project.
 
 ## Day 8: June 17, 2025 13:30-15:30 in J503
