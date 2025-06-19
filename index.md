@@ -32,7 +32,7 @@
 - Work on your final project.
   - In teams of three, present your final project to one anther using your laptop as the screen.
     - **Prompt 2:** What useful suggestions for improving your presentation did you hear? Explain.
-  - If time permits, read another person in your group's final project report carefully so you can provide feedback on the writeen report (both writing and code).
+  - If time permits, read another person in your group's final project report carefully so you can provide feedback on the written report (both writing and code).
     - **Prompt 3:** What useful suggestions for improving their report did you hear? Explain.
 
 - Remember to complete your post-class reflection.
