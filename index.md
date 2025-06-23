@@ -13,6 +13,39 @@
 
 ---
 
+## Day 11: June 23, 2025 13:30-15:30 in J415
+
+### Day 11 Themes: Project Presentations and Wrap-Up
+
+#### Day 11 class
+
+- Goals for today:
+  - Present your final project
+  - Reflect on the course
+
+- We will start with the final project presentations. Each person will have around 7-8 minutes to present followed by around 3 minutes for questions. This will be followed by 5 minutes to respond to the set of prompts. For each of the presentations, except your own, answer the following prompts:
+  - **Prompts**:
+  - What is the name of the presenter and the topic of their presentation?
+  - What is the most important thing you learned from this presentation?
+  - On a scale of 1 (not at all effective i.e. difficult to understand throughout) to 10 (extremely effective i.e. explained even challenging concepts very clearly throughout), how effective was this project? What could the presenters have done do to make it more effective?
+
+Following your OWN presentation, complete the following reflection in your fieldpad in the post-course reflection section:
+  - How much time did you spend outside of class on the course? Was this too much, too little, or just right?
+  - What did you like best about the course? What would you recommend changing if I offer the course again in the future?
+  - What are the most important things you learned in the course?  
+
+- If time permits, read [Over 4 billion user records leaked in "largest breach ever" - here's what you need to know](https://www.techradar.com/pro/security/over-4-billion-user-records-leaked-in-largest-breach-ever-heres-what-you-need-to-know) and [How to Use 'Have I Been Pwned' to See If Your Data Was Compromised](https://www.consumerreports.org/electronics/data-theft/how-to-use-have-i-been-pwned-data-breach-a6598286668/).
+  - **Prompt 1:** What did you learn from these articles? Explain your thoughts in your Fieldpad.
+
+#### Day 11: Homework
+
+1. Complete and submit your final project report by 8 am on Tuesday, June 24, 2025.
+
+1. There is no other homework, so you can just write "completing final report" in your Fieldpad homework section
+
+
+---
+
 ## Day 10: June 19, 2025 13:30-15:30 in J413
 
 ### Day 10 Themes: Virtualization and Projects
