@@ -35,7 +35,7 @@ Following your OWN presentation, complete the following reflection in your field
   - What are the most important things you learned in the course?  
 
 - If time permits, read [Over 4 billion user records leaked in "largest breach ever" - here's what you need to know](https://www.techradar.com/pro/security/over-4-billion-user-records-leaked-in-largest-breach-ever-heres-what-you-need-to-know) and [How to Use 'Have I Been Pwned' to See If Your Data Was Compromised](https://www.consumerreports.org/electronics/data-theft/how-to-use-have-i-been-pwned-data-breach-a6598286668/).
-  - **Prompt 1:** What did you learn from these articles? Explain your thoughts in your Fieldpad.
+  - **Prompt** What did you learn from these articles (if anything)? Explain your thoughts in your Fieldpad.
 
 #### Day 11: Homework
 
