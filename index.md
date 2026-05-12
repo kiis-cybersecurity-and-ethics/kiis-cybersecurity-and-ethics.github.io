@@ -1,390 +1,437 @@
-## CS 475-2 KIIS Cybersecurity and Ethics
+## KIIS Cybersecurity and Ethics
 ### Dr. Jan Pearce
-#### Summer 2025 Offering in Taiwan
+#### Summer 2026 Offering in Argentina
 
 ---
 
-## Final Project: Cybersecurity and Ethics Presentation and Report
+## Day 1 
 
-- Proposed topic due Thursday, June 12, 2025 8 am
-- Presentation and Slides - Monday, June 23, 2025 13:30-15:30
-- Report - due Tuesday, June 24, 2025 8 am
-- [Details of the final deliverables](final-deliverables.md)
+### Day 1 Themes: Class Overview and the Cybersecurity Mindset
+
+**Day 1 class:**
+
+- introductions
+- What is cybersecurity?
+- What is ethics and how is it related to cybersecurity?
+- What is a security mindset?
+- What is a hacker mindset?
+- Watch [Cyber Security In 7 Minutes](https://youtu.be/inWWhr5tnEA?feature=shared)
+- course overview
+  - [Google classroom site](https://classroom.google.com/c/NjI5OTgzMTIxNjY0?cjc=4h3w5cw) - to add yourself to the classroom
+  - [Course Syllabus](https://docs.google.com/document/d/1RQQXr5bMYzmBOjtXHsAXmbZOZL8kW23T/edit?usp=sharing&ouid=103905169133625663429&rtpof=true&sd=true)
+  - [Computer Systems Security: Planning for Success](https://open.umn.edu/opentextbooks/formats/3421?authuser=0)
+  - [Cybersecurity Field Pad](https://docs.google.com/document/d/1ksL3aCUhUNl558yh35L-rxMJ6jfy8RfWvKK2CC7XlCY/edit?usp=sharing)
+
+**Day 1: Field Work:**
+
+**Homework readings:**
+
+- Watch [Cybersecurity: Crash Course Computer Science #31](https://youtu.be/bPVaOlJ6ln0?feature=shared)
+- Watch [The Hacker Mindset](https://youtu.be/NnZPRpNXQFw?feature=shared)
+- Read chapter 1 in [Computer Systems Security: Planning for Success](https://open.umn.edu/opentextbooks/formats/3421?authuser=0)
+- Pick and choose some readings in [Cybersecurity: Comprehensive Analysis in Argentina (2024)](https://globalregulatoryinsights.com/insight/cybersecurity-comprehensive-analysis-in-argentina-2024/). Note that this is an extensive document - you are not expected to read it all. Instead, pick and choose sections that interest you.
+
+**Homework Reflections:**
+(Note that unless otherwise stated, all homework is due at 8 am on the day of the next class session.) Use the Cybersecurity Field Pad to record your reflections.
+
+1. What are the most important things you learned about cybersecurity from the readings/videos? Explain.
+2. Do you have a security mindset? Explain.
+3. As you travel around the city today. Take note of any open WiFi networks. Research and discuss the risks of using these networks (be sure to give references here). Discuss the benefits of using these networks. What would you recommend to someone who is considering using an open WiFi network?
+4. Over the weekend, be sure to go out and pay attention to the security of anything that is related to money. Discuss what you observed and how Argentines protect their money, especially anything that might be hackable.
+
+### In addition to the normal stuff, be sure to pack all of the following in your carry-on bag (not your checked luggage.)
+  - your laptop and charger
+  - conversion plugs for both types of Argentina's power outlet shapes
+  - earphones to use with your laptop
+     
+---
+###### Copyright © 2026 | Licensed under a Creative Commons Attribution-Share Alike 3.0 United States License
+
+
+- 1 cover page plus 3-4 pages single spaced with section headers, 1-inch margins and 12-point font. This should be written formally.
+
+#### Cover Page
+
+- Title of the report
+- Your Name
+- Date
+- Course Details
+
+#### Title and Introduction
+
+- Project Background: Briefly describe the significance and prevalence of this cybersecurity threat.
+
+#### Understanding the Attack
+
+- Attack Description: Concisely explain the nature of the specific cyber attack.
+- Attack Vector: Describe how the attack is typically executed.
+- Real-world Examples: Briefly mention notable incidents involving this attack.
+
+#### Methodology
+
+- Tools: List key tools (e.g., Nmap, Wireshark, etc.) and techniques used to simulate and analyze the attack.
+- Assessment Framework: Mention the protocol exploited (e.g., NIST, OWASP).
+
+#### Mitigation Strategies
+
+- Defense Mechanisms: Propose specific actions to mitigate the vulnerabilities exploited by the attack. Suggest additional security measures (e.g., firewalls, intrusion detection systems).
+- Policy Recommendations: Recommend essential policies and best practices to prevent future attacks.
+
+#### Conclusion
+
+- Summarize key findings and their implications.
+
+#### References
+
+- List key sources in a standard academic citation format like APA or MLA. Note that this is academic writing, so in-text citations are required.
+- Note that you must use TryHackme a references, and you should detail each room that you used.
+
+##### Report Tips
+
+- Write formally.
+- Be sure to use a spelling-checker.
+- It is fine to use AI to help with grammar, just be sure to cite it if you use it.
+
+### Final Presentation: Now 7-8 minutes presenting.
+
+- This can be delivered with more personality than the report.
+- Below are some ideas for organization. This organizational structure is not required - it is just here to be helpful.
+- Note that you will submit your slides
+
+#### Title Slide (30 seconds)
+
+- Title of the Presentation
+- Your Name
+- Date
+- Course Details
+
+#### Introduction (1 minute) 
+
+- Personal note: Explain why this issue is of interest to you personally.
+- Overview: Briefly introduce the topic.
+- Real world: Describe  one or more real-world incidents or statistics related to this issue.
+- Relevance: Explain why this issue is important and relevant to others.
+
+#### Background (1.5 minutes)
+
+- Overview: Describe an overview of the cybersecurity issue.
+- Context: Provide brief background information to help the audience understand the issue better.
+- History: Mention any relevant historical incidents or developments, if applicable.
+
+#### Understanding the Attack (2.5 minutes)
+
+- Attack Description: Concisely explain the nature of the specific cyber attack.
+- Attack Vector: Describe how the attack is typically executed.
+- Real-world Examples: Briefly mention notable incidents involving this attack.
+- Impact: Discuss the potential or actual impacts of this issue on individuals, organizations, and society. You could consider the following:
+  - Economic impact
+  - Privacy concerns
+  - Operational disruptions
+- Example: Provide a specific example to illustrate the issue.
+
+#### Mitigation Strategies (1 minute)
+
+- Defense Mechanisms: Propose specific actions to mitigate the vulnerabilities exploited by the attack. Suggest additional security measures (e.g., firewalls, intrusion detection systems).
+- Policy Recommendations: Recommend essential policies and best practices to prevent future attacks.
+- Effectiveness: Briefly evaluate the effectiveness of these measures.
+Recommendations 
+- Future Outlook: Briefly discuss the future outlook. How might this issue evolve, and what can be done to prepare?
+
+#### Conclusion (30 seconds)
+
+- Summary: Summarize the key points discussed in the presentation.
+- Call to Action: End with a call to action, encouraging the audience to take specific steps or stay informed about the issue.
+
+#### Questions and References (Final slide(s))
+
+- List key sources in a standard citation format.
+- Note again that you must use TryHackme a references, and you should detail each room that you used.
+
+##### Presentation Tips
+
+- Keep the talk concise: Focus on the most critical points due to the tight time constraint. Several of you wanted to deliver a shorter presentation, and I responded.
+- Be sure to use a spelling-checker.
+- Use visuals: Incorporate slides with visuals like charts, graphs, and images to help convey your message effectively.
+- Practice: Rehearse to ensure you can cover all points within the 7-8 minute time-frame.
 
 ---
 
-## Day 11: June 23, 2025 13:30-15:30 in J415
+## Day 10: June 12, 10:45-12:00 - First Floor
 
-### Day 11 Themes: Project Presentations and Wrap-Up
+### Day 10 Theme: Recent Breaches and Final Deliverables
 
-#### Day 11 class
+**Day 10 class:**
 
-- Goals for today:
-  - Present your final project
-  - Reflect on the course
+- Watch and discuss [Expert Explains Why TikTok Is Not Secure](https://youtu.be/hEQtsC8Mm88?feature=shared)
+- **Prompt 1: What was interesting/engaging in this video?**
+- Read [Ticketmaster Confirms Data Breach. Here’s What to Know](https://www.nytimes.com/2024/05/31/business/ticketmaster-hack-data-breach.html)
+- Read [What we know about the 'remarkably devious' ShinyHunters hackers allegedly behind the Ticketmaster data leak](https://www.abc.net.au/news/2024-05-31/shinyhunters-cyber-hackers-ticketmaster-data-breach/103911928)
+- **Prompt 2: If you were presenting on this breach, how would you make it interesting?**
+- Discussion
 
-- We will start with the final project presentations. Each person will have around 7-8 minutes to present followed by around 3 minutes for questions. This will be followed by 5 minutes to respond to the set of prompts. For each of the presentations, except your own, answer the following prompts:
-  - **Prompts**:
-  - What is the name of the presenter and the topic of their presentation?
-  - What is the most important thing you learned from this presentation?
-  - On a scale of 1 (not at all effective i.e. difficult to understand throughout) to 10 (extremely effective i.e. explained even challenging concepts very clearly throughout), how effective was this project? What could the presenters have done do to make it more effective?
+**Day 10: Field Work:**
 
-Following your OWN presentation, complete the following reflection in your fieldpad in the post-course reflection section:
-  - How much time did you spend outside of class on the course? Was this too much, too little, or just right?
-  - What did you like best about the course? What would you recommend changing if I offer the course again in the future?
-  - What are the most important things you learned in the course?  
+**Homework readings:**
 
-- If time permits, read [Over 4 billion user records leaked in "largest breach ever" - here's what you need to know](https://www.techradar.com/pro/security/over-4-billion-user-records-leaked-in-largest-breach-ever-heres-what-you-need-to-know) and [How to Use 'Have I Been Pwned' to See If Your Data Was Compromised](https://www.consumerreports.org/electronics/data-theft/how-to-use-have-i-been-pwned-data-breach-a6598286668/).
-  - **Prompt** What did you learn from these articles (if anything)? Explain your thoughts in your Fieldpad.
+- Some of you seem to be freaking out about the final deliverables, so here is something to help. Read [How to Write a Report: A Guide to Report Format and Best Practice](https://www.grammarly.com/blog/how-to-write-a-report/)
 
-#### Day 11: Homework
+**Homework Reflections:**
 
-1. Complete and submit your final project report by 8 am on Tuesday, June 24, 2025.
+- I have given more structure (above) than this reading. In only one single paragraph,discuss which parts of the reading are relevant.
+- Work on your final deliverables.
 
-1. There is no other homework, so you can just write "completing final report" in your Fieldpad homework section
+## Day 9: June 10, 10:45-12:00 - First Floor
+
+### Day 9 Theme: TryHackMe and Final Project
+
+**Day 9 class:**
+
+- **Prompt 0: Reflect on which cybersecurity topics are of the most interest to you. Explain.**
+- Reporting out on the TryHackMe homework and what you might like to focus on for your project.
+- **Prompt 1: Discuss other people's ideas for a project. List three projects that interest you (besides your own). Explain why they are of interest.**
+- **Prompt 2: Re-read [5.7. Lab: MitM with Scapy](https://web.njit.edu/~rt494/security/#_lab_mitm_with_scapy) and explain the cyber attack in layman's terms.**
+- Discuss [5.7. Lab: MitM with Scapy](https://web.njit.edu/~rt494/security/#_lab_mitm_with_scapy)
+- Overview of the final project structure
+
+**Day 9: Field Work:**
+
+**Homework readings:**
+
+- Spend at least 30 minutes in TryHackMe before our next meeting, focusing on what most interests you in terms of using it in your final project.
+
+**Homework Reflections:**
+
+- Propose a specific topic for your final project, explaining why this is of interest to you.
 
 
----
+## Day 8: June 7, 9:45-10:45 - First Floor
 
-## Day 10: June 19, 2025 13:30-15:30 in J413
+### Day 8 Themes: More Attacks
 
-### Day 10 Themes: Virtualization and Projects
+**Day 8 class:**
 
-#### Day 10 class
+- Go to [TryHackMe](https://tryhackme.com/) and make an account.
+- Discuss final project: Using TryHackMe as one of your tools, you will propose a cybersecurity exploit as a topic, then research and develop a detailed explanation in layman’s terms of a specific cybersecurity exploit and the ethical context of this exploit, research at least one real-world example of this exploit, complete a five-page structured report, and present this research to the class during our last two class meetings. You will be expected to reference only reputable articles, videos, and blog posts as your source materials.
+- Read [Hacker Finds Instagram Account Takeover Flaw Worth $10,000](https://www.securityweek.com/hacker-finds-instagram-account-takeover-flaw-worth-10000/)
+- Complete the [TryHackMe Tutorial](https://tryhackme.com/r/room/tutorial) and Task 1 on Web Application Security the [Learning Cyber Security Path](https://tryhackme.com/r/room/beginnerpathintro).
+- If time permits, walkthrough of the [Intro to Networking](https://tryhackme.com/room/introtonetworking) room.
+- Explore other rooms on TryHackMe.
+- **Prompt 1: Discuss your reaction to TryHackMe and how it might be of benefit.**
 
-- Goals for today:
-  - Discuss the reading and do peer instruction
-  - Complete the last lab
-  - Work on your final project
+**Day 8: Field Work:**
 
-- Complete [Peer Instruction: Chapter 10 Questions](https://runestone.academy/runestone/peer/student.html)
+**Homework readings:**
 
-- Complete [10.5 Lab: Malicious Containers](https://runestone.academy/ns/books/published/KIIS_security_2025/lab-malicious-containers.html)
-  - **Prompt 1:** What did you learn in this lab? Did you have any difficulties? Explain.
+- Complete the Chapter 5 reading beginning with 5.5.7. LDAP Injection from [Chapter 5: Attacks](https://web.njit.edu/~rt494/security/#_attacks)
+- Summarize the key ideas from the reading.
+- Explore TryHackMe, thinking about what most interests you in terms of using it in your final project.
 
-- Work on your final project.
-  - In teams of three, present your final project presentation to one anther using your laptop as the screen.
-    - **Prompt 2:** What useful suggestions for improving your presentation did you hear? Explain.
-  - If time permits, read another person in your group's final project report carefully so you can provide feedback on the written report.
-    - **Prompt 3:** What useful suggestions for improving their report did you hear? Explain.
+**Homework Reflections:**
 
-- Remember to complete your post-class reflection.
+- Reflect on what you are most interested in exploring in your final project.
 
-#### Day 10: Homework
+## Day 7: June 5, 9:00-10:30 - First Floor
 
-1. Make progress on your final project.
-1. Be sure to submit your slides to Google Classroom by 8 am on Monday, June 23, 2025.
+### Day 7 Themes: In the Middle Attacks
 
----
+**Day 7 class:**
 
-## Day 9: June 18, 2025 13:30-15:30 in J405
+- Discuss homework
+- [Suspects accused of planting skimming devices at Lexington Kroger stores](https://www.wkyt.com/2024/03/08/suspects-accused-planting-skimming-devices-lexington-kroger-stores/)
+- Another kind of man-in-the-middle attack is physical. Read [Credit Card Skimmers and Shimmers: Everything You Need to Know to Stay Safe](https://www.pcmag.com/explainers/how-to-spot-and-avoid-credit-card-skimmers)
+- Read [Two Arrested for ATM Skimmers](https://www.lexingtonky.gov/news/03-08-2024/two-arrested-atm-skimmers)
+- **Prompt 1: Discuss the importance of having a security mindset.**
+- Complete [5.7. Lab: MitM with Scapy](https://web.njit.edu/~rt494/security/#_lab_mitm_with_scapy) by forking [Codespace for Lab 5.7. Lab: MitM with Scapy](https://github.com/pearcej/security-scapy) to your Github account.
 
-### Day 9 Themes: Security Solutions and their Failures
+**Day 7: Field Work:**
 
-#### Day 9 class
+**Homework readings:**
 
-- Discuss reading and project progress
-- Complete [Peer Instruction: Chapters 7 and 8 Questions](https://runestone.academy/runestone/peer/student.html)
+- Watch [Running a Buffer Overflow Attack - Computerphile](https://youtu.be/1S0aBV-Waeo?feature=shared)
+- Read 5.3 Internet Layer Attacks through 5.5.6. XML Injection from [Chapter 5: Attacks](https://web.njit.edu/~rt494/security/#_attacks)
 
-We will do just one lab today:
-- [7.4 Lab: Linux File Permissions](https://runestone.academy/ns/books/published/KIIS_security_2025/lab-linux-file-permissions.html)
-  - **Prompt 1:** What did you learn about Linux file permissions in this lab? Did you have any difficulties? Explain.
-- ~~[8.3 Lab: Scanning with Nessus](https://runestone.academy/ns/books/published/KIIS_security_2025/lab-scanning-with-nessus.html)~~
-  - ~~**Prompt 2:** What did you learn about vulnerability scanning in this lab? Explain.~~
+**Homework Reflections:**
 
-- Work on your final project.
+- Lightly research any of the ideas that you find confusing in the reading. Give URLs for any sources you use.
+- Summarize the key ideas from the reading, incorporating your research.
+- Which of the attacks in this reading assignment do you find the most scary? Explain why.
 
-- Remember to complete your post-class reflection.
+## Day 6: June 4, 2:00-3:30 - First Floor
 
-#### Day 9: Homework
+### Day 6 Themes: Protocol exploitation
 
-1. **Note that we are skipping chapter 9**, so do the chapter 10 reading: [Textbook Reading: Sections 10.1-10.4](https://runestone.academy/assignment/student/doAssignment?assignment_id=223064)
-1. Make progress on your final project.
+**Day 6 class:**
 
-## Day 8: June 17, 2025 13:30-15:30 in J503
-
-### Day 8 Themes: Security Solutions and their Failures
-
-#### Day 8 class
-
-- Discuss reading
-- Complete [Peer Instruction: Chapter 6 Questions](https://runestone.academy/runestone/peer/student.html)
-
-- What is [Crowdstrike](https://www.crowdstrike.com/en-us/about-us/)? Gemini says, "CrowdStrike is an American cybersecurity technology company that provides endpoint security, threat intelligence, and cyberattack response services. They help protect organizations from cyber threats and breaches using their advanced security platform, CrowdStrike Falcon."
-- Watch the video in [Faulty CrowdStrike update took down 8.5 million Windows computers around the globe](https://www.pbs.org/newshour/show/how-a-faulty-software-update-sparked-tech-disruptions-worldwide)
-- Read [Global Microsoft Meltdown Tied to Bad Crowdstrike Update](https://krebsonsecurity.com/2024/07/global-microsoft-meltdown-tied-to-bad-crowstrike-update/)
-- Read [CrowdStrike outage explained: What caused it and what’s next](https://www.techtarget.com/WhatIs/feature/Explaining-the-largest-IT-outage-in-history-and-whats-next)
-  - **Prompt 1:** What do you think about the CrowdStrike outage? It was not a cyberattack, but some say it was worse, and it was due to a cybersecurity company! Explain your thoughts in your Fieldpad.
-
-- In preparation for the work tomorrow, go to [TryHackMe: Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1) and glance through the content. If you are already familiar with Linux, this room will go quickly and you can move on to [TryHackMe: Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2), if not it will go more slowly. Either is fine. I would like for you to spend 30 minutes and just get as far as you get.
-  - **Prompt 2:** How far did you get? What did you learn about Linux from this/these room(s)? 
-
-- Complete [6.9 Lab: Exploiting Log4j](https://runestone.academy/ns/books/published/KIIS_security_2025/lab-exploiting-log4j.html)
-  - **Prompt 3:** What did you learn from the lab? Did you have any difficulties? Explain.
-
-- If time permits, work on your final project.
-
-- Remember to complete your post-class reflection.
-
-#### Day 8: Homework
-
-1. Read [Textbook Reading: Sections 7.1-7.3 & 8.1-8.2](https://runestone.academy/assignment/student/doAssignment?assignment_id=223016)
-1. Make progress on your final project.
-1. Don't forget to complete your Fieldpad homework for Day 8.
-
----
-
-## Day 7: June 16, 2025 13:30-15:30 in J504
-
-### Day 7 Themes: Attacks!!
-
-#### Day 7 class
-
-- Discuss reading:
-  - what parts of the text need more explanation?
+- Debrief on [How to analyze Emotet with ANY.RUN](https://any.run/malware-trends/emotet).
+- **Prompt 1: Discuss what you saw and what you learned in this lab.**
+- Discuss homework
+  - There were a lot of protocols in the chapter. Were any of these confusing? If so, which ones?
+  - http vs https
+  - IPv4 vs IPv6
+  - Argentina's transition to IPv6
   - Discuss the importance of secure protocols
-- Complete [Peer Instruction: Chapter 5 Questions](https://runestone.academy/runestone/peer/student.html)
+- **Prompt 2: Discuss the importance of secure protocols and why so many exploits have been found.**
+- What is [nmap](https://nmap.org/)
+- Begin [4.5. Lab: Scanning with nmap](https://web.njit.edu/~rt494/security/#_lab_scanning_with_nmap). Begin by forking [Codespace for Lab 4.5. Lab: Scanning with nmap](https://github.com/pearcej/security-nmap) to your Github account.
+- Debrief
 
-- Read [Taiwan Crooks Mastermind $2M Grab-And-Go ATM Heist](https://www.pymnts.com/news/security-and-risk/2016/taiwan-atm-heist-malware/)
-- Read [Everything you need to know about ATM attacks and fraud: Part 1](https://www.malwarebytes.com/blog/news/2019/05/everything-you-need-to-know-about-atm-attacks-and-fraud-part-1)
-- Read [Kentucky authorities warn of dangers of skimming devices](https://www.whas11.com/article/news/crime/skimming-devices-police-stores-how-to-protect-against/417-cc03cce2-3b75-4ce6-af03-f7c8b92d2cb2)
-- [Are Contactless Credit Cards the Safest Way to Pay?](https://www.cnet.com/personal-finance/credit-cards/are-contactless-credit-cards-the-safest-way-to-pay/)
-  - **Prompt 1:** Skimmers are a type of MitM attack.The ATMs in some of the 7-11s and Family Marts are out of sight of the cashier. Do you think about this when you use an ATM? Do you only use bank ATMs? How safe are you when you use an ATM? Do you think your practices will change after reading these articles? Explain your thoughts in your Fieldpad.
+**Day 6: Field Work:**
 
-- Work through the following activities in class:
-  - [5.7 Lab: MitM with Scapy](https://runestone.academy/ns/books/published/KIIS_security_2025/lab-mitm-with-scapy.html)
-  - **Prompt 2:** What did you learn from the lab? Explain.
+**Homework readings:**
 
-- If time permits, work on your final project.
+- Watch [Man in the Middle Attacks & Superfish - Computerphile](https://youtu.be/-enHfpHMBo4?feature=shared)
+- Read [Section 5.1 Interception Attacks and 5.2. Network Layer Attacks in Chapter 5: Attacks](https://web.njit.edu/~rt494/security/#_attacks)
 
-- Remember to complete your post-class reflection.
+**Homework Reflections:**
 
-#### Day 7: Homework
+- Lightly research any of the ideas that you find confusing in the readings. Give URLs for any sources you use.
+- Summarize the key ideas from each of the readings, incorporating your research.
 
-1. Read [Textbook Reading: Sections 6.1-6.8](https://runestone.academy/assignment/student/doAssignment?assignment_id=222727)
-1. Make progress on your final project.
-1. Don't forget to complete your Fieldpad homework for Day 7.
-
----
-
-## Day 6: June 12, 2025 13:30-15:30 in J405
-
-### Day 6 Themes: Getting Started with the Final Project
-
-#### Day 6 class
-
-- Questions about the final project?
-- Today is a day dedicated to working on your final projects.
-  - **Prompt 1:** Discuss what you accomplished and set goals for the long weekend.
-
-- Remember to complete your post-class reflection to discuss what you learned today while you worked on your final project.
-
-#### Day 6: Homework
-
-1. Read [Textbook Reading: Sections 5.1-5.6](https://runestone.academy/assignment/student/doAssignment?assignment_id=222716)
-1. Make progress on your final project by working on the items you set as goals in class today.
-1. Don't forget to complete your Fieldpad homework for Day 6.
-
----
-
-## Day 5: June 11, 2025 13:30-15:30 in J405
+## Day 5: May 31, 1:45-3:00 - First Floor
 
 ### Day 5 Themes: Protocols
 
-#### Day 5 class
+**Day 5 class:**
 
-- Discuss reading:
-  - what parts of the text need more explanation?
-  - There were a lot of protocols in the chapter. Were any of these confusing? If so, which ones?
-    - http vs https
-    - IPv4 vs IPv6
-  - Discuss the importance of secure protocols
-- Complete [Peer Instruction: Chapter 4 Questions](https://runestone.academy/runestone/peer/student.html)
+- Discuss homework
+- Complete  [Lab 2.11. Lab: Hash it Out](https://web.njit.edu/~rt494/security/#_lab_hash_it_out) using your fork of [Codespace for Lab 2.11. Lab: Hash it Out](https://github.com/pearcej/security-hash).
+- Read [Let’s talk Emotet malware](https://www.malwarebytes.com/emotet)
+- Go to [Any Run](https://any.run/) and make a free account.
+- Watch [How to analyze Emotet with ANY.RUN](https://any.run/malware-trends/emotet)
+- Now try [3.7. Lab: Malware Analysis](https://web.njit.edu/~rt494/security/#_lab_malware_analysis) starting with clicking on public reports and search for the hash 0e106000b2ef3603477cb460f2fc1751. Then follow the directions in the text.
 
-#### Day 5: Field Work
+**Day 5: Field Work:**
 
-- I would like to focus a bit on IPv4 vs IPv6, so we will do a bit of a deep dive into that.
-  - Watch [IPv4 vs IPv6: How it works](https://youtu.be/RcszGnTC24E?feature=shared)
-  - Check your own IP address at [What is My IP Address?](https://whatismyipaddress.com/)
-  - Read [The Impact of IPv6 on Healthcare in Taiwan: A Case Study](https://fizara.com/the-impact-of-ipv6-on-healthcare-in-taiwan-a-case-study/)
-  - Look at [Taiwan IPv6 Global Ranking: 12](https://ipv6now.twnic.tw/ipv6/index.html) and click on the "top 30 list".
-  - **Prompt 1:** What do you think about Taiwan's IPv6 ranking? What do you notice in the top 30 list? What country is absent from the top 30 list that you would expect to see there? Discuss your thoughts in your Fieldpad.
+**Homework readings:**
 
-- What is [Nmap](https://nmap.org/)?
-- Watch [Nmap Basic Port Scan](https://youtu.be/hIUIDHzarNo?feature=shared).
-- Complete [4.5. Lab: Scanning with Nmap](https://runestone.academy/ns/books/published/KIIS_security_2025/lab-scanning-with-nmap.html). Begin by forking [Codespace for Lab 4.5. Lab: Scanning with Nmap](https://github.com/pearcej/security-nmap) to your Github account.
-- Debrief
-- **Prompt 2:** What did you learn in this lab? Explain.
+- Watch [What are Network Protocols? Here's Why They're Important](https://youtu.be/znIjk-7ZuqI?feature=shared)
+- Read [What is HTTPS? HTTP vs HTTPS Meaning and How it Works](https://www.freecodecamp.org/news/what-is-https-http-vs-https-meaning-and-how-it-works/)
+- Read [IPv4 vs. IPv6: What Are the Differences?](https://www.howtogeek.com/901201/ipv4-vs-ipv6/)
+- Read [Chapter 4 Protocols](https://web.njit.edu/~rt494/security/#_protocols)
 
-- Remember to complete your post-class reflection.
+**Homework Reflections:**
 
-#### Day 5: Homework
+- Summarize the key ideas from each of the readings.
+- Research Argentina's transition to IPv6 and summarize your findings in a one page essay with references.
+- Discuss the interconnections between the readings.
 
-- [Final Project Proposal](final-project-proposal.md) due Thursday, June 12, 2025 8 am.
-- In your Fieldpad, just write "see submitted project proposal".
+## Day 4: May 30, 10:45-12:00 - First Floor
 
----
+### Day 4 Themes: Hands-on cryptography
 
-## Day 4: June 10, 2025 13:30-15:30 in J506
+**Day 4 class:**
 
-### Day 4 Themes: Malware and Malware Analysis
+- Discussion of homework
+- Watch and discuss [The Internet: Encryption & Public Keys](https://youtu.be/ZghMPWGXexs?feature=shared)
+- Explaining the command line and why people still use it
+- Complete [Lab 2.11. Lab: Hash it Out](https://web.njit.edu/~rt494/security/#_lab_hash_it_out) using your your folk of the[Github Codespace for Lab 2.11. Lab: Hash it Out](https://github.com/pearcej/security-hash).
+- **Prompt 1: Reflect on the use of the command line and why it is still used.**
+- Overview of malware
 
-#### Day 4 class
+**Day 4: Field Work:**
 
-- Discuss homework, [Tryhackme](https://tryhackme.com/dashboard), and final project
-- Complete [Peer Instruction: Chapter 3 Questions](https://runestone.academy/runestone/peer/student.html)
-  
-#### Day 4: Field Work
+**Homework readings:**
 
-- Read [Blockchain Facts: What Is It, How It Works, and How It Can Be Used](https://www.investopedia.com/terms/b/blockchain.asp) and [Taiwan-Based Exchange BitoPro Suffers $11.5 Million Hack, User Funds Unaffected](https://cryptonews.com/news/taiwan-based-exchange-bitopro-suffers-11-5-million-hack-user-funds-unaffected/)
-  - **Prompt 1:** How can you reconcile these two articles given the immutability of blockchain technologies? Explain.
+- [What Is Malware? Most Common Types, How They Work, & Easily Avoid Them](https://youtu.be/lXDllXbiHzA?feature=shared)
+- Read [Malware and Mysteries: Secret Surveillance in Argentina](https://www.eff.org/deeplinks/2016/11/state-surveillance-argentina)
+- Read [TikTok is “unacceptable security risk” and should be removed from app stores, says FCC](https://www.malwarebytes.com/blog/news/2022/07/tiktok-is-unacceptable-security-risk-and-should-be-removed-from-app-stores-says-fcc)
 
-- Watch [But how does bitcoin actually work?](https://www.3blue1brown.com/lessons/bitcoin)
-  - **Prompt 2:** In a couple of sentences, explain what you learned about how cryptocurrency works from this video.
+**Homework Reflections:**
 
-- ~~Watch [Hackers & Cyber Attacks: Crash Course Computer Science #32](https://youtu.be/_GzE99AmAQU?feature=shared)~~
-  - ~~**Prompt 3:** Was there anything in this video that was new to you? What was it? Explain.~~
+1. What are the most important things you learned from the readings? Explain.
+2. Discuss how a government or a government-owned company might use malware to spy on its citizens and others. What are the ethical implications of this?
 
-- Watch [Interactive Malware Analysis and Threat Intelligence – ANY.RUN](https://youtu.be/Ts-ZCK9IRJE?feature=shared)
-- Complete [3.7 Lab: Malware Analysis](https://runestone.academy/ns/books/published/KIIS_security_2025/lab-malware-analysis.html)
-- If you finish the lab itself, visit the [ANY.RUNBlog](https://any.run/cybersecurity-blog/guides/) to learn how to explore malware analysis further.
-  - **Prompt ~~4~~3:** What did you learn about malware analysis in this lab? Did anything surprise you? Explain.
+## Day 3: May 28, 10:45-12:00 - First Floor
 
-- Remember to complete your post-class reflection.
+### Day 3 Themes: Cryptography
 
-#### Day 4: Homework readings
+**Day 3 class:**
 
-1. Read [Textbook Reading: Sections 4.1-4.4](https://runestone.academy/runestone/lti?assignment_id=222708)
-1. Read  [Details of the final deliverables](final-deliverables.md) to prepare for questions about the final project.
-1. Don't forget to complete your Fieldpad homework for Day 4.
-
----
-
-## Day 3: June 9, 2025 13:30-15:30 in ~~J419~~ J506
-
-### Day 3 Themes: Digging into Cryptography
-
-#### Day 3 class
-
-- Discuss homework, [Tryhackme](https://tryhackme.com/dashboard), and final project
-- Peer Instruction: [Chapter 2 Questions](https://runestone.academy/runestone/peer/student.html)
+- Discussion of homework
+- Discuss blockchain and why Argentina's president is promoting it.
 - Discuss how an algorithm can be easy to check, but hard to reverse, which is what you need for a good encryption algorithm. Bigger versions of Sudoku were used as an example.
+- Explore [Crypto Corner](https://crypto.interactive-maths.com/help-with-activities.html)
 
-#### Day 3: Field Work
+**Day 3: Field Work:**
 
-- With your partner(s), explore [Crypto Corner](https://crypto.interactive-maths.com/help-with-activities.html)
-  - **Prompt 1:** I chose to introduce [Crypto Corner](https://crypto.interactive-maths.com/help-with-activities.html) to make some of the ideas more concrete. Was there anything that you learned about cryptography that you didn't know before? Explain.
+**Homework readings:**
 
-- Your text mentions Docker.
-  - **Prompt 2:** Very briefly, what is [Docker](https://docs.docker.com/get-docker/)?
+- Read chapter 3, Malware in [Computer Systems Security: Planning for Success](https://open.umn.edu/opentextbooks/formats/3421?authuser=0)
+- [Netwalker ransomware hits Argentinian government, demands $4 million](https://www.bleepingcomputer.com/news/security/netwalker-ransomware-hits-argentinian-government-demands-4-million/)
 
-- Your text mentions Github CodeSpaces.
-  - **Prompt 3:** Very briefly, what are [GitHub Codespaces](https://docs.github.com/en/codespaces/about-codespaces/what-are-codespaces)?
+**Homework Reflections:**
 
-- Go to [2.11 Lab Hash It Out](https://runestone.academy/ns/books/published/KIIS_security_2025/lab-hash-it-out.html) and work with your partner(s) to complete the lab.
-  - **Prompt 4:** What did you learn about hashing in this lab?
+1. What are the most important things you learned from the readings? Explain.
+2. Discuss the interconnections between the given readings.
 
-- Remember to complete your post-class reflection.
+## Day 2: May 27, 10:45-12:00 - First Floor
 
-#### Day 3: Homework readings
+### Day 2 Themes: Security in the City
 
-1. Read [Textbook Reading: Sections 3.1-3.6](https://runestone.academy/runestone/lti?assignment_id=222682)
-2. In your Fieldpad, identify and briefly summarize main ideas from these sections, and then react and reflect on these main ideas (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way.) Note that if you use AI to summarize, etc., you must link to the chat as described in the syllabus. Remember  not use AI to write your reflections, as this is a personal reflection on your learning and reactions.
+**Day 2 class:**
 
----
+- Soon, I will comment on your field pad entries.
+- Discussion of homework
+- Look-up: ciphers, cryptography, encryption, and hashes and paste definitions.
+  - **Prompt 2: Discuss why we need encryption and how it is needed in cybersecurity.**
+- Your text mentions Docker. What is [Docker](https://docs.docker.com/get-docker/)?
+- Instead of using Docker locally, we will use Docker in Github Codespaces. Go to [Codespace for Lab 2.11. Lab: Hash it Out](https://github.com/pearcej/security-hash), make a Github account, and fork the repository. Then follow the instructions in the README.md file.
+- Begin Lab 2.11 in [Computer Systems Security: Planning for Success](https://open.umn.edu/opentextbooks/formats/3421?authuser=0)
+- Discuss homework
 
-## Day 2: June 6, 2025 13:30-15:30 in J317
+**Day 2: Field Work:**
 
-### Day 2 Themes: Cryptography, Encryption, and Hashing
-
-#### Day 2 class
-
-- I will try to give feedback on your Fieldpad entries by Monday.
-- Discuss homework Day 1
-- Peer Instruction: [Chapter 1 Questions](https://runestone.academy/runestone/peer/student.html)
-
-#### Day 2: Field Work
-
-- Work with your partner(s) to do [Lab 1.7 Think Like a Hacker](https://runestone.academy/ns/books/published/KIIS_security_2025/lab-think-like-a-hacker.html)
-  - **Prompt 1**: Write your five free breakfast hacks in your fieldpad
-
-- Watch the following video with skepticism: [Expert Q&A: DOGE May Be a Cybersecurity Nightmare](https://www.thecipherbrief.com/column_article/expert-qa-doge-may-be-a-cybersecurity-nightmare)
-  - **Prompt 2**: What did you agree with in the video? What did you disagree with? What surprised you? What made you question? Explain.
-
-- Watch [Cybersecurity: Crash Course Computer Science #31](https://youtu.be/bPVaOlJ6ln0?feature=shared)
-  - **Prompt 3**: As you watch the video, jot down new terminology such as access models that are mentioned so you can look them up afterwards. Which of these models did you look up? What did you learn about them?
-
-- Read [Should You Use Passkeys Instead of Passwords?](https://www.consumerreports.org/electronics/digital-security/should-you-use-passkeys-instead-of-passwords-a1201817243/)
-  - **Prompt 4**: Discuss what Consumer Reports sees as the pros and cons of using passkeys instead of passwords, and add your own thoughts on this topic. 
+**Homework readings:**
 
 - Watch [Cryptography: Crash Course Computer Science #33](https://youtu.be/jhXCTbFnK8o?feature=shared)
-  - **Prompt 5**: As you watch the video, jot down terminology so you can look it up afterwards.
+- Read chapter 2 in [Computer Systems Security: Planning for Success](https://open.umn.edu/opentextbooks/formats/3421?authuser=0)
+- Read [Argentina’s Double-Down on Blockchain Could Spark Economic Revival](https://www.ccn.com/news/argentinas-double-down-on-blockchain-could-spark-economic-revival/)
 
-- **Post-class reflection**: *Remember that the Post-class reflection should be a summary reflection on the course material learned that day. It should be formally written with yourself, your classmates and your professor as the audience.* Reflect on the day's activities and discussions in your fieldpad. What did you learn about cybersecurity and ethics and how do these concepts apply to Taiwan's unique context?
+**Homework Reflections:**
+(Note that unless otherwise stated, all homework is due at 8 am on the day of the next class session.) Use the Cybersecurity Field Pad to record your reflections.
 
-#### Day 2: Homework readings
+1. What are the most important things you learned from the readings/videos? Explain.
+2. Discuss the interconnections between the given readings/video.
 
-1. Read [Textbook Reading: Sections 2.1-2.10](https://runestone.academy/assignment/student/doAssignment?assignment_id=222667)
-2. In your Fieldpad, identify and briefly summarize main ideas from these sections, and then react and reflect on these main ideas (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way.) Note that if you use AI to summarize, etc., you must link to the chat as described in the syllabus. Remember  not use AI to write your reflections, as this is a personal reflection on your learning and reactions.
-3. Use your voucher for [tryhackme](https://tryhackme.com/dashboard) premium. Then spend at least 30 minutes exploring in [tryhackme](https://tryhackme.com/dashboard) with the purpose of finding content that interests you that you might like to focus on for a project. In your Fieldpad report what you found interesting.
+## Day 1: May 24, 10:00-10:45 - First Floor
 
-- Note: You may be quizzed on these textbook readings at the beginning of the next class.
+### Day 1 Themes: Class Overview and the Cybersecurity Mindset
 
----
+**Day 1 class:**
 
-## Day 1: June 5, 2025 13:30-15:30 in J604
+- introductions
+- What is cybersecurity?
+- What is ethics and how is it related to cybersecurity?
+- What is a security mindset?
+- What is a hacker mindset?
+- Watch [Cyber Security In 7 Minutes](https://youtu.be/inWWhr5tnEA?feature=shared)
+- course overview
+  - [Google classroom site](https://classroom.google.com/c/NjI5OTgzMTIxNjY0?cjc=4h3w5cw) - to add yourself to the classroom
+  - [Course Syllabus](https://docs.google.com/document/d/1RQQXr5bMYzmBOjtXHsAXmbZOZL8kW23T/edit?usp=sharing&ouid=103905169133625663429&rtpof=true&sd=true)
+  - [Computer Systems Security: Planning for Success](https://open.umn.edu/opentextbooks/formats/3421?authuser=0)
+  - [Cybersecurity Field Pad](https://docs.google.com/document/d/1ksL3aCUhUNl558yh35L-rxMJ6jfy8RfWvKK2CC7XlCY/edit?usp=sharing)
 
-### Day 1 Themes: Class Overview: Cybersecurity in Taiwan
+**Day 1: Field Work:**
 
-#### Day 1 class
+**Homework readings:**
 
-- Introductions and logistics
-  - Who is in this class?
-  - Overview of the course
-  - [Google classroom site](https://classroom.google.com/c/NjI5OTgzMTIxNjY0?cjc=rpt2rpgv). Please add yourself to the classroom.
-  - [Course Syllabus](https://docs.google.com/document/d/1Jc3zh2cSTOSD7iw2UVOWAKhpYxg6cWGW/edit?usp=sharing&ouid=100810602293768157293&rtpof=true&sd=true)
-  - Go to [Cybersecurity and Ethics Fieldpad](https://drive.google.com/drive/folders/1uR21yTw9cVIfzlwDqEaM-65S4X_lNwuN?usp=drive_link) and request access to your own fieldpad. This is where you will record your in-class and homework reflections.
-  - Textbook: [Computer Systems Security: Planning for Success](https://runestone.academy/ns/books/published/KIIS_security_2025/comp-sys-sec.html), using **KIIS_security_2025** as the course code. Doing your readings while logged in will get you participation points.
-- Some questions to keep in mind today and throughout the course:
-  - What is cybersecurity?
-  - What is ethics and how is it related to cybersecurity?
-  - What is a security mindset? ...a hacker mindset?
-  - How are Taiwan's history and location relevant to cybersecurity?
-  - KIIS takes pride in high academic standards, but also requires that all courses be prerequisite-free. KIIS strongly encourages a *Place-As-Text* approach, which helps students learn content via international context.
-  - Over next few days, be sure to go out and pay attention to the security of anything that is related to money. Discuss what you observed and how people protect their money, especially anything that might be hackable.
+- Watch [Cybersecurity: Crash Course Computer Science #31](https://youtu.be/bPVaOlJ6ln0?feature=shared)
+- Watch [The Hacker Mindset](https://youtu.be/NnZPRpNXQFw?feature=shared)
+- Read chapter 1 in [Computer Systems Security: Planning for Success](https://open.umn.edu/opentextbooks/formats/3421?authuser=0)
+- Pick and choose some readings in [Cybersecurity: Comprehensive Analysis in Argentina (2024)](https://globalregulatoryinsights.com/insight/cybersecurity-comprehensive-analysis-in-argentina-2024/). Note that this is an extensive document - you are not expected to read it all. Instead, pick and choose sections that interest you.
 
-#### Day 1: Field Work
+**Homework Reflections:**
+(Note that unless otherwise stated, all homework is due at 8 am on the day of the next class session.) Use the Cybersecurity Field Pad to record your reflections.
 
-- It would be very difficult to understand cybersecurity in any country without understanding the context of the country. This is true of both Taiwan and the US. The following readings will help you understand Taiwan's history and culture as well as what cybersecurity is in both Taiwan and more generally.
-
-- Read [Taiwan Timeline: A Brief Overview](https://taiwanpolicycentre.com/research/timeline/), and then respond to the following questions in your field pad:
-  - **Prompt 1**: From reading this, if you were going to select one influence from Taiwan's history that you think is the most relevant to understanding Taiwan's cybersecurity today, what would it be. Explain.
-
-- The following article discusses why cybersecurity has become a critical component of Taiwan's national security strategy, requiring sustained commitment to international collaboration and comprehensive defensive and offensive capabilities. Read [The Nexus of Cybersecurity and National Security: Taiwan’s Imperatives Amidst Escalating Cyber Threats](https://globaltaiwan.org/2024/03/the-nexus-of-cybersecurity-and-national-security-taiwans-imperatives-amidst-escalating-cyber-threats/)
-  - **Prompt 2**: From reading this, since Chinese cyber operations specifically target Taiwan's democratic processes and institutions, how should a democratic society like Taiwan defend itself against authoritarian cyber interference without compromising their core values of openness and transparency?
-
-- Watch [How China Is Building an Army of Hackers](https://youtu.be/8kpnSb4yGR0?feature=shared)
-  - **Prompt 3**: The video describes how the Tianfu Cup competition feeds vulnerabilities directly to Chinese intelligence services, which were then used to spy on Uyghur populations. Analyze the ethical implications of state-sponsored hacking competitions and discuss how democratic nations like Taiwan and the US should balance cybersecurity research with human rights concerns.
-
-- **Post-class reflection**: *Remember that the Post-class reflection should be a summary reflection on the course material learned that day. It should be formally written with yourself, your classmates and your professor as the audience.* Reflect on the day's activities and discussions in your fieldpad. What did you learn about cybersecurity and ethics and how do these concepts apply to Taiwan's unique context?
-
-#### Day 1: Homework readings
-
-1. Read [Textbook Reading: Sections 1.1-1.6](https://runestone.academy/assignment/student/doAssignment?assignment_id=222623)
-2. In your Fieldpad, identify and briefly summarize main ideas from these sections, and then react and reflect on these main ideas (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way.) Note that if you use AI to summarize, etc., you must link to the chat as described in the syllabus. Please do not use AI to write your reflections, as this is a personal reflection on your learning and reactions.
-
-- Note: You may be quizzed on these textbook readings at the beginning of the next class.
-
-**Homework:**
-(Note that unless otherwise stated, all homework is due at 8 am on the day of the next class session.) Use the Cybersecurity Field Pad to record your in-class and also your homework reflections.
-
----
+1. What are the most important things you learned about cybersecurity from the readings/videos? Explain.
+2. Do you have a security mindset? Explain.
+3. As you travel around the city today. Take note of any open WiFi networks. Research and discuss the risks of using these networks (be sure to give references here). Discuss the benefits of using these networks. What would you recommend to someone who is considering using an open WiFi network?
+4. Over the weekend, be sure to go out and pay attention to the security of anything that is related to money. Discuss what you observed and how Argentines protect their money, especially anything that might be hackable.
 
 ### In addition to the normal stuff, be sure to pack all of the following in your carry-on bag (not your checked luggage.)
-
-- your laptop and charger
-- earphones to use with your laptop
-
+  - your laptop and charger
+  - conversion plugs for both types of Argentina's power outlet shapes
+  - earphones to use with your laptop
+     
 ---
-
-###### Copyright © 2025 | Licensed under a Creative Commons Attribution-Share Alike 4.0 United States License
+###### Copyright © 2024 | Licensed under a Creative Commons Attribution-Share Alike 3.0 United States License
