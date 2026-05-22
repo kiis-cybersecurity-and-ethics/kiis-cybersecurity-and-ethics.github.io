@@ -19,10 +19,9 @@
 
 - What is cybersecurity?
 - Watch [Cyber Security In 7 Minutes](https://youtu.be/inWWhr5tnEA?feature=shared)
-- **Prompt 1:** What is one attack the video discussed that made you think? Explain.
-- Discuss what are ethics and how are ethics related to cybersecurity?
-- Watch [Cybersecurity: Crash Course Computer Science #31](https://youtu.be/bPVaOlJ6ln0?feature=shared)
-- **Prompt 2:** What are the fundamental goals of cybersecurity according to the video? Do you agree or disagree? Explain.
+- **Prompt 1:** What is one attack the video discussed that made you think? Explain. 
+- **Prompt 2:** Discuss what are ethics and how are ethics related to cybersecurity?
+
 
 - **Post-class reflection:** *Remember that the Post-class reflection should be a summary reflection on the course material learned that day. It should be formally written with yourself, your classmates and your professor as the audience.* Reflect on the day’s activities and discussions in your Fieldpad in your own words. Do not use AI. What did you learn? Explain.
 
