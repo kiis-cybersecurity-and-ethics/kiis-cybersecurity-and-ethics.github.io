@@ -28,7 +28,7 @@
 
 **Homework readings:**
 
-- Read chapter 1 in [Computer Systems Security: Planning for Success](https://open.umn.edu/opentextbooks/formats/3421?authuser=0)
+- Read chapter 1, all sections (1.1-1.8) in [Computer Systems Security: Planning for Success](https://runestone.academy/assignment/student/doAssignment?assignment_id=269764)
 
 **Homework Reflections:**
 (Note that unless otherwise stated, all homework is due at 8 am on the day of the next class session.) Use the Cybersecurity Field Pad to record your reflections.
