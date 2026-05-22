@@ -14,7 +14,7 @@
   - Introductions
   - [Google classroom site](https://classroom.google.com/c/ODY0ODI3OTg5NzE3?cjc=s5pthbqu) - to add yourself to the classroom
   - [Course Syllabus](https://www.kiis.org/wp-content/uploads/2025/10/CS475-Cybersecurity-Pearce-Argentina-2026.pdf)
-  - [Computer Systems Security: Planning for Success](https://runestone.academy) change books to kiis_security_2026 if you have a Runestone account, otherwise create one using a username that includes your last name,and join this book. After you join it, you can access it at [Computer Systems Security: Planning for Success](https://runestone.academy/ns/books/published/kiis_security_2026/frontmatter.html)
+  - [Computer Systems Security: Planning for Success](https://runestone.academy) change books to kiis_security_2026 if you have a Runestone account, otherwise create one using a username that includes your last name, and join this book. After you join it, you can access it at [Computer Systems Security: Planning for Success](https://runestone.academy/ns/books/published/kiis_security_2026/frontmatter.html)
   - [Cybersecurity Field Pad](https://drive.google.com/drive/folders/1pgHQ40ggBte8l_0-_kk-dpvjp5SSso5T?usp=sharing) Request access to yours.
 
 - What is cybersecurity?
