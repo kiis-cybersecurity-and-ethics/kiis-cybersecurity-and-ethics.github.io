@@ -24,7 +24,7 @@
 - Watch the following video: [AI, Cybersecurity, and the Future of National Defense](https://www.youtube.com/watch?v=e6ZQyowhhhk)
   - **Prompt 2**: The video suggests that AI is both a weapon and an opportunity. What do you think? Explain.
 
-Skim the following articles:
+- Skim the following articles:
   - [The unique relationship between the government and cybersecurity](https://ventureinsecurity.net/p/the-governments-role-in-shaping-the)
   - [US: Fears Mount That US Federal Cybersecurity Is Stagnating—or Worse](https://www.wired.com/story/expired-tired-wired-federal-cybersecurity/)
   - [US: CISA Details That Hackers Gained Access to a U.S. Federal Agency Network Via GeoServer RCE Vulnerability](https://cybersecuritynews.com/federal-agency-network-geoserver-vulnerability/)
