@@ -36,6 +36,7 @@
 
 #### Day 2: Homework readings
 
+1. Complete the article skimming and the Prompts 3 and 4 from class.
 1. Read [Textbook Reading: Sections 2.1-2.10](https://runestone.academy/assignment/student/doAssignment?assignment_id=269762) Do NOT do the lab in 2.11 since we will do it together in class. Take notes as you read. What are the main points of the chapter? What did you learn? Explain.
 1. Explore at least one idea from the reading or from class to learn more about. Find at least three sources and write a three or more paragraph summary of what you learned. Be sure to include the sources you used and a link to them in your Fieldpad. If you use AI at all, be sure to link to the chat as described in the syllabus.
 1. Purchase one month or use your voucher for [tryhackme](https://tryhackme.com/dashboard) premium. Then spend at least 30 minutes exploring in [tryhackme](https://tryhackme.com/dashboard) with the purpose of finding content that interests you that you might like to focus on for a project. In your Fieldpad report what you found interesting.
