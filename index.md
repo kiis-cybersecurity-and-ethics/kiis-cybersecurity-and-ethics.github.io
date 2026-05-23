@@ -30,14 +30,14 @@
   - [US: CISA Details That Hackers Gained Access to a U.S. Federal Agency Network Via GeoServer RCE Vulnerability](https://cybersecuritynews.com/federal-agency-network-geoserver-vulnerability/)
   - [Argentina: When cybersecurity is co-opted by state intelligence](https://www.derechosdigitales.org/en/recursos/when-cybersecurity-is-co-opted-by-state-intelligence/)
   - [Argentina: Personal data of millions exposed after two government sites hacked](https://buenosairesherald.com/business/tech/personal-data-of-millions-exposed-after-two-government-sites-hacked)
-  - **Prompt 3:**: Discuss what you see as the appropriate role for governments in cybersecurity. What do you think the government should be doing to protect its citizens? What do you think the government should not be doing? Explain.
-  - **Prompt 4:**: Discuss the ethical tradeoffs that exist between convenience, security, surveillance, and privacy
+  - **Prompt 3:** Discuss what you see as the appropriate role for governments in cybersecurity. What do you think the government should be doing to protect its citizens? What do you think the government should not be doing? Explain.
+  - **Prompt 4:** Discuss the ethical tradeoffs that exist between convenience, security, surveillance, and privacy
 - **Post-class reflection**: *Remember that the Post-class reflection should be a summary reflection on the course material learned that day. It should be formally written with yourself, your classmates and your professor as the audience.* Reflect on the day's activities and discussions in your fieldpad. What did you learn about cybersecurity and ethics and how do these concepts apply to Taiwan's unique context?
 
 #### Day 2: Homework readings
 
 1. Read [Textbook Reading: Sections 2.1-2.10](https://runestone.academy/assignment/student/doAssignment?assignment_id=269762) Do NOT do the lab in 2.11 since we will do it together in class. Take notes as you read. What are the main points of the chapter? What did you learn? Explain.
-1. Explore at least one idea from the reading or from class to learn more about. Find at least three sources and write a brief summary of what you learned. Be sure to include the sources you used and a link to them in your Fieldpad. If you use AI at all, be sure to link to the chat as described in the syllabus.
+1. Explore at least one idea from the reading or from class to learn more about. Find at least three sources and write a three or more paragraph summary of what you learned. Be sure to include the sources you used and a link to them in your Fieldpad. If you use AI at all, be sure to link to the chat as described in the syllabus.
 1. Purchase one month or use your voucher for [tryhackme](https://tryhackme.com/dashboard) premium. Then spend at least 30 minutes exploring in [tryhackme](https://tryhackme.com/dashboard) with the purpose of finding content that interests you that you might like to focus on for a project. In your Fieldpad report what you found interesting.
 
 ---
