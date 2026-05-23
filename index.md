@@ -4,6 +4,45 @@
 
 ---
 
+## Day 2: May 23, 2026, 9:00-10:15
+
+### Day 2 Theme: Governments' Role in Cybersecurity
+
+#### Day 2 class
+
+- I am hoping to give you feedback on your Fieldpad this weekend.
+- Discuss homework from Day 1:
+  - How much time did you spend on the reading?
+  - What did you learn from the reading?
+  - Discuss: five free breakfast hacks
+  - Peer Instruction: [Chapter 1 Questions](https://runestone.academy/runestone/peer/student.html)
+  - What did you observe about public spaces, including surveillance cameras, smartphones, public Wi-Fi systems, and digital payment systems. 
+
+  - Watch [Cybersecurity: Crash Course Computer Science #31](https://youtu.be/bPVaOlJ6ln0?feature=shared)
+  - **Prompt 1**: As you watch the video, jot down new terminology such as access models that are mentioned so you can look them up afterwards. Which of these terms did you look up? What did you learn about them?
+
+- Watch the following video: [AI, Cybersecurity, and the Future of National Defense](https://www.youtube.com/watch?v=e6ZQyowhhhk)
+  - **Prompt 2**: The video suggests that AI is both a weapon and an opportunity. What do you think? Explain.
+
+Skim the following articles:
+  - [The unique relationship between the government and cybersecurity](https://ventureinsecurity.net/p/the-governments-role-in-shaping-the)
+  - [US: Fears Mount That US Federal Cybersecurity Is Stagnating—or Worse](https://www.wired.com/story/expired-tired-wired-federal-cybersecurity/)
+  - [US: CISA Details That Hackers Gained Access to a U.S. Federal Agency Network Via GeoServer RCE Vulnerability](https://cybersecuritynews.com/federal-agency-network-geoserver-vulnerability/)
+  - [Argentina: When cybersecurity is co-opted by state intelligence](https://www.derechosdigitales.org/en/recursos/when-cybersecurity-is-co-opted-by-state-intelligence/)
+  - [Argentina: Personal data of millions exposed after two government sites hacked](https://buenosairesherald.com/business/tech/personal-data-of-millions-exposed-after-two-government-sites-hacked)
+  - **Prompt 3:**: Discuss what you see as the appropriate role for governments in cybersecurity. What do you think the government should be doing to protect its citizens? What do you think the government should not be doing? Explain.
+  - **Prompt 4:**: Discuss the ethical tradeoffs that exist between convenience, security, surveillance, and privacy
+
+- **Post-class reflection**: *Remember that the Post-class reflection should be a summary reflection on the course material learned that day. It should be formally written with yourself, your classmates and your professor as the audience.* Reflect on the day's activities and discussions in your fieldpad. What did you learn about cybersecurity and ethics and how do these concepts apply to Taiwan's unique context?
+
+#### Day 2: Homework readings
+
+1. Read [Textbook Reading: Sections 2.1-2.10](https://runestone.academy/assignment/student/doAssignment?assignment_id=269762) Do NOT do the lab in 2.11 since we will do it together in class. Take notes as you read. What are the main points of the chapter? What did you learn? Explain.
+1. In your Fieldpad, identify and briefly summarize main ideas from these sections, and then react and reflect on these main ideas (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way.) Note that if you use AI to summarize, etc., you must link to the chat as described in the syllabus. Remember  not use AI to write your reflections, as this is a personal reflection on your learning and reactions.
+3. Purchase one month or use your voucher for [tryhackme](https://tryhackme.com/dashboard) premium. Then spend at least 30 minutes exploring in [tryhackme](https://tryhackme.com/dashboard) with the purpose of finding content that interests you that you might like to focus on for a project. In your Fieldpad report what you found interesting.
+
+---
+
 ## Day 1 May 22, 2026 9:00-10:15
 
 ### Day 1 Themes: Class Overview and the Cybersecurity Mindset
