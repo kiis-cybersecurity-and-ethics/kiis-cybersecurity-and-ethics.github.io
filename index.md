@@ -4,6 +4,37 @@
 
 ---
 
+## Day 3: May 26, 2026, 9:00-10:15
+
+### Day 3 Theme: Digging into Cryptography
+
+#### Day 3 class
+
+- Discuss homework, [Tryhackme](https://tryhackme.com/dashboard), the [Final Project Proposal](https://kiis-cybersecurity-and-ethics.github.io/final-project-proposal.html), and [Final Project](https://kiis-cybersecurity-and-ethics.github.io/final-deliverables.html)
+- Peer Instruction: [Chapter 2 Questions](https://runestone.academy/runestone/peer/student.html)
+- Discuss how an algorithm can be easy to check, but hard to reverse, which is what you need for a good encryption algorithm. Bigger versions of Sudoku were used as an example.
+
+- With your partner(s), explore [Crypto Corner](https://crypto.interactive-maths.com/help-with-activities.html)
+  - **Prompt 1:** I chose to introduce [Crypto Corner](https://crypto.interactive-maths.com/help-with-activities.html) to make some of the ideas more concrete. Was there anything that you learned about cryptography that you didn't know before? Explain.
+
+- Your text mentions Docker.
+  - **Prompt 2:** Very briefly, what is [Docker](https://docs.docker.com/get-docker/)? Note: It is fine to look into this further online, but try to summarize it in your own words. 
+
+- Your text mentions Github CodeSpaces.
+  - **Prompt 3:** Very briefly, what are [GitHub Codespaces](https://docs.github.com/en/codespaces/about-codespaces/what-are-codespaces)? Again, it is fine to look into this further online, but try to summarize it in your own words. 
+
+- Go to [2.11 Lab Hash It Out](https://runestone.academy/ns/books/published/kiis_security_2026/lab-hash-it-out.html) and work with your partner(s) to complete the lab.
+  - **Prompt 4:** What did you learn about hashing in this lab?
+
+- Remember to complete your post-class reflection **promptly**.
+
+#### Day 3: Homework readings
+
+1. Read [Textbook Reading: Sections 3.1-3.6](https://runestone.academy/assignment/student/doAssignment?assignment_id=269760)
+2. In your Fieldpad, identify and briefly summarize main ideas from each of these sections, and then react and reflect on these main ideas (what surprised you, what challenged you, what made you question, etc. Explain your reactions by reflecting on why you think you reacted this way.) Note that if you use AI to summarize, etc., you must link to the chat as described in the syllabus. Remember  not use AI to write your reflections, as this is a personal reflection on your learning and reactions.
+
+---
+
 ## Day 2: May 23, 2026, 9:00-10:15
 
 ### Day 2 Theme: Governments' Role in Cybersecurity
