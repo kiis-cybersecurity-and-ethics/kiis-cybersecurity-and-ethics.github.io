@@ -1,6 +1,6 @@
 ## Final Deliverables
 
-### Final Presentation - Slides due Monday, June 23, 2025
+### Final Presentation
 
 - 7-8 minutes presenting followed by 3 minutes of questions.
 - This can be delivered with more personality than the report.
@@ -66,7 +66,7 @@ Recommendations
 
 ---
 
-### Final report - Due 8 am on Tuesday, June 24, 2025
+### Final report
 
 - 1 cover page plus 3-4 pages single spaced with section headers, 1-inch margins and 12-point font. This should be written formally.
 
