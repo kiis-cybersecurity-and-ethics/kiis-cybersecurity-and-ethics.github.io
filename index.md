@@ -29,7 +29,7 @@
 #### Day 4: Homework readings
 
 1. Read [Textbook Reading: Sections 4.1-4.4](https://runestone.academy/runestone/lti?assignment_id=222708), taking notes in your Fieldpad.
-1. Read [Blockchain Facts: What Is It, How It Works, and How It Can Be Used](https://www.investopedia.com/terms/b/blockchain.asp), taking notes in your Fieldpad.
+1. Read [Blockchain Facts: What Is It, How It Works, and How It Can Be Used](https://www.investopedia.com/terms/b/blockchain.asp), taking notes in your Fieldpad. What are the main points of the article? What did you learn? Explain.
 
 ---
 
