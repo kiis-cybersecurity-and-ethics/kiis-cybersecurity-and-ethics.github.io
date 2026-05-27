@@ -4,6 +4,37 @@
 
 ---
 
+---
+
+## Day 4: May 27, 2026, 9:00-10:15
+
+### Day 4 Themes: Cryto and Malware
+
+#### Day 4 class
+
+- Discuss any questions on homework, [Tryhackme](https://tryhackme.com/dashboard), and final project
+- Complete [Peer Instruction: Chapter 3 Questions](https://runestone.academy/runestone/peer/student.html)
+
+- Watch [What is Blockchain?](https://youtu.be/bBC-nXj3Ng4?si=kaiq2SLI4npMsVV8)
+  - **Prompt 1:** In a couple of sentences, explain what you learned about how cryptocurrency works from this video.
+  - Skim [How the Crypto Industry and Regulations in Argentina Reflect the Complex Narrative of Economic Turbulence and Innovation](https://www.cryptopolitan.com/crypto-industry-and-regulations-in-argentina/)
+ - Read [Argentina’s $4.6 Billion Crypto Scandal; Largest-Ever Crypto Theft](https://www.forbes.com/sites/digital-assets/2025/02/24/argentinas-46-billion-crypto-scandal-largest-ever-crypto-theft/)
+  - **Prompt 2:** How can you reconcile the immutability of blockchain technologies with Crypto theft? Explain.
+
+- Watch [Interactive Malware Analysis and Threat Intelligence – ANY.RUN](https://youtu.be/Ts-ZCK9IRJE?feature=shared)
+- Complete [3.7 Lab: Malware Analysis](https://runestone.academy/ns/books/published/KIIS_security_2025/lab-malware-analysis.html)
+- If you finish the lab itself, visit the [ANY.RUNBlog](https://any.run/cybersecurity-blog/guides/) to learn how to explore malware analysis further.
+  - **Prompt 3:** What did you learn about malware analysis in this lab? Did anything surprise you? Explain.
+
+- Remember to complete your post-class reflection promptly.
+
+#### Day 4: Homework readings
+
+1. Read [Textbook Reading: Sections 4.1-4.4](https://runestone.academy/runestone/lti?assignment_id=222708), taking notes in your Fieldpad.
+1 Read [Blockchain Facts: What Is It, How It Works, and How It Can Be Used](https://www.investopedia.com/terms/b/blockchain.asp), taking notes in your Fieldpad.
+
+---
+
 ## Day 3: May 26, 2026, 9:00-10:15
 
 ### Day 3 Theme: Digging into Cryptography
@@ -18,7 +49,7 @@
   - **Prompt 1:** I chose to introduce [Crypto Corner](https://crypto.interactive-maths.com/help-with-activities.html) to make some of the ideas more concrete. Was there anything that you learned about cryptography that you didn't know before? Explain.
 
 - Your text mentions Docker.
-  - **Prompt 2:** Very briefly, what is [Docker](https://docs.docker.com/get-docker/)? Note: It is fine to look into this further online, but try to summarize it in your own words. 
+  - **Prompt 2:** Very briefly, what is [Docker](https://docs.docker.com/get-started/docker-overview/)? Note: It is fine to look into this further online, but try to summarize it in your own words. 
 
 - Your text mentions Github CodeSpaces.
   - **Prompt 3:** Very briefly, what are [GitHub Codespaces](https://docs.github.com/en/codespaces/about-codespaces/what-are-codespaces)? Again, it is fine to look into this further online, but try to summarize it in your own words. 
