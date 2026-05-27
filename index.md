@@ -15,8 +15,8 @@
 
 - Watch [What is Blockchain?](https://youtu.be/bBC-nXj3Ng4?si=kaiq2SLI4npMs)
   - **Prompt 1:** In a couple of sentences, explain what you learned about how cryptocurrency works from this video.
-  - Skim [How the Crypto Industry and Regulations in Argentina Reflect the Complex Narrative of Economic Turbulence and Innovation](https://www.cryptopolitan.com/crypto-industry-and-regulations-in-argentina/)
- - Read [Argentina’s $4.6 Billion Crypto Scandal; Largest-Ever Crypto Theft](https://www.forbes.com/sites/digital-assets/2025/02/24/argentinas-46-billion-crypto-scandal-largest-ever-crypto-theft/)
+- Skim [How the Crypto Industry and Regulations in Argentina Reflect the Complex Narrative of Economic Turbulence and Innovation](https://www.cryptopolitan.com/crypto-industry-and-regulations-in-argentina/)
+- Read [Argentina’s $4.6 Billion Crypto Scandal; Largest-Ever Crypto Theft](https://www.forbes.com/sites/digital-assets/2025/02/24/argentinas-46-billion-crypto-scandal-largest-ever-crypto-theft/)
   - **Prompt 2:** How can you reconcile the immutability of blockchain technologies with Crypto theft? Explain.
 
 - Watch [Interactive Malware Analysis and Threat Intelligence – ANY.RUN](https://youtu.be/Ts-ZCK9IRJE?feature=shared)
