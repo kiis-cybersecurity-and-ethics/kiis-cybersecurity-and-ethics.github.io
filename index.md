@@ -4,8 +4,6 @@
 
 ---
 
----
-
 ## Day 4: May 27, 2026, 9:00-10:15
 
 ### Day 4 Themes: Cryto and Malware
@@ -15,7 +13,7 @@
 - Discuss any questions on homework, [Tryhackme](https://tryhackme.com/dashboard), and final project
 - Complete [Peer Instruction: Chapter 3 Questions](https://runestone.academy/runestone/peer/student.html)
 
-- Watch [What is Blockchain?](https://youtu.be/bBC-nXj3Ng4?si=kaiq2SLI4npMsVV8)
+- Watch [What is Blockchain?](https://youtu.be/bBC-nXj3Ng4?si=kaiq2SLI4npMs)
   - **Prompt 1:** In a couple of sentences, explain what you learned about how cryptocurrency works from this video.
   - Skim [How the Crypto Industry and Regulations in Argentina Reflect the Complex Narrative of Economic Turbulence and Innovation](https://www.cryptopolitan.com/crypto-industry-and-regulations-in-argentina/)
  - Read [Argentina’s $4.6 Billion Crypto Scandal; Largest-Ever Crypto Theft](https://www.forbes.com/sites/digital-assets/2025/02/24/argentinas-46-billion-crypto-scandal-largest-ever-crypto-theft/)
@@ -31,7 +29,7 @@
 #### Day 4: Homework readings
 
 1. Read [Textbook Reading: Sections 4.1-4.4](https://runestone.academy/runestone/lti?assignment_id=222708), taking notes in your Fieldpad.
-1 Read [Blockchain Facts: What Is It, How It Works, and How It Can Be Used](https://www.investopedia.com/terms/b/blockchain.asp), taking notes in your Fieldpad.
+1. Read [Blockchain Facts: What Is It, How It Works, and How It Can Be Used](https://www.investopedia.com/terms/b/blockchain.asp), taking notes in your Fieldpad.
 
 ---
 
