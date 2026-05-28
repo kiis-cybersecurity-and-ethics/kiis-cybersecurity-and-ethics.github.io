@@ -4,6 +4,45 @@
 
 ---
 
+---
+
+## Day 5: May 28, 2026, 9:00-10:15
+
+### Day 5 Themes: Protocols
+
+#### Day 5 class
+
+- Discuss reading:
+  - what parts of the text need more explanation?
+  - There were a lot of protocols in the chapter. Were any of these confusing? If so, which ones?
+    - http vs https
+    - IPv4 vs IPv6
+  - Discuss the importance of secure protocols
+- Complete [Peer Instruction: Chapter 4 Questions](https://runestone.academy/runestone/peer/student.html)
+
+- I would like to focus a bit on IPv4 vs IPv6, so we will do a bit of a deep dive into that.
+  - Watch [IPv4 vs IPv6: How it works](https://youtu.be/RcszGnTC24E?feature=shared)
+  - Check your own IP address at [What is My IP Address?](https://whatismyipaddress.com/)
+  - Look at [Argentina IPv6 Global Ranking: 57](https://www.aelius.com/njh/google-ipv6/).
+  - **Prompt 1:** What do you think about Argentina's IPv6 ranking? Discuss your thoughts in your Fieldpad.
+
+- What is [Nmap](https://nmap.org/)?
+- Watch [Nmap Basic Port Scan](https://youtu.be/hIUIDHzarNo?feature=shared).
+- Complete [4.5. Lab: Scanning with Nmap](https://runestone.academy/ns/books/published/KIIS_security_2025/lab-scanning-with-nmap.html). Begin by forking [Codespace for Lab 4.5. Lab: Scanning with Nmap](https://github.com/pearcej/security-nmap) to your Github account.
+- Debrief
+- **Prompt 2:** What did you learn in this lab? Explain.
+
+- Remember to complete your post-class reflection.
+
+#### Day 5: Homework
+
+- Reminder [Final Project Proposal](final-project-proposal.md) is due Wednesday, June 3, 2025 8 sm
+1. Read [Textbook Reading: Sections 5.1-5.6](https://runestone.academy/ns/books/published/kiis_security_2026/ch5-attacks.html)
+1. Don't forget to complete your Fieldpad homework for Day 6.
+
+
+---
+
 ## Day 4: May 27, 2026, 9:00-10:15
 
 ### Day 4 Themes: Cryto and Malware
@@ -28,7 +67,7 @@
 
 #### Day 4: Homework readings
 
-1. Read [Textbook Reading: Sections 4.1-4.4](https://runestone.academy/runestone/lti?assignment_id=222708), taking notes in your Fieldpad.
+1. Read [Textbook Reading: Sections 4.1-4.4](https://runestone.academy/ns/books/published/kiis_security_2026/ch4-protocols.html), taking notes in your Fieldpad.
 1. Read [Blockchain Facts: What Is It, How It Works, and How It Can Be Used](https://www.investopedia.com/terms/b/blockchain.asp), taking notes in your Fieldpad. What are the main points of the article? What did you learn? Explain.
 
 ---
