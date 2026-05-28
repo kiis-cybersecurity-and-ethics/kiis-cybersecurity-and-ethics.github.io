@@ -26,9 +26,9 @@
   - Look at [Argentina IPv6 Global Ranking: 57](https://www.aelius.com/njh/google-ipv6/).
   - **Prompt 1:** What do you think about Argentina's IPv6 ranking? Discuss your thoughts in your Fieldpad.
 
-- What is [Nmap](https://nmap.org/)?
+- What is [Nmap](https://nmap.org/book/man.html#man-description)?
 - Watch [Nmap Basic Port Scan](https://youtu.be/hIUIDHzarNo?feature=shared).
-- Complete [4.5. Lab: Scanning with Nmap](https://runestone.academy/ns/books/published/KIIS_security_2025/lab-scanning-with-nmap.html). Begin by forking [Codespace for Lab 4.5. Lab: Scanning with Nmap](https://github.com/pearcej/security-nmap) to your Github account.
+- Complete [4.5. Lab: Scanning with Nmap](https://runestone.academy/ns/books/published/kiis_security_2026/lab-scanning-with-nmap.html). Begin by forking [Codespace for Lab 4.5. Lab: Scanning with Nmap](https://github.com/pearcej/security-nmap) to your Github account.
 - Debrief
 - **Prompt 2:** What did you learn in this lab? Explain.
 
@@ -36,9 +36,9 @@
 
 #### Day 5: Homework
 
-- Reminder [Final Project Proposal](final-project-proposal.md) is due Wednesday, June 3, 2025 8 sm
-1. Read [Textbook Reading: Sections 5.1-5.6](https://runestone.academy/ns/books/published/kiis_security_2026/ch5-attacks.html)
-1. Don't forget to complete your Fieldpad homework for Day 6.
+1. Reminder [Final Project Proposal](final-project-proposal.md) is due Wednesday, June 3, 2025 8 sm
+1. Read [Textbook Reading: Sections 5.1-5.6](https://runestone.academy/assignment/student/doAssignment?assignment_id=269755)
+1. Don't forget to complete your Fieldpad homework for Day 5.
 
 
 ---
@@ -59,7 +59,7 @@
   - **Prompt 2:** How can you reconcile the immutability of blockchain technologies with Crypto theft? Explain.
 
 - Watch [Interactive Malware Analysis and Threat Intelligence – ANY.RUN](https://youtu.be/Ts-ZCK9IRJE?feature=shared)
-- Complete [3.7 Lab: Malware Analysis](https://runestone.academy/ns/books/published/KIIS_security_2025/lab-malware-analysis.html)
+- Complete [3.7 Lab: Malware Analysis](https://runestone.academy/ns/books/published/kiis_security_2026/lab-malware-analysis.html)
 - If you finish the lab itself, visit the [ANY.RUNBlog](https://any.run/cybersecurity-blog/guides/) to learn how to explore malware analysis further.
   - **Prompt 3:** What did you learn about malware analysis in this lab? Did anything surprise you? Explain.
 
@@ -67,7 +67,7 @@
 
 #### Day 4: Homework readings
 
-1. Read [Textbook Reading: Sections 4.1-4.4](https://runestone.academy/ns/books/published/kiis_security_2026/ch4-protocols.html), taking notes in your Fieldpad.
+1. Read [Textbook Reading: Sections 4.1-4.4](https://runestone.academy/assignment/student/doAssignment?assignment_id=269758), taking notes in your Fieldpad.
 1. Read [Blockchain Facts: What Is It, How It Works, and How It Can Be Used](https://www.investopedia.com/terms/b/blockchain.asp), taking notes in your Fieldpad. What are the main points of the article? What did you learn? Explain.
 
 ---
