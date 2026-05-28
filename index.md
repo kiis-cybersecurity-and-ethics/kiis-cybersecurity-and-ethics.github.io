@@ -36,7 +36,7 @@
 
 #### Day 5: Homework
 
-1. Reminder [Final Project Proposal](final-project-proposal.md) is due Wednesday, June 3, 2025 8 sm
+1. Reminder [Final Project Proposal](final-project-proposal.md) is due Wednesday, June 3, 2025 8 am
 1. Read [Textbook Reading: Sections 5.1-5.6](https://runestone.academy/assignment/student/doAssignment?assignment_id=269755)
 1. Don't forget to complete your Fieldpad homework for Day 5.
 
