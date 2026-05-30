@@ -4,6 +4,38 @@
 
 ---
 
+
+## Day 6: June 1, 2026 9:00-10:15
+
+### Day 6 Theme: Attacks!!
+
+#### Day 6 class
+
+- Discuss reading:
+  - what parts of the text need more explanation?
+  - Discuss the importance of secure protocols
+- Complete [Peer Instruction: Chapter 5 Questions](https://runestone.academy/runestone/peer/student.html)
+
+- [FBI says ATM ‘jackpotting’ attacks are on the rise, and netting hackers millions in stolen cash](https://techcrunch.com/2026/02/19/fbi-says-atm-jackpotting-attacks-are-on-the-rise-and-netting-hackers-millions-in-stolen-cash/)
+- Read[What Will Stop Banking Fraud In Argentina In 2026?](https://ironvest.com/blog/what-will-stop-banking-fraud-in-argentina-in-2026/)
+- Read [Kentucky authorities warn of dangers of skimming devices](https://www.whas11.com/article/news/crime/skimming-devices-police-stores-how-to-protect-against/417-cc03cce2-3b75-4ce6-af03-f7c8b92d2cb2)
+- [Are Contactless Credit Cards the Safest Way to Pay?](https://www.cnet.com/personal-finance/credit-cards/are-contactless-credit-cards-the-safest-way-to-pay/)
+  - **Prompt 1:** Skimmers on atms and physical card readers are a type of MitM attack. How safe are you when you use one of these? Do you think your practices will change after reading these articles? Explain your thoughts in your Fieldpad.
+
+- Work through the following activities in class:
+  - [5.7 Lab: MitM with Scapy](https://runestone.academy/ns/books/published/KIIS_security_2025/lab-mitm-with-scapy.html)
+  - **Prompt 2:** What did you learn from the lab? Explain.
+
+- If time permits, work on your final project.
+
+- Remember to complete your post-class reflection.
+
+#### Day 6: Homework
+
+1. Read [Textbook Reading: Sections 6.1-6.8](https://runestone.academy/assignment/student/doAssignment?assignment_id=222727)
+1. Make progress on your final project.
+1. Don't forget to complete your Fieldpad homework for Day 7.
+
 ---
 
 ## Day 5: May 28, 2026, 9:00-10:15
@@ -31,6 +63,8 @@
 - Complete [4.5. Lab: Scanning with Nmap](https://runestone.academy/ns/books/published/kiis_security_2026/lab-scanning-with-nmap.html). Begin by forking [Codespace for Lab 4.5. Lab: Scanning with Nmap](https://github.com/pearcej/security-nmap) to your Github account.
 - Debrief
 - **Prompt 2:** What did you learn in this lab? Explain.
+
+- If time permits, work on your final project.
 
 - Remember to complete your post-class reflection.
 
