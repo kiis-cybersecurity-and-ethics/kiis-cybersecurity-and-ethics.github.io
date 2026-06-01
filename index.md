@@ -25,7 +25,7 @@
 
 - Work through the following activity in class:
   - [5.7 Lab: MitM with Scapy](https://runestone.academy/ns/books/published/kiis_security_2026/lab-mitm-with-scapy.html)
-  - **Prompt 2:** What did you learn from the lab? Explain.
+  - ~~**Prompt 2:** What did you learn from the lab? Explain.~~
 
 - If time permits, work on your final project.
 
