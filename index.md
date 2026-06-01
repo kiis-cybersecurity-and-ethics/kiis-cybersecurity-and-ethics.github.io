@@ -24,7 +24,7 @@
   - **Prompt 1:** Skimmers on atms and physical card readers are a type of MitM attack. How safe are you when you use one of these? Do you think your practices will change after reading these articles? Explain your thoughts in your Fieldpad.
 
 - Work through the following activity in class:
-  - [5.7 Lab: MitM with Scapy](https://runestone.academy/ns/books/published/KIIS_security_2025/lab-mitm-with-scapy.html)
+  - [5.7 Lab: MitM with Scapy](https://runestone.academy/ns/books/published/kiis_security_2026/lab-mitm-with-scapy.html)
   - **Prompt 2:** What did you learn from the lab? Explain.
 
 - If time permits, work on your final project.
