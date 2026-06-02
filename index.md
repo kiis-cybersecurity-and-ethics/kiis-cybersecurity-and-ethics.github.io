@@ -4,7 +4,42 @@
 
 ---
 
+## Day 7: June 3, 2026 9:00-10:00 (short day)
 
+### Day 7 Themes: Security Solutions and their Failures
+
+#### Day 7 class
+
+- Discuss the [Final Project Proposal](https://kiis-cybersecurity-and-ethics.github.io/final-project-proposal.html)
+- Discuss reading
+- Complete [Peer Instruction: Chapter 6 Questions](https://runestone.academy/runestone/peer/student.html)
+
+- What is [Crowdstrike](https://www.crowdstrike.com/en-us/about-us/)? Gemini says, "CrowdStrike is an American cybersecurity technology company that provides endpoint security, threat intelligence, and cyberattack response services. They help protect organizations from cyber threats and breaches using their advanced security platform, CrowdStrike Falcon."
+- Skim [2024 CrowdStrike-related IT outages](https://en.wikipedia.org/wiki/2024_CrowdStrike-related_IT_outages)
+  - **Prompt 1:** What do you think about the CrowdStrike outage? It was not a cyberattack, but some say it was worse, and it was due to a cybersecurity company! Explain your thoughts in your Fieldpad.
+
+- Let's try again to work through the following activity in class:
+  - [5.7 Lab: MitM with Scapy](https://runestone.academy/ns/books/published/kiis_security_2026/lab-mitm-with-scapy.html)
+  - **Prompt 2:** What did you learn from the lab? Did you figure out why you had difficulties last time? Explain.
+
+- Complete [6.9 Lab: Exploiting Log4j](https://runestone.academy/ns/books/published/kiis_security_2026/lab-exploiting-log4j.html)
+  - **Prompt 3:** What did you learn from the lab? Did you have any difficulties? Explain.
+
+- If time permits, work on your final project.
+
+- Remember to complete your post-class reflection.
+
+#### Day 7: Homework
+
+- In preparation for the work tomorrow, go to [TryHackMe: Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1) and glance through the content. If you are already familiar with Linux, this room will go quickly and you can move on to [TryHackMe: Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2), if not it will go more slowly. Either is fine. I would like for you to spend 30 minutes and just get as far as you get.
+  - In your filedpad report how far you got and what you learned about Linux from this/these room(s). 
+1. Read [Textbook Reading: Sections 7.1-7.3](https://runestone.academy/assignment/student/doAssignment?assignment_id=223016)
+1. Don't forget to complete your Fieldpad homework.
+1. Make progress on your final project.
+
+
+---
+  
 ## Day 6: June 1, 2026 9:00-10:00 (short day)
 
 ### Day 6 Theme: Attacks!!
