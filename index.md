@@ -31,12 +31,10 @@
 
 #### Day 7: Homework
 
-- In preparation for the work tomorrow, go to [TryHackMe: Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1) and glance through the content. If you are already familiar with Linux, this room will go quickly and you can move on to [TryHackMe: Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2), if not it will go more slowly. Either is fine. I would like for you to spend 30 minutes and just get as far as you get.
-  - In your filedpad report how far you got and what you learned about Linux from this/these room(s). 
-1. Read [Textbook Reading: Sections 7.1-7.3](https://runestone.academy/assignment/student/doAssignment?assignment_id=223016)
-1. Don't forget to complete your Fieldpad homework.
+1. In preparation for the work tomorrow, go to [TryHackMe: Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1) and glance through the content. If you are already familiar with Linux, this room will go quickly and you can move on to [TryHackMe: Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2), if not it will go more slowly. Either is fine. I would like for you to spend 30 minutes and just get as far as you get.
+1. In your Fieldpad, report how far you got and what you learned about Linux from this/these Tryhackme room(s). 
+1. Read [Textbook Reading: Sections 7.1-7.3](https://runestone.academy/assignment/student/doAssignment?assignment_id=223016) Don't forget to complete your Fieldpad homework for the reading.
 1. Make progress on your final project.
-
 
 ---
   
