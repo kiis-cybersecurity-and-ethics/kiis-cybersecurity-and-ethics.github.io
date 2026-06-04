@@ -5,9 +5,12 @@
 This proposal serves as the foundation for your final presentation and report. You will identify a specific cybersecurity threat, outline your research approach, and compile relevant resources to support your analysis.
 
 ## Proposal Requirements
-**Project Title** A concise and descriptive title for your project.
+**Project Title** A descriptive workingtitle for your project. (You can change this working title later if needed.)
+
 **Name:** Your full name
+
 **Length:** ~1 page, single-spaced, 12-point font, 1-inch margins  
+
 **Format:** Professionally written document with clear section headers  
 
 ## Required Sections
