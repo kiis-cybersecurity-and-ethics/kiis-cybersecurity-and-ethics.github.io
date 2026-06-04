@@ -4,6 +4,36 @@
 
 ---
 
+## Day 8: June 4, 2026 9:00-10:30 (long day)
+
+### Day 8 Themes: Access Control and Linux File Permissions
+
+#### Day 8 class
+
+- Discuss reading and project progress
+- Complete [Peer Instruction: Chapter 7 Question](https://runestone.academy/runestone/peer/student.html)
+
+- Read[Is Linux Safe from Hackers?](https://www.geeksforgeeks.org/blogs/is-linux-safe-from-hackers/)
+  - **Prompt 1:** What were you surprised to learn about Linux security? Explain your thoughts in your Fieldpad.
+
+- Read [This critical Linux vulnerability is putting millions of systems at risk - how to protect yours](https://www.zdnet.com/article/critical-copy-fail-vulnerability-affecting-linux-systems-how-to-mitigate/)
+- Read [New Linux 'Dirty Frag' zero-day gives root on all major distros](https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/)
+- Read [The third major Linux kernel flaw in two weeks has been found - thanks to AI](https://www.zdnet.com/article/third-major-linux-kernel-flaw-in-two-weeks-found-by-ai/)
+- Read [Linux is getting a security wake-up call - why it was inevitable and I'm not worried](https://www.zdnet.com/article/linux-security-wake-up-call-copy-fail-dirty-frag-why-inevitable/)
+  - **Prompt 2:** What do you think about the Linux vulnerabilities described in these articles? Do you think they are a big deal? Why or why not? Explain your thoughts in your Fieldpad.
+
+Let's complete the lab:
+- [7.4 Lab: Linux File Permissions](https://runestone.academy/ns/books/published/kiis_security_2026/lab-linux-file-permissions.html)
+  - **Prompt 1:** What did you learn about Linux file permissions in this lab? Did you have any difficulties? Explain.
+
+#### Day 8: Homework
+
+1. Read [Textbook Reading: Sections 8.1-8.2](https://runestone.academy/assignment/student/doAssignment?assignment_id=270803) Don't forget to complete your Fieldpad homework for the reading.
+1. Make progress on your final project.
+
+
+---
+
 ## Day 7: June 3, 2026 9:00-10:00 (short day)
 
 ### Day 7 Themes: Security Solutions and their Failures
@@ -33,7 +63,7 @@
 
 1. In preparation for the work tomorrow, go to [TryHackMe: Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1) and glance through the content. If you are already familiar with Linux, this room will go quickly and you can move on to [TryHackMe: Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2), if not it will go more slowly. Either is fine. I would like for you to spend 30 minutes and just get as far as you get.
 1. In your Fieldpad, report how far you got and what you learned about Linux from this/these Tryhackme room(s). 
-1. Read [Textbook Reading: Sections 7.1-7.3](https://runestone.academy/assignment/student/doAssignment?assignment_id=223016) Don't forget to complete your Fieldpad homework for the reading.
+1. Read [Textbook Reading: Sections 7.1-7.3](https://runestone.academy/assignment/student/doAssignment?assignment_id=269752) Don't forget to complete your Fieldpad homework for the reading.
 1. Make progress on your final project.
 
 ---
