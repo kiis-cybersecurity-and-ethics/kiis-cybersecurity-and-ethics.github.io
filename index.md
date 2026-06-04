@@ -22,9 +22,11 @@
 - Read [Linux is getting a security wake-up call - why it was inevitable and I'm not worried](https://www.zdnet.com/article/linux-security-wake-up-call-copy-fail-dirty-frag-why-inevitable/)
   - **Prompt 2:** What do you think about the Linux vulnerabilities described in these articles? Do you think they are a big deal? Why or why not? Explain your thoughts in your Fieldpad.
 
-Let's complete the lab:
+- Let's complete the lab:
 - [7.4 Lab: Linux File Permissions](https://runestone.academy/ns/books/published/kiis_security_2026/lab-linux-file-permissions.html)
   - **Prompt 3:** What did you learn about Linux file permissions in this lab? Did you have any difficulties? Explain.
+
+- If time permits, work on your final project.
 
 #### Day 8: Homework
 
