@@ -13,18 +13,18 @@
 - Discuss reading and project progress
 - Complete [Peer Instruction: Chapter 7 Question](https://runestone.academy/runestone/peer/student.html)
 
-- Read[Is Linux Safe from Hackers?](https://www.geeksforgeeks.org/blogs/is-linux-safe-from-hackers/)
+- Read [Is Linux Safe from Hackers?](https://www.geeksforgeeks.org/blogs/is-linux-safe-from-hackers/)
   - **Prompt 1:** What were you surprised to learn about Linux security? Explain your thoughts in your Fieldpad.
 
 - Read [This critical Linux vulnerability is putting millions of systems at risk - how to protect yours](https://www.zdnet.com/article/critical-copy-fail-vulnerability-affecting-linux-systems-how-to-mitigate/)
 - Read [New Linux 'Dirty Frag' zero-day gives root on all major distros](https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/)
 - Read [The third major Linux kernel flaw in two weeks has been found - thanks to AI](https://www.zdnet.com/article/third-major-linux-kernel-flaw-in-two-weeks-found-by-ai/)
 - Read [Linux is getting a security wake-up call - why it was inevitable and I'm not worried](https://www.zdnet.com/article/linux-security-wake-up-call-copy-fail-dirty-frag-why-inevitable/)
-  - **Prompt 2:** What do you think about the Linux vulnerabilities described in these articles? Do you think they are a big deal? Why or why not? Explain your thoughts in your Fieldpad.
+  - **Prompt 1:** What do you think about the Linux vulnerabilities described in these articles? Do you think they are a big deal? Why or why not? Explain your thoughts in your Fieldpad.
 
 Let's complete the lab:
 - [7.4 Lab: Linux File Permissions](https://runestone.academy/ns/books/published/kiis_security_2026/lab-linux-file-permissions.html)
-  - **Prompt 1:** What did you learn about Linux file permissions in this lab? Did you have any difficulties? Explain.
+  - **Prompt 2:** What did you learn about Linux file permissions in this lab? Did you have any difficulties? Explain.
 
 #### Day 8: Homework
 
