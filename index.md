@@ -4,6 +4,35 @@
 
 ---
 
+## Day 9: June 8, 2026 9:00-10:30 (long day)
+
+### Day 9 Themes: Virtualization and Projects
+
+#### Day 9 class
+
+- Complete [Peer Instruction: Chapter 9 Questions](https://runestone.academy/runestone/peer/student.html)
+
+- Read [Explain Nessus tool in security testing](https://www.geeksforgeeks.org/software-testing/explain-nessus-tool-in-security-testing/)
+  - **Prompt 1:** Briefly explain the purpose of Nessus.
+
+- Register for [Nessus](https://www.tenable.com/tenable-nessus-for-education) and install it on your computer. Then complete the following lab.
+
+- Complete [8.3 Lab: Scanning with Nessus](https://runestone.academy/ns/books/published/kiis_security_2026/lab-scanning-with-nessus.html)
+  - **Prompt 2:** What did you learn about vulnerability scanning in this lab? Explain.
+
+- Optional 1: Watch [
+Nessus Tutorial for Beginners: Vulnerability Management (PUT THIS ON YOUR RESUME!)](https://www.youtube.com/watch?v=lT6Px9zJM3s)
+- Optional 2: OR Work on your final project.
+
+- Remember to complete your post-class reflection.
+
+#### Day 9: Homework
+
+1. Make progress on your final project.
+1. Be sure to submit your slides to Google Classroom by 8 am on Monday, June 23, 2025.
+
+---
+
 ## Day 8: June 4, 2026 9:00-10:30 (long day)
 
 ### Day 8 Themes: Access Control and Linux File Permissions
