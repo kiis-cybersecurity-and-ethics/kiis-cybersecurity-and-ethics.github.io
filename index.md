@@ -6,7 +6,7 @@
 
 ## Day 9: June 8, 2026 9:00-10:30 (long day)
 
-### Day 9 Themes: Virtualization and Projects
+### Day 9 Themes: Vulnerability Management and Scanning
 
 #### Day 9 class
 
