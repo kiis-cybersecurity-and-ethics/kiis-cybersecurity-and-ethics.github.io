@@ -20,16 +20,15 @@
 - Complete [8.3 Lab: Scanning with Nessus](https://runestone.academy/ns/books/published/kiis_security_2026/lab-scanning-with-nessus.html)
   - **Prompt 2:** What did you learn about vulnerability scanning in this lab? Explain.
 
-- Optional 1: Watch [
-Nessus Tutorial for Beginners: Vulnerability Management (PUT THIS ON YOUR RESUME!)](https://www.youtube.com/watch?v=lT6Px9zJM3s)
+- Optional 1: Watch [Nessus Tutorial for Beginners: Vulnerability Management (PUT THIS ON YOUR RESUME!)](https://www.youtube.com/watch?v=lT6Px9zJM3s)
 - Optional 2: OR Work on your final project.
 
 - Remember to complete your post-class reflection.
 
 #### Day 9: Homework
 
+1. Read [Textbook Reading: Sections 9.1-9.5](https://runestone.academy/assignment/student/doAssignment?assignment_id=269750) Don't forget to complete your Fieldpad homework for the reading.
 1. Make progress on your final project.
-1. Be sure to submit your slides to Google Classroom by 8 am on Monday, June 23, 2025.
 
 ---
 
