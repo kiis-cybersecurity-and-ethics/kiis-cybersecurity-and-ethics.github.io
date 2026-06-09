@@ -4,13 +4,40 @@
 
 ---
 
+## Day 10: June 9, 2026 9:00-10:30 (long day)
+
+### Day 10 Themes: Incident Response and Vulnerability Management
+
+#### Day 10 class
+
+- Discuss textbook reading and project progress
+- Complete [Peer Instruction: Chapter 9 Questions](https://runestone.academy/runestone/peer/student.html)
+
+- Watch [The Hack That Destroyed a Hollywood Studio](https://youtu.be/7zNbcWuZRzg?si=uXB4HsMlLPwjt8RV)
+  - **Prompt 1:** What surprised you most about this incident? Explain.
+  - **Prompt 2:** Imagine you work in the security operations center at Sony. Come up with two different groups that should receive a disclosure from Sony as a result of the 2014 breach. Write a disclosure email for each of them, detailing what happened, what the response was, and what the effect on the party is. Be sure to keep your audience in mind when determining how much detail and what types of things should be discussed in the email.
+
+- Read [2014 Sony Pictures hack](https://en.wikipedia.org/wiki/2014_Sony_Pictures_hack) which offers more details about the incident. Feel free to use AI to help you if you want to.
+  - **Prompt 3:** What mistakes do you think were made in response to this incident? Explain.
+
+- Work on your final project.
+
+- Remember to complete your post-class reflection.
+
+#### Day 10: Homework
+
+1. Read [Textbook Reading: Sections 10.1-10.4](https://runestone.academy/assignment/student/doAssignment?assignment_id=269749) Don't forget to complete your Fieldpad homework for the reading.
+1. Make progress on your final project.
+
+---
+
 ## Day 9: June 8, 2026 9:00-10:30 (long day)
 
 ### Day 9 Themes: Vulnerability Management and Scanning
 
 #### Day 9 class
 
-- Complete [Peer Instruction: Chapter 9 Questions](https://runestone.academy/runestone/peer/student.html)
+- Complete [Peer Instruction: Chapter 8 Questions](https://runestone.academy/runestone/peer/student.html)
 
 - Read [Explain Nessus tool in security testing](https://www.geeksforgeeks.org/software-testing/explain-nessus-tool-in-security-testing/)
   - **Prompt 1:** Briefly explain the purpose of Nessus.
