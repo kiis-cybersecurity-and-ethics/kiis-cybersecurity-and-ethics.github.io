@@ -6,7 +6,7 @@
 
 ## Day 10: June 9, 2026 9:00-10:30 (long day)
 
-### Day 10 Themes: Incident Response and Vulnerability Management
+### Day 10 Themes: Incident Response and Management
 
 #### Day 10 class
 
