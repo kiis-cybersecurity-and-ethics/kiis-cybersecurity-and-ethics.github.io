@@ -4,6 +4,33 @@
 
 ---
 
+## Day 11: June 11, 2026 9:00-10:30 (long day)
+
+### Day 11 Themes: Virtualization and Projects
+
+#### Day 11 class
+
+- Discuss textbook reading and project progress
+- Complete [Peer Instruction: Chapter 10 Questions](https://runestone.academy/runestone/peer/student.html)
+
+- We have been running our labs in Codespaces, so let;s learn about security in codespaces. Read [GitHub Codespaces Security](https://docs.github.com/en/codespaces/reference/security-in-github-codespaces).
+ - **Prompt 1:** What did you learn about GitHub Codespaces security? Explain.
+ - **Prompt 2:** Was anything confusing? If so, look it up and describe what you learned.
+
+- Complete [10.5 Lab: Malicious Containers](https://runestone.academy/ns/books/published/KIIS_security_2025/lab-malicious-containers.html)
+  - **Prompt 3:** What did you learn in this lab? Did you have any difficulties? Explain.
+
+- Work on your final project.
+
+- Remember to complete your post-class reflection.
+
+#### Day 11: Homework
+
+1. Make progress on your final project. Remember the project slides and report are due on June 16, 2026 at 8 am.
+1. Please try to have a solid draft of at least your project slides by class on June 15, 2026. We will be doing peer review of the projects in class on June 15, so having drafts will allow you to get feedback from your peers to improve your project before the final version is due on June 16, 2026.
+
+---
+
 ## Day 10: June 9, 2026 9:00-10:30 (long day)
 
 ### Day 10 Themes: Incident Response and Management
