@@ -4,6 +4,34 @@
 
 ---
 
+## Day 12: June 15, 2026 9:00-10:30 (long day)
+
+### Day 12 Themes: Peer Review and Final Project Work
+
+#### Day 12 class
+
+- We are going to spend most of own time working in teams or 2-3 people to give feedback on each other's final projects. (I am hoping to do two rounds, so you get feedback from two different people.) 
+- Please be constructive and helpful in your feedback. Here are some guidelines for giving feedback:
+  1. First, read your partner's proposal so you know what they are trying to accomplish.
+  1. Then present your final project presentation to one another using your laptop as the screen. Make sure everyone in your group has a chance to present and to receive feedback before moving on to the reports. Here be constructive feedback, including:
+    - Is the presentation well organized and easy to understand and follow?
+    - Do the slides follow all of the project requirements?
+    - Are there any areas where the presentation could be made even better in terms of clarity or depth? 
+    - Are there any areas where the presentation could be made more interesting or engaging?
+  -After hearing feedback on your presentation, write a brief reflection in your Fieldpad about the feedback you received and how you will use it to improve your presentation.
+  - **Prompt 1:** What useful suggestion(s) for improving your presentation did you hear? Explain.
+  - If time permits, read earch other's project reports carefully so you can provide feedback on the written report.
+  - **Prompt 2:** What (if any) useful suggestions for improving their report did you hear? Explain.
+
+- In the summary section of the Fieldpad, discuss how effective you thought this class session was for improving your project. What worked well? What could have been improved? Explain.
+
+#### Day 12: Homework
+
+1. Complete and submit your final project by June 16, 2026 at 8 am. Remember to submit both the slides and the report.
+1. In your Fieldpad, describe the process of completing your final project. What did you learn? What was difficult? What was enjoyable? Explain.
+
+---
+
 ## Day 11: June 11, 2026 9:00-10:30 (long day)
 
 ### Day 11 Themes: Virtualization and Projects
@@ -14,8 +42,8 @@
 - Complete [Peer Instruction: Chapter 10 Questions](https://runestone.academy/runestone/peer/student.html)
 
 - We have been running our labs in Codespaces, so let;s learn about security in codespaces. Read [GitHub Codespaces Security](https://docs.github.com/en/codespaces/reference/security-in-github-codespaces).
- - **Prompt 1:** What did you learn about GitHub Codespaces security? Explain.
- - **Prompt 2:** Was anything confusing? If so, look it up and describe what you learned.
+  - **Prompt 1:** What did you learn about GitHub Codespaces security? Explain.
+  - **Prompt 2:** Was anything confusing? If so, look it up and describe what you learned.
 
 - Complete [10.5 Lab: Malicious Containers](https://runestone.academy/ns/books/published/KIIS_security_2025/lab-malicious-containers.html)
   - **Prompt 3:** What did you learn in this lab? Did you have any difficulties? Explain.
