@@ -19,6 +19,7 @@
     - Are there any areas where the presentation could be made even better in terms of clarity or depth? 
     - Are there any areas where the presentation could be made more interesting or engaging?
   - After hearing feedback on your presentation, do **Prompt 1:** What useful suggestion(s) for improving your presentation did you hear? Explain.
+  
 - If time permits, read earch other's project reports carefully so you can provide feedback on the written report.
   - **Prompt 2:** What (if any) useful suggestions for improving their report did you hear? Explain.
 
