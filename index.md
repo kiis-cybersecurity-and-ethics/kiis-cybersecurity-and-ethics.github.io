@@ -4,7 +4,7 @@
 
 ---
 
-## Day 12: June 15, 2026 9:00-10:30 (long day)
+## Day 12: June 15, 2026 9:00-10:45 (very long day)
 
 ### Day 12 Themes: Peer Review and Final Project Work
 
