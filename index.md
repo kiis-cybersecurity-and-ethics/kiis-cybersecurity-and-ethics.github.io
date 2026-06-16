@@ -24,9 +24,9 @@
 1. In your Fieldpad, reflect on the course specifically:
   - Estimate the time you spent on the course on average between each class session, not counting the time you worked on the final project. Explain.
   - Estimate the time you spent on your final project. Explain.
-  - Describe the most important things that you learned in the course, not inclding on the project. Explain why you found these things important.
-  - Describe the most important things you learned in your project, and why you found them important.
   - Please comment on what you experienced as the most positive aspect(s) of the course.
+  - Describe the most important things that you learned in the course. Explain why you found these things important.
+  - Describe the most important things you learned in your project, and why you found them important.
   - Please comment on the materials, namely the textbook, labs, and TryHackme content. Explain how useful you found each of them.
   - Please comment on any changes you would recommend for future offerings of the course, and explain why you think these changes would be helpful to future students..  
 
